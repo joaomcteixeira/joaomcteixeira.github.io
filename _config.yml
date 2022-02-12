@@ -13,19 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
-description: >- # this means to ignore newlines until "baseurl:"
+title: João M.C. Teixeira
+email: joaomcteixeira [at] gmail [dot] com
+description:
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+twitter_username: joaomcteixeira
+github_username: joaomcteixeira
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -57,35 +59,54 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# These are the social media links appearing in the left panel
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "João M.C. Teixeira"
+  avatar : "/assets/images/photo_joao_circle.jpeg"
+  bio    : "Experimental and computational structural biologist."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "viviendomochileros"
+      icon: "fas fa-fw fa-mountain"
+      url: "https://www.viviendomochileros.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/joaomcteixeira"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/joaomcteixeira"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/joaomcteixeira/"
+    - label: "ORCID"
+      icon: "fab fa-fw fa-orcid"
+      url: "http://orcid.org/0000-0002-9113-0622"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google"
+      url: "http://goo.gl/D5n37X"
+    - label: "Research Gate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Joao_Teixeira12"
+    - label: "Pubmed"
+      icon: "fab fa-fw fa-book"
+      url: "https://bit.ly/jmctpubmed"
+    - label: "Feed"
+      icon: "fas fa-fw fa-rss-square"
+      url: "/feed.xml"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/v"
 
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#footer:
+#  links:
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -113,3 +134,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+google_analytics: G-MXD8PFDC8R
