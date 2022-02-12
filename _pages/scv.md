@@ -201,7 +201,7 @@ solutions for particular problems. You can find my posts at
   **Organic & Biomolecular Chemistry** *2011*, 9 (14), 5047–5050. <https://doi.org/10.1039/C1OB05524K>
 {: reversed="reversed"}
 
-# Research in the news
+# Newspapers highlights
 
 1. "Entre cães e gatos, galinhas e chimpanzés há animais imunes e susceptíveis ao SARS-CoV-2". [Publico.pt](https://www.publico.pt/2020/11/18/ciencia/noticia/caes-gatos-galinhas-chimpanzes-ha-animais-imunes-susceptiveis-sarscov2-1939100), **2020**
 1. "Así es el coronavirus que ha mutado en Dinamarca". [El País](https://elpais.com/ciencia/2020-11-06/asi-es-el-coronavirus-que-ha-mutado-en-dinamarca.html), **2020**
@@ -234,6 +234,8 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 {: reversed="reversed"}
 
 # Scientific Workshops
+
+*Workshops I organized or participated as tutor*
 
 1. "Protein docking"  
   EMBL-EBI Structural Bioinformatics virtual course 2021  
@@ -434,6 +436,24 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 
 * Organized “Treasures of the RI”  
   Display of the Molecular Medicine Program. SickKids, Toronto, Canada. **February 2020**.
+
+# Courses attended
+
+* **2021**. "Inferential Statistical Analysis with Python", Coursera Course Certificate, [certificate](https://www.coursera.org/account/accomplishments/certificate/3WD9D549A33B).
+* **2019**, "Academic Writing in English", Series of workshops and classes, School of Graduate Studies, University of Toronto, Canada.
+* **2017**, "Environmental Omics Integration & Modelling, International Workshop", Cosmo Caixa, Barcelona, Spain.
+* **2017**, CECAM Workshop: "Disordered protein segments: revisiting the structure-function paradigm", Paris, France.
+* **2015**, "Python for Scientists", University of Barcelona, Spain.
+* **2015**, "Advanced Isotopic Labelling Methods for Integrated Structural Biology", AILM2015, International Workshop, IBS-Grenoble, France.
+* **2014**, "Communication and Scientific Culture", Campus Gutenberg, Universitat Pompeu Fabra, Spain.
+* **2014**, "Iniciació a la utilizació dels equips de RMN, Varian en mode automàtic", University of Barcelona, Spain.
+* **2013**, "Advanced methods for the investigation of other structural data with NMR data", CERM, University of Florence, Italy.
+* **2012**, "Principles and rules for security and accident prevention in CERM’s laboratories", CERM, University of Florence, Italy.
+* **2012**, "Learn to Program: The Fundamentals", Cousera.org, University of Toronto, Canada.
+* **2012**, "Introduction to the Python Programming language", V Edition. CEV – University of Granada, Spain.
+* **2012**, "Writing in Sciences", Cousera.org – Standford University, USA.
+* **2009**, "Biomedical Magnetic Resonance: Molecular Imaging and Metabolism", Center for Neuroscience and Cell Biology PDBEB Program, Portugal.
+* **2007**, 7th Short Course of the Portuguese Biophysical Society – Biospectroscopy and Imaging. Portuguese Biophysical Society, Portugal.
 
 # Other Academic Activities
 
