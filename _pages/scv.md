@@ -8,9 +8,19 @@ toc_sticky: true
 # Current Position
 
 **Postdoctoral Researcher.**  *Since July 2021*  
+Lead Python software engineer/structural biologist developing [HADDOCK v3][hd3]  
 [Dr. Alexandre Bonvin's Lab][abl], Computational Structural Biology Group  
 [Bijvoet Center for Biomolecular Research][bjv], Science for Life, Faculty of Science - Chemistry  
 [Utrecht University][uu], [Link to UU profile][uup]  
+
+> HADDOCK3 is the new version of the HADDOCK2.x series which is the
+world’s most used docking platform for scientific research with +26,000 users
+and +400,000 jobs served worldwide since 2008. While version 2 was based on a
+predefined protocol, version 3 is a fully modular pipeline allowing the user to
+construct his/her docking workflows. The HADDOCK3 code and project is
+open-source and is [hosted at GitHub][hd3]. The HADDOCK project is part of the
+European funded [BioExcel platform][biox], the [WeNMR grid][wenmr], and the
+[INSTRUCT-ERIC consortiums][instruct].  
 
 # Education
 
@@ -94,7 +104,7 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
 
 # Scientific Software
 
-*Published scientific software I developed or for which I was part of the lead developing team*
+*Most relevant public scientific software I developed or for which I was part of the lead developing team*
 
 1. [HADDOCK3][hd3]:High-Ambiguity Driven Docking version 3
 1. [Python Project Skeleton][ppt]: a full-featured continuous integration template for scientific software
@@ -103,8 +113,16 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
 1. [FarSeer-NMR][fsn]: multidimensional NMR peaklists data analysis
 1. [mdacli][mdacli]: A command-line tool for MDAnalysis
 
-Also, I enjoy writing about advanced programming concepts and possible
-solutions for particular problems. You can find my posts at
+Experienced Python software engineer. Highly proficient in both Object Oriented
+programming and Functional Programming in Python and git. Almost 20 years of
+experience with Linux systems and bash scripting. Experienced with Python
+Numpy, Pandas, Numba, and matplotlib. Good experience with R data frames and
+plotting with ggplot2. Able to quickly learn other programming languages,
+workflows, or platforms. Experienced and able to comply with Continuous
+Integration practices and best practices for team software development. Able to
+work in team, supervise, manage, and collaborate, as well as perform
+independently. Also, I enjoy writing about advanced programming concepts and
+possible solutions for particular problems. You can find my posts at
 [DEV.to][devto] and [PythonicThoughtsSnippets][pts]. Highlighted articles:
 
 * [Rethinking Python decorators](https://dev.to/joaomcteixeira/rethinking-python-decorators-2g53)
@@ -137,7 +155,7 @@ solutions for particular problems. You can find my posts at
   [Pre-print @bioRxiv](https://doi.org/10.1101/2020.06.05.136861)  
 
 1. "Structural Models of Human ACE2 Variants with SARS-CoV-2 Spike Protein for Structure-Based Drug Design"  
-  Sorokina, M.; **Teixeira, J. M. C.**; Barrera-Vilarmau, S.; Paschke, R.; Papasotiriou, I.; Rodrigues, J. P. G. L. M.; Kastritis, P. L.  
+  Sorokina, M.#; **Teixeira, J. M. C.#**; Barrera-Vilarmau, S.#; Paschke, R.#; Papasotiriou, I.#; Rodrigues, J. P. G. L. M.#; Kastritis, P. L.#  
   **Scientific Data** *2020*, 7 (1), 309. <https://doi.org/10.1038/s41597-020-00652-6> (:unlock: open-access)  
 
 1. "Extended Experimental Inferential Structure Determination Method in Determining the Structural Ensembles of Disordered Protein States"
@@ -391,7 +409,7 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 * **2017**, [Josemari Urtasun Elizari](https://www.linkedin.com/in/josemari-urtasun-elizari-391173138/). BioNMR Group, University of Barcelona, Spain. Master Thesis: “New mechanisms of c-Src regulation”. Supervisor: Prof. Dr. Miquel Pons Vallès.
 * **2017**, Héctor Fuentes de la Osa. BioNMR Group, University of Barcelona, Spain. BSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Prof. Dr. Miquel Pons Vallès.
 * **2015**, [Guillermo Iruela Martin](https://www.linkedin.com/in/guilleiruma/), BSc. BioNMR Group, University of Barcelona, Spain. Theme: Clonning of recombinant proteins. Supervisor: Prof. Dr. Miquel Pons Vallès.
-* **2015**, [Simone Höfler](https://www.linkedin.com/in/simonehoefler-976754a2/), BSc. BioNMR Group, University of Barcelona, Spain. MSc Thesis: Insights into modulation of the interaction between the Unique and SH3 domains in Src Family kinases.” Supervisor: Prof. Dr. Miquel Pons Valles.
+* **2015**, [Simone Höfler](https://www.linkedin.com/in/simonehoefler-976754a2/), BSc. BioNMR Group, University of Barcelona, Spain. MSc Thesis: "Insights into modulation of the interaction between the Unique and SH3 domains in Src Family kinases.” Supervisor: Prof. Dr. Miquel Pons Valles.
 * **2014**, [Pedro Garcia Lorente](https://www.linkedin.com/in/pedrogarcialorente/), Bsc & Msc. BioNMR Group, University of Barcelona, Spain. Bachelor’s Thesis: Evaluation of the oxidative potential of YmoB Protein. Supervisor: Prof. Dr. Miquel Pons Vallès.
 * **2012**, [Tommaso Martelli](https://www.linkedin.com/in/tommasomartelli/), PhD. CERM, University of Florence, Italy. Theme: Molecular Biology techniques for the expression of Matrix Metalloproteinases constructurs. Supervisor: Prof. Dr. Claudio Luchinat.
 * **2009**, [David M. Dias](https://www.linkedin.com/in/david-miguel-dias/). Licentiate Thesis, CNC, University of Coimbra, Portugal. Licentiate Thesis: Strategies for protein-ligand binding evaluation by STD-NMR. Supervisor: Carlos F.G.C. Geraldes.
@@ -566,3 +584,6 @@ support a leader.
 [SD]: https://es-es.facebook.com/pg/speleodiscovery/posts/ "Speleo Discovery"
 [tkdvrsa]: https://es-la.facebook.com/Taekwondo-Clube-de-Vila-Real-de-Santo-Ant%C3%B3nio-224049924386230/ "TKD VRSA"
 [vvmc]: https://viviendomochileros.com/2018/08/02/mountaineering-courses/ "Mountaineering training"
+[biox]: https://bioexcel.ebi.ac.uk/ "BioExcel"
+[wenmr]: https://www.wenmr.eu/ "WeNMR"
+[instruct]: https://instruct-eric.eu/ "INSTRUCT-ERIC"
