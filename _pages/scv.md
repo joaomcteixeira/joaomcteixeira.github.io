@@ -107,7 +107,7 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
 *Most relevant public scientific software I developed or for which I was part of the lead developing team*
 
 1. [HADDOCK3][hd3]:High-Ambiguity Driven Docking version 3
-1. [Python Project Skeleton][ppt]: a full-featured continuous integration template for scientific software
+1. [Python Project Skeleton][pps]: a full-featured continuous integration template for scientific software
 1. [pdb-tools][ppt]: a swiss army knife for manipulating and editing PDB files
 1. [taurenmd][tmd]: a command client for analysis of molecular simulations
 1. [FarSeer-NMR][fsn]: multidimensional NMR peaklists data analysis
