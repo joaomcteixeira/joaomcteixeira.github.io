@@ -135,7 +135,7 @@ possible solutions for particular problems. You can find my posts at
 
 1. "Protein Dynamics to Define and Refine Protein Ensembles"  
   Pavithra, N.; Haghighatlari, M.; Ashley, N.; **Teixeira, J. M. C.**; Jie, L.; Zhang, O.; Gradinaru, C.; Forman-Kay, J.; Head-Gordon, T.  
-  **Journal of Physical Chemistry** *(under review)*  
+  **Journal of Physical Chemistry** *2022* *(accepted)* <https://doi.org/10.1021/acs.jpcb.1c10925>  
 
 1. "A Methionine Chemical Shift Based Order Parameter Characterizing Global Protein Dynamics"  
   Chashmniam, S.#; **Teixeira, J. M. C.#**; Paniagua, J. C.; Pons, M.  
