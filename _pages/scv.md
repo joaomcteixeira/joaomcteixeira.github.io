@@ -347,6 +347,8 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 
 **Main presenting author:**
 
+1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
+  EMBO-Workshop: Advances and challenges in biomolecular workshop, 2021. Virtual conference.
 1. "Automated NMR Data treatment of simple and complex experimental datasets"  
   CECAM Workshop 2017: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France.
 1. "Farseer - Automatic treatment, calculation and plotting of NMR data. Reducing weeks to seconds"  
