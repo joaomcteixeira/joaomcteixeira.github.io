@@ -233,6 +233,28 @@ Invited by Dr Neil D. Rawlings. EMBL-European Bioinformatics Institute alumnus. 
 Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 *(Currently under review)*
 
+# Collaborators
+
+*Past and present main collaborators in successful research projects*
+
+* [Julie Forman-Kay][jfk]
+* [Teresa Head-Gordon][thg]
+* [Claudio Gradinaru][gradinaru]
+* [Alexandre Bonvin][abl]
+* [João Rodrigues][JP]
+* [Panagiotis Kastritis][pk]
+* [Brian Jiménez-García][bjg]
+* [Wiktor Koźmiński][wk]
+* [Thomas Wood][th]
+* [Marie-Jose Bijlmakers][mjb]
+* [Bernat Crosas][bc]
+* [Ignacio Fita Rodriguez][ignacio]
+* [Serge Roche][sroche]
+* [Alexander Breeze][alb]
+* [Jesús Jiménez-Barbero][jjb]
+* [Eva Tóth][evat]
+* [David Parker][dparker]
+
 # Peer review
 
 *Peer-reviewer for the following editorials*
@@ -549,9 +571,13 @@ situations. Able to work in team and independently.  Able to lead and to
 support a leader.
 
 [JP]: https://www.joaor.eu/ "Dr João Rodrigues"
+[SD]: https://es-es.facebook.com/pg/speleodiscovery/posts/ "Speleo Discovery"
 [abl]: https://www.bonvinlab.org "Alexandre Bonvin Lab Webpage"
 [alb]: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/35/professor-alex-breeze
+[bc]: https://www.ibmb.csic.es/en/staff-member/bernat-crosas/ "Bernat Crossas"
+[biox]: https://bioexcel.ebi.ac.uk/ "BioExcel"
 [biu]: http://bionmr.ub.edu/index.php "BioNMR UB"
+[bjg]: https://bjimenezgarcia.com/ "Brian Jiménez-García"
 [bjv]: https://www.uu.nl/en/research/bijvoet-centre-for-biomolecular-research "Bijvoet Centre"
 [brito]: https://www.uc.pt/fctuc/dquimica/rbritolab/members/rmb "Dr Rui Brito"
 [cerm]: https://www.cerm.unifi.it/ "CERM"
@@ -560,10 +586,15 @@ support a leader.
 [clu]: https://www.cerm.unifi.it/about-us/people/claudio-luchinat "Dr Claudio Luchinat"
 [cnc]: https://www.cnc.uc.pt/en "Centre for Neuroscience and Cell Biology"
 [devto]: https://dev.to/joaomcteixeira "DEV.to JMCT"
+[dparker]: https://www.durham.ac.uk/staff/david-parker/ "David Parker"
 [ejc]: https://docentes.fct.unl.pt/ejc/ "Dr Eurico J Cabrita"
+[evat]: http://cbm.cnrs-orleans.fr/en/contact/jakab-toth-eva-2/ "Eva Toth"
 [fsn]: https://bit.ly/3tKD0I5 "FarSeer-NMR"
+[gradinaru]: https://www.utm.utoronto.ca/gradinaru-lab/ "Claudiu Gradinaru"
 [hd3]: https://github.com/haddocking/haddock3 "HADDOCK3"
 [hugo]: https://www.uu.nl/medewerkers/HvanIngen "Dr Hugo van Ingen"
+[ignacio]: https://www.ibmb.csic.es/en/staff-member/ignacio-fita-rodriguez/ "Ignacio Fita"
+[instruct]: https://instruct-eric.eu/ "INSTRUCT-ERIC"
 [jfk]: http://biochemistry.utoronto.ca/person/julie-d-forman-kay/  "Dr Julie Forman-Kay"
 [jjb]: https://www.cicbiogune.es/people/jjbarbero "Jesús Jiménez-Barbero"
 [ku]: https://cuni.cz/uken-1.html "Charles University"
@@ -571,23 +602,26 @@ support a leader.
 [levitt]: https://med.stanford.edu/levitt.html "Dr Michael Levitt"
 [lic]: https://bit.ly/2QPT0cY "Degree thesis"
 [mdacli]: https://github.com/MDAnalysis/mdacli "mdacli"
+[mjb]: https://www.linkedin.com/in/marie-jose-bijlmakers-52b9b512 "Marie-Jose Bijlmakers"
 [mrna]: https://mrnauc.wordpress.com/ "mRNA Mensageiro"
 [phd]: http://bit.ly/jmctPhDThesis "PhD Thesis"
+[pk]: https://blogs.urz.uni-halle.de/kastritislab/ "Kastritis Laboratory"
 [pps]: https://bit.ly/2QNBczw "Python Project-Skeleton"
 [ppt]: https://bit.ly/32Cqpuu "pdb-tools"
 [ptnmr]: http://ptnmr.web.ua.pt/ "PTNMR"
 [ptr]: http://web.natur.cuni.cz/anorchem/19/Old/Her.htm "Petr Hermann"
 [pts]: https://pythonicthoughtssnippets.github.io/ "Pythonic Thoughts Snippets"
 [skids]: https://www.sickkids.ca/ "SickKids"
+[sroche]: https://www.crbm.cnrs.fr/tyrosine-kinases-et-cancer/ "Serge Roche"
 [su]: https://bit.ly/susanabv "Susana Barrera Vilarmau"
+[th]: https://sites.psu.edu/woodgroup/ "Thomas Wood"
+[thg]: https://thglab.berkeley.edu/ "Teresa Head-Gordon"
+[tkdvrsa]: https://es-la.facebook.com/Taekwondo-Clube-de-Vila-Real-de-Santo-Ant%C3%B3nio-224049924386230/ "TKD VRSA"
 [tmd]: https://bit.ly/3sGqnwd "taurenmd"
 [ub]: https://www.ub.edu/web/portal/ "University of Barcelona"
 [uc]: https://www.uc.pt/en "University of Coimbra"
 [uu]: https://www.uu.nl/en "Utrecht University"
 [uup]: https://www.uu.nl/staff/mobile/JMCorreiaTeixeira "JMCT UU Profile"
-[SD]: https://es-es.facebook.com/pg/speleodiscovery/posts/ "Speleo Discovery"
-[tkdvrsa]: https://es-la.facebook.com/Taekwondo-Clube-de-Vila-Real-de-Santo-Ant%C3%B3nio-224049924386230/ "TKD VRSA"
 [vvmc]: https://viviendomochileros.com/2018/08/02/mountaineering-courses/ "Mountaineering training"
-[biox]: https://bioexcel.ebi.ac.uk/ "BioExcel"
 [wenmr]: https://www.wenmr.eu/ "WeNMR"
-[instruct]: https://instruct-eric.eu/ "INSTRUCT-ERIC"
+[wk]: http://nmr.cent3.uw.edu.pl/kozminski "Wiktor Koźmiński"
