@@ -278,7 +278,7 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
   Seminar and Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, **7th-11th of May 2018**.  
   [PTNMR][ptnmr], University of Coimbra, Portugal.  
   Hosted by: [Dr. Rui Brito][brito]  
-  **Speaker**  
+  **Organizer and Speaker**  
 
 1. "2D- and 3D-NMR Processing and Analysis with introduction to CCPNMR Analysis Suite v2.4."
   Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, **7th-11th of May 2018**.  
@@ -294,6 +294,7 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 1. "Introductory workshops on Farseer-NMR Software."  
   [CIC bioGUNE Institute][cic] of the Bizkaia Technology Park and the University of Basque Country, Spain, **2017**.
   Hosted by: [Dr. Jesús Jiménez-Barbero][jjb]  
+  **Organizer and Speaker**  
 {: reversed="reversed"}
 
 # Oral Communications
