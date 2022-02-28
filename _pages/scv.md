@@ -135,88 +135,110 @@ possible solutions for particular problems. You can find my posts at
 
 1. "Protein Dynamics to Define and Refine Protein Ensembles"  
   Pavithra, N.; Haghighatlari, M.; Ashley, N.; **Teixeira, J. M. C.**; Jie, L.; Zhang, O.; Gradinaru, C.; Forman-Kay, J.; Head-Gordon, T.  
-  **Journal of Physical Chemistry** *2022* *(accepted)* <https://doi.org/10.1021/acs.jpcb.1c10925>  
+  **Journal of Physical Chemistry** *2022* *(accepted)*  
+   <https://doi.org/10.1021/acs.jpcb.1c10925>  
 
 1. "A Methionine Chemical Shift Based Order Parameter Characterizing Global Protein Dynamics"  
   Chashmniam, S.#; **Teixeira, J. M. C.#**; Paniagua, J. C.; Pons, M.  
-  **ChemBioChem** 2021, 22, 1001–1004. <https://doi.org/10.1002/cbic.202000701>  
+  **ChemBioChem** 2021, 22, 1001–1004.  
+   <https://doi.org/10.1002/cbic.202000701>  
 
 1. "PDB-Tools Web: A User-Friendly Interface for the Manipulation of PDB Files"  
   Jiménez‐García, B.; **Teixeira, J. M. C.**; Trellet, M.; Rodrigues, J. P. G. L. M.; Bonvin, A. M. J. J.  
-  **Proteins: Structure, Function, and Bioinformatics** *2021*, 89 (3), 330–335. <https://doi.org/10.1002/prot.26018> (:unlock: open-access)  
+  **Proteins: Structure, Function, and Bioinformatics** *2021*, 89 (3), 330–335.  
+   <https://doi.org/10.1002/prot.26018> (:unlock: open-access)  
 
-1. "Taurenmd: A Command-Line Interface for Analysis of Molecular Dynamics Simulations"
-   **Teixeira, J. M. C.@**
-   **Journal of Open Source Software** *2020*, 5 (50), 2175. <https://doi.org/10.21105/joss.02175> (:unlock: open-access)  
+1. "Taurenmd: A Command-Line Interface for Analysis of Molecular Dynamics Simulations"  
+   **Teixeira, J. M. C.@**  
+   **Journal of Open Source Software** *2020*, 5 (50), 2175.  
+    <https://doi.org/10.21105/joss.02175> (:unlock: open-access)  
 
 1. "Insights on Cross-Species Transmission of SARS-CoV-2 from Structural Modeling"  
   Rodrigues, J. P.; Barrera-Vilarmau, S.#; **Teixeira, J. M. C.#**; Seckel, E.; Kastritis, P.; Levitt, M.  
-  **PLOS Computational Biology** *2020*, 16, e1008449. <https://doi.org/10.1371/journal.pcbi.1008449> (:unlock: open-access)  
-  [Pre-print @bioRxiv](https://doi.org/10.1101/2020.06.05.136861)  
+  **PLOS Computational Biology** *2020*, 16, e1008449.  
+   <https://doi.org/10.1371/journal.pcbi.1008449> (:unlock: open-access)  
+   [Pre-print @bioRxiv](https://doi.org/10.1101/2020.06.05.136861) (:unlock: open-access)  
 
 1. "Structural Models of Human ACE2 Variants with SARS-CoV-2 Spike Protein for Structure-Based Drug Design"  
   Sorokina, M.#; **Teixeira, J. M. C.#**; Barrera-Vilarmau, S.#; Paschke, R.#; Papasotiriou, I.#; Rodrigues, J. P. G. L. M.#; Kastritis, P. L.#  
-  **Scientific Data** *2020*, 7 (1), 309. <https://doi.org/10.1038/s41597-020-00652-6> (:unlock: open-access)  
+  **Scientific Data** *2020*, 7 (1), 309.  
+   <https://doi.org/10.1038/s41597-020-00652-6> (:unlock: open-access)  
 
-1. "Extended Experimental Inferential Structure Determination Method in Determining the Structural Ensembles of Disordered Protein States"
-  Lincoff, J.; Haghighatlari, M.; Krzeminski, M.; **Teixeira, J. M. C.**; Gomes, G.-N. W.; Gradinaru, C. C.; Forman-Kay, J. D.; Head-Gordon, T.
-  **Communications Chemistry** *2020*, 3 (1), 1–12. <https://doi.org/10.1038/s42004-020-0323-0> [Pre-print @arxiv](https://arxiv.org/abs/1912.12582) (:unlock: open-access)
+1. "Extended Experimental Inferential Structure Determination Method in Determining the Structural Ensembles of Disordered Protein States"  
+  Lincoff, J.; Haghighatlari, M.; Krzeminski, M.; **Teixeira, J. M. C.**; Gomes, G.-N. W.; Gradinaru, C. C.; Forman-Kay, J. D.; Head-Gordon, T.  
+  **Communications Chemistry** *2020*, 3 (1), 1–12.
+   <https://doi.org/10.1038/s42004-020-0323-0>  
+   [Pre-print @arxiv](https://arxiv.org/abs/1912.12582) (:unlock: open-access)
 
 1. "Cis-Trans Proline Isomers in the Catalytic Domain of Calcineurin"  
   **Teixeira, J. M. C.**; Guasch, A.; Biçer, A.; Aranguren‐Ibáñez, Á.; Chashmniam, S.; Paniagua, J. C.; Pérez‐Riba, M.; Fita, I.; Pons, M.  
-  **The FEBS Journal** *2019*, 286 (6), 1230–1239. <https://doi.org/10.1111/febs.14721> (:unlock: open-access)  
+  **The FEBS Journal** *2019*, 286 (6), 1230–1239.  
+   <https://doi.org/10.1111/febs.14721> (:unlock: open-access)  
 
 1. "A Myristoyl-Binding Site in the SH3 Domain Modulates c-Src Membrane Anchoring"  
   Le Roux, A.-L.; Mohammad, I.-L.; Mateos, B.; Arbesú, M.; Gairí, M.; Khan, F. A.; **Teixeira, J. M. C.**; Pons, M.  
-  **iScience** *2019*, 12, 194–203. <https://doi.org/10.1016/j.isci.2019.01.010> (:unlock: open-access)  
+  **iScience** *2019*, 12, 194–203.  
+   <https://doi.org/10.1016/j.isci.2019.01.010> (:unlock: open-access)  
 
 1. "Pdb-Tools: A Swiss Army Knife for Molecular Structures"  
   Rodrigues, J. P. G. L. M.; **Teixeira, J. M. C.**; Trellet, M.; Bonvin, A. M. J. J.  
-  **F1000Res** *2018*, 7, 1961. <https://doi.org/10.12688/f1000research.17456.1> (:unlock: open-access)  
+  **F1000Res** *2018*, 7, 1961.  
+   <https://doi.org/10.12688/f1000research.17456.1> (:unlock: open-access)  
 
 1. "The Two Isoforms of Lyn Display Different Intramolecular Fuzzy Complexes with the SH3 Domain"  
   **Teixeira, J. M. C.**; Fuentes, H.; Bielskutė, S.; Gairi, M.; Żerko, S.; Koźmiński, W.; Pons, M.  
-  **Molecules** *2018*, 23 (11), 2731. <https://doi.org/10.3390/molecules23112731> (:unlock: open-access)  
+  **Molecules** *2018*, 23 (11), 2731.  
+   <https://doi.org/10.3390/molecules23112731> (:unlock: open-access)  
 
 1. "Farseer-NMR: Automatic Treatment, Analysis and Plotting of Large, Multi-Variable NMR Data"  
   **Teixeira, J. M. C.@**; Skinner, S. P.; Arbesú, M.; Breeze, A. L.; Pons, M.  
-  **Journal Biomolecular NMR** *2018*, 71 (1), 1–9. <https://doi.org/10.1007/s10858-018-0182-5> (:unlock: open-access)  
+  **Journal Biomolecular NMR** *2018*, 71 (1), 1–9.  
+   <https://doi.org/10.1007/s10858-018-0182-5> (:unlock: open-access)  
 
 1. "Intramolecular Fuzzy Interactions Involving Intrinsically Disordered Domains"  
   Arbesú, M.; Iruela, G.; Fuentes, H.; **Teixeira, J. M. C.**; Pons, M.  
-  **Frontiers Molecular Biosciences** *2018*, 5. <https://doi.org/10.3389/fmolb.2018.00039> (:unlock: open-access)  
+  **Frontiers Molecular Biosciences** *2018*, 5.  
+   <https://doi.org/10.3389/fmolb.2018.00039> (:unlock: open-access)  
 
 1. "The Unique Domain Forms a Fuzzy Intramolecular Complex in Src Family Kinases"  
   Arbesú, M.; Maffei, M.; Cordeiro, T. N.; **Teixeira, J. M. C.**; Pérez, Y.; Bernadó, P.; Roche, S.; Pons, M.  
-  **Structure** *2017*, 25 (4), 630-640.e4. <https://doi.org/10.1016/j.str.2017.02.011> (:unlock: open-access)  
+  **Structure** *2017*, 25 (4), 630-640.e4.  
+   <https://doi.org/10.1016/j.str.2017.02.011> (:unlock: open-access)  
 
 1. "An Oxygen-Sensitive Toxin-Antitoxin System"  
   Marimon, O.; **Teixeira, J. M. C.**; Cordeiro, T. N.; Soo, V. W. C.; Wood, T. L.; Mayzel, M.; Amata, I.; García, J.; Morera, A.; Gay, M.; Vilaseca, M.; Orekhov, V. Y.; Wood, T. K.; Pons, M.  
-  **Nat Commun** *2016*, 7, 13634. <https://doi.org/10.1038/ncomms13634> (:unlock: open-access)  
+  **Nature Communications** *2016*, 7, 13634.  
+   <https://doi.org/10.1038/ncomms13634> (:unlock: open-access)  
 
-1. "A C2HC Zinc Finger Is Essential for the RING-E2 Interaction of the Ubiquitin Ligase RNF12"
-  Bijlmakers, M.-J.; **Teixeira, J. M. C.**; Boer, R.; Mayzel, M.; Puig-Sàrries, P.; Karlsson, G.; Coll, M.; Pons, M.; Crosas, B.
-  **Scientific Reports** *2016*, 6 (1), 29232. <https://doi.org/10.1038/srep29232> (:unlock: open-access)
+1. "A C2HC Zinc Finger Is Essential for the RING-E2 Interaction of the Ubiquitin Ligase RNF12"  
+  Bijlmakers, M.-J.; **Teixeira, J. M. C.**; Boer, R.; Mayzel, M.; Puig-Sàrries, P.; Karlsson, G.; Coll, M.; Pons, M.; Crosas, B.  
+  **Scientific Reports** *2016*, 6 (1), 29232.  
+   <https://doi.org/10.1038/srep29232> (:unlock: open-access)
 
-1. "A Bis(Pyridine N-Oxide) Analogue of DOTA: Relaxometric Properties of the Gd(III) Complex and Efficient Sensitization of Visible and NIR-Emitting Lanthanide(III) Cations Including Pr(III) and Ho(III)"
-  Martins, A. F.; Eliseeva, S. V.; Carvalho, H. F.; **Teixeira, J. M. C.**; Paula, C. T. B.; Hermann, P.; Platas-Iglesias, C.; Petoud, S.; Tóth, E.; Geraldes, C. F. G. C.
-  **Chemistry** *2014*, 20 (45), 14834–14845. <https://doi.org/10.1002/chem.201403856>
+1. "A Bis(Pyridine N-Oxide) Analogue of DOTA: Relaxometric Properties of the Gd(III) Complex and Efficient Sensitization of Visible and NIR-Emitting Lanthanide(III) Cations Including Pr(III) and Ho(III)"  
+  Martins, A. F.; Eliseeva, S. V.; Carvalho, H. F.; **Teixeira, J. M. C.**; Paula, C. T. B.; Hermann, P.; Platas-Iglesias, C.; Petoud, S.; Tóth, E.; Geraldes, C. F. G. C.  
+  **Chemistry** *2014*, 20 (45), 14834–14845.  
+   <https://doi.org/10.1002/chem.201403856>
 
-1. "Examination of Matrix Metalloproteinase-1 in Solution A PREFERENCE FOR THE PRE-COLLAGENOLYSIS STATE"
-  Cerofolini, L.; Fields, G. B.; Fragai, M.; Geraldes, C. F. G. C.; Luchinat, C.; Parigi, G.; Ravera, E.; Svergun, D. I.; **Teixeira, J. M. C.**
-  **Journal of Biological Chemistry** *2013*, 288 (42), 30659–30671. <https://doi.org/10.1074/jbc.M113.477240> (:unlock: open-access)
+1. "Examination of Matrix Metalloproteinase-1 in Solution A PREFERENCE FOR THE PRE-COLLAGENOLYSIS STATE"  
+  Cerofolini, L.; Fields, G. B.; Fragai, M.; Geraldes, C. F. G. C.; Luchinat, C.; Parigi, G.; Ravera, E.; Svergun, D. I.; **Teixeira, J. M. C.**  
+  **Journal of Biological Chemistry** *2013*, 288 (42), 30659–30671.  
+   <https://doi.org/10.1074/jbc.M113.477240> (:unlock: open-access)
 
-1. "The Catalytic Domain of MMP-1 Studied through Tagged Lanthanides"
-  Bertini, I.; Calderone, V.; Cerofolini, L.; Fragai, M.; Geraldes, C. F. G. C.; Hermann, P.; Luchinat, C.; Parigi, G.; **Teixeira, J. M. C.**
-  **FEBS Letters** *2012*, 586 (5), 557–567. <https://doi.org/10.1016/j.febslet.2011.09.020> (:unlock: open-access)
+1. "The Catalytic Domain of MMP-1 Studied through Tagged Lanthanides"  
+  Bertini, I.; Calderone, V.; Cerofolini, L.; Fragai, M.; Geraldes, C. F. G. C.; Hermann, P.; Luchinat, C.; Parigi, G.; **Teixeira, J. M. C.**  
+  **FEBS Letters** *2012*, 586 (5), 557–567.  
+   <https://doi.org/10.1016/j.febslet.2011.09.020> (:unlock: open-access)
 
-1. "The Interaction of La3+ Complexes of DOTA/DTPA Glycoconjugates with the RCA120 Lectin: A Saturation Transfer Difference NMR Spectroscopic Study"
-  **Teixeira, J. M. C.**; Dias, D. M.; Cañada, F. J.; Martins, J. A.; André, J. P.; Jiménez-Barbero, J.; Geraldes, C. F. G. C.
-  **Journal of Biological Inorganic Chemistry** *2011*, 16 (5), 725. <https://doi.org/10.1007/s00775-011-0773-z>
+1. "The Interaction of La3+ Complexes of DOTA/DTPA Glycoconjugates with the RCA120 Lectin: A Saturation Transfer Difference NMR Spectroscopic Study"  
+  **Teixeira, J. M. C.**; Dias, D. M.; Cañada, F. J.; Martins, J. A.; André, J. P.; Jiménez-Barbero, J.; Geraldes, C. F. G. C.  
+  **Journal of Biological Inorganic Chemistry** *2011*, 16 (5), 725.  
+   <https://doi.org/10.1007/s00775-011-0773-z>
 
-1. "Enantioselective Binding of a Lanthanide(III) Complex to Human Serum Albumin Studied by 1H STD NMR Techniques"
-  Dias, D. M.; **Teixeira, J. M. C.**; Kuprov, I.; New, E. J.; Parker, D.; Geraldes, C. F. G. C.
-  **Organic & Biomolecular Chemistry** *2011*, 9 (14), 5047–5050. <https://doi.org/10.1039/C1OB05524K>
+1. "Enantioselective Binding of a Lanthanide(III) Complex to Human Serum Albumin Studied by 1H STD NMR Techniques"  
+  Dias, D. M.; **Teixeira, J. M. C.**; Kuprov, I.; New, E. J.; Parker, D.; Geraldes, C. F. G. C.  
+  **Organic & Biomolecular Chemistry** *2011*, 9 (14), 5047–5050.  
+   <https://doi.org/10.1039/C1OB05524K>
 {: reversed="reversed"}
 
 # Newspapers highlights
