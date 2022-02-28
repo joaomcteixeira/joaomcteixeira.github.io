@@ -301,6 +301,8 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 
 **Invited:**
 
+1. "Modelling Intrinsically Disorder Proteins by experimental data."  
+  SickKids Postdoctoral Seminar Series, **2021**.
 1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin. Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal. 2018
 {: reversed="reversed"}
 
@@ -318,8 +320,6 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 
 **As visiting researcher:**
 
-1. "Modelling Intrinsically Disorder Proteins by experimental data."  
-  SickKids Postdoctoral Seminar Series, **2021**.
 1. "A summary of the Farseer-NMR project and its current state."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**. Hosted by: Dr. Julie Forman-Kay. [Download slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)
 1. "Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction."  
