@@ -353,7 +353,8 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 **In scientific meetings:**
 
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
-  International Symposium on Grids & Clouds (ISGC) 2022 Virtual Conference. (to be held March 20-25th).
+  International Symposium on Grids & Clouds (ISGC) 2022 Virtual Conference. (to be held March 20-25th).  
+  [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing)
 1. "Effective open-science practices for organizing a scientific software repository - short"  
   OSCU Open Science Symposium - Faculty of Science **2021**, Utrecht University, Netherlands. [Download slides](https://osf.io/ghfbr/)  
 1. "Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1".  
