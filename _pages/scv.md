@@ -353,10 +353,12 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 **In scientific meetings:**
 
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
-  International Symposium on Grids & Clouds (ISGC) 2022 Virtual Conference. (to be held March 20-25th).  
-  [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing)
+  International Symposium on Grids & Clouds (ISGC) **20-25th March 2022**, Virtual Conference.  
+  [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing)  
+  [Download slides](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
 1. "Effective open-science practices for organizing a scientific software repository - short"  
-  OSCU Open Science Symposium - Faculty of Science **2021**, Utrecht University, Netherlands. [Download slides](https://osf.io/ghfbr/)  
+  OSCU Open Science Symposium - Faculty of Science **2021**, Utrecht University, Netherlands.  
+  [Download slides](https://osf.io/ghfbr/)  
 1. "Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1".  
   EJIBCE **2013**, Oporto, Portugal.  
 1. "Characterizing MMP-1 Internal Dynamics."  
@@ -393,6 +395,9 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 
 **Main presenting author:**
 
+1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
+   Bijvoet Symposium, April 2022. Utrecht, The Netherlands.  
+   [Download poster](https://docs.google.com/drawings/d/1mugVBskoWBD1gRrI2CNreVI3SkLineGf6c-l8YOrF9E/edit?usp=sharing)
 1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
   EMBO-Workshop: Advances and challenges in biomolecular workshop, 2021. Virtual conference.
 1. "Automated NMR Data treatment of simple and complex experimental datasets"  
