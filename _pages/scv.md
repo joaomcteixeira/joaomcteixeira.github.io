@@ -133,14 +133,23 @@ possible solutions for particular problems. You can find my posts at
 *by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "Effective open-science practices for organizing a scientific software repository"  
+   **Teixeira, J. M. C.**; Rodrigues, J. P. G. L. M.; Bonvin, A. M. J. J.  
+   **Proceedings of Science** *2022* *(submitted)*
+
+1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
+   Li, J.; Zhang, O.; Lee, S.; Namini, A.; Liu, Z. H.; **Teixeira, J. M. C.**; Forman-Kay, J. D.; Head-Gordon, T.  
+   **arXiv** *2022* *(preprint)*  
+   <https://doi.org/10.48550/arXiv.2205.04676> (:unlock: open-access)  
+
 1. "Protein Dynamics to Define and Refine Protein Ensembles"  
-  Pavithra, N.; Haghighatlari, M.; Ashley, N.; **Teixeira, J. M. C.**; Jie, L.; Zhang, O.; Gradinaru, C.; Forman-Kay, J.; Head-Gordon, T.  
-  **Journal of Physical Chemistry** *2022* *(accepted)*  
+  Pavithra, N.; Haghighatlari, M.; Ashley, N.; **Teixeira, J. M. C.**; Li, J.; Zhang, O.; Gradinaru, C.; Forman-Kay, J.; Head-Gordon, T.  
+  **Journal of Physical Chemistry B** *2022*, 126, 9, 1885-1894.  
    <https://doi.org/10.1021/acs.jpcb.1c10925>  
 
 1. "A Methionine Chemical Shift Based Order Parameter Characterizing Global Protein Dynamics"  
   Chashmniam, S.#; **Teixeira, J. M. C.#**; Paniagua, J. C.; Pons, M.  
-  **ChemBioChem** 2021, 22, 1001–1004.  
+  **ChemBioChem** *2021*, 22, 1001–1004.  
    <https://doi.org/10.1002/cbic.202000701>  
 
 1. "PDB-Tools Web: A User-Friendly Interface for the Manipulation of PDB Files"  
@@ -154,7 +163,7 @@ possible solutions for particular problems. You can find my posts at
     <https://doi.org/10.21105/joss.02175> (:unlock: open-access)  
 
 1. "Insights on Cross-Species Transmission of SARS-CoV-2 from Structural Modeling"  
-  Rodrigues, J. P.; Barrera-Vilarmau, S.#; **Teixeira, J. M. C.#**; Seckel, E.; Kastritis, P.; Levitt, M.  
+  Rodrigues, J. P. G. L. M.; Barrera-Vilarmau, S.#; **Teixeira, J. M. C.#**; Seckel, E.; Kastritis, P.; Levitt, M.  
   **PLOS Computational Biology** *2020*, 16, e1008449.  
    <https://doi.org/10.1371/journal.pcbi.1008449> (:unlock: open-access)  
    [Pre-print @bioRxiv](https://doi.org/10.1101/2020.06.05.136861) (:unlock: open-access)  
@@ -249,11 +258,11 @@ possible solutions for particular problems. You can find my posts at
 
 # Book chapters
 
-"Matrix Metallopeptidase-1/Interstitial Collagenase."  
-Handbook of Proteolytic Enzymes Fourth Edition, 4th Edition, Elsevier.  
-Invited by Dr Neil D. Rawlings. EMBL-European Bioinformatics Institute alumnus. 34
-Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
-*(Currently under review)*
+1. "Matrix Metallopeptidase-1/Interstitial Collagenase."  
+   **Handbook of Proteolytic Enzymes**, 4th Edition, *Elsevier*.  
+   Invited by Dr Neil D. Rawlings. EMBL-European Bioinformatics Institute alumnus. 34
+   Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859  
+   *(Currently under review)*
 
 # Collaborators
 
@@ -300,45 +309,47 @@ Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859
 *Workshops I organized or participated as tutor*
 
 1. "Protein docking"  
-  EMBL-EBI Structural Bioinformatics virtual course 2021  
   **Hands-on Session tutor**  
+  EMBL-EBI Structural Bioinformatics virtual course, 11-15th October, *2021*  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data – knowledge exchange within the community."  
-  NMR Groups at Utrecht University and Leiden, The Netherlands. *2018*.  
-  Hosted by: [Dr. Hugo van Ingen][hugo]. [Download slides](https://www.researchgate.net/publication/328108180_Workshop_at_Utrecht_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
   **Organizer and speaker**  
+  NMR Groups at Utrecht University and Leiden, The Netherlands. *2018*.  
+  Hosted by: [Dr. Hugo van Ingen][hugo].  
+  [Download slides](https://www.researchgate.net/publication/328108180_Workshop_at_Utrecht_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data."  
-  Parc Cientific de Barcelona, CCiTUB, University of Barcelona, Spain. **2018**
-  Hosteg by: NMR Facility of the University of Barcelona. [Download slides](https://www.researchgate.net/publication/325796312_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
   **Organizer and speaker**  
+  Parc Cientific de Barcelona, CCiTUB, University of Barcelona, Spain. *2018*.  
+  Hosteg by: NMR Facility of the University of Barcelona.  
+  [Download slides](https://www.researchgate.net/publication/325796312_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data"  
-  Nuclear Magnetic Resonance Spectroscopy Facility, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal. **9th May 2018**  
+  **Organizer and speaker**  
+  Nuclear Magnetic Resonance Spectroscopy Facility, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal. *9th May 2018*  
   Hosted by: [Dr. Eurico J. Cabrita][ejc]  
-  **Organizer and speaker**  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data"  
-  Seminar and Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, **7th-11th of May 2018**.  
+  **Organizer and Speaker**  
+  Seminar and Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, *7th-11th of May 2018*.  
   [PTNMR][ptnmr], University of Coimbra, Portugal.  
   Hosted by: [Dr. Rui Brito][brito]  
-  **Organizer and Speaker**  
 
 1. "2D- and 3D-NMR Processing and Analysis with introduction to CCPNMR Analysis Suite v2.4."
-  Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, **7th-11th of May 2018**.  
+  **Speaker**  
+  Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, *7th-11th of May 2018*.  
   [PTNMR][ptnmr], University of Coimbra, Portugal.  
   Hosted by: [Dr. Rui Brito][brito]  
-  **Speaker**  
 
 1. "Chemical Shift Perturbation – Protein Based Studies"  
-  Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, **7th-11th of May 2018**  
-  [PTNMR][ptnmr], University of Coimbra, Portugal.  
   **Speaker**  
+  Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, *7th-11th of May 2018*  
+  [PTNMR][ptnmr], University of Coimbra, Portugal.  
 
 1. "Introductory workshops on Farseer-NMR Software."  
-  [CIC bioGUNE Institute][cic] of the Bizkaia Technology Park and the University of Basque Country, Spain, **2017**.
-  Hosted by: [Dr. Jesús Jiménez-Barbero][jjb]  
   **Organizer and Speaker**  
+  [CIC bioGUNE Institute][cic] of the Bizkaia Technology Park and the University of Basque Country, Spain, *2017*.
+  Hosted by: [Dr. Jesús Jiménez-Barbero][jjb]  
 {: reversed="reversed"}
 
 # Oral Communications
