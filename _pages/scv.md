@@ -614,7 +614,7 @@ support a leader.
 [abl]: https://www.bonvinlab.org "Alexandre Bonvin Lab Webpage"
 [alb]: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/35/professor-alex-breeze
 [bc]: https://www.ibmb.csic.es/en/staff-member/bernat-crosas/ "Bernat Crossas"
-[biox]: https://bioexcel.ebi.ac.uk/ "BioExcel"
+[biox]: https://bioexcel.eu/ "BioExcel"
 [biu]: http://bionmr.ub.edu/index.php "BioNMR UB"
 [bjg]: https://bjimenezgarcia.com/ "Brian Jiménez-García"
 [bjv]: https://www.uu.nl/en/research/bijvoet-centre-for-biomolecular-research "Bijvoet Centre"
