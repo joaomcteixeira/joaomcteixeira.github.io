@@ -356,9 +356,14 @@ possible solutions for particular problems. You can find my posts at
 
 **Invited:**
 
+1. "Modular code for a modular software: developing HADDOCK3".  
+  [Instruct][instruct] Software Developers Exchange Webinar 5  
+  *(to be held)* June 10th, **2022**.  
+  [twitter post](https://twitter.com/joaomcteixeira/status/1529025387224768512)
 1. "Modelling Intrinsically Disorder Proteins by experimental data."  
   SickKids Postdoctoral Seminar Series, **2021**.
-1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin. Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal. 2018
+1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.  
+  Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal. **2018**
 {: reversed="reversed"}
 
 **In scientific meetings:**
