@@ -306,7 +306,7 @@ possible solutions for particular problems. You can find my posts at
 
 # Scientific Workshops
 
-*Workshops I organized or participated as tutor*
+*Organized workshops and participations as lecturer or tutor*
 
 1. "Protein docking"  
   **Hands-on Session tutor**  
@@ -354,55 +354,60 @@ possible solutions for particular problems. You can find my posts at
 
 # Oral Communications
 
-**Invited:**
-
 1. "Modular code for a modular software: developing HADDOCK3".  
   [Instruct][instruct] Software Developers Exchange Webinar 5  
-  *(to be held)* June 10th, **2022**.  
-  [twitter post](https://twitter.com/joaomcteixeira/status/1529025387224768512)
-1. "Modelling Intrinsically Disorder Proteins by experimental data."  
-  SickKids Postdoctoral Seminar Series, **2021**.
-1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.  
-  Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal. **2018**
-{: reversed="reversed"}
+  *(to be held)* June 10th, **2022**, *intived*. [Post on Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512)
 
-**In scientific meetings:**
+1. "Introducing HADDOCK3: Enabling modular integrative modelling pipelines"  
+  BioExcel Webminar, June 7th, **2022**, *invited*  
+  [Web Page](https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/)  
 
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
-  International Symposium on Grids & Clouds (ISGC) **20-25th March 2022**, Virtual Conference.  
+  International Symposium on Grids & Clouds (ISGC), 20-25th March, **2022**, Virtual Conference.  
   [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing)  
   [Download slides](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
-1. "Effective open-science practices for organizing a scientific software repository - short"  
-  OSCU Open Science Symposium - Faculty of Science **2021**, Utrecht University, Netherlands.  
-  [Download slides](https://osf.io/ghfbr/)  
-1. "Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1".  
-  EJIBCE **2013**, Oporto, Portugal.  
-1. "Characterizing MMP-1 Internal Dynamics."  
-  IX Annual Meeting of CNC – Center for Neuroscience and Cell Biology, **2011**, Coimbra, Portugal.
-{: reversed="reversed"}
 
-**As visiting researcher:**
+1. "Effective open-science practices for organizing a scientific software repository - short"  
+  OSCU Open Science Symposium - Faculty of Science, October 10th, **2021**, Utrecht University, Netherlands.  
+  [Download slides](https://osf.io/ghfbr/)  
+
+1. "Modelling Intrinsically Disorder Proteins by experimental data."  
+  SickKids Postdoctoral Seminar Series, **2021**, *invited*.
 
 1. "A summary of the Farseer-NMR project and its current state."  
-  Invited Researcher at SickKids, Toronto, Canada, **2019**. Hosted by: Dr. Julie Forman-Kay. [Download slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)
+  Invited Researcher at SickKids, Toronto, Canada, **2019**.  
+  Hosted by: [Dr. Julie Forman-Kay][jfk]  
+  [Download slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)
+
 1. "Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction."  
-  Invited Researcher at SickKids, Toronto, Canada, **2019**. Hosted by: Dr. Julie Forman-Kay. [Download slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)
-1. "Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin."  
-  Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal, **2018**.
+  Invited Researcher at SickKids, Toronto, Canada, **2019**.  
+  Hosted by: [Dr. Julie Forman-Kay][jfk]  
+  [Download slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)
+
+1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.  
+  Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal, May 4th, **2018**, *invited*.
+
 1. "Automated NMR data treatment of simple and complex experimental datasets."  
-  1 minute flash-presentation at CECAM Workshop: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France, **2017**.
+  1 minute flash-presentation at CECAM Workshop: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France, October, **2017**.
+
 1. "The concept of Farseer-NMR: automatic treatment and plotting of lage-scale NMR titration data."  
   Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, **2017**.
+
 1. "Analysis of Calcineurin’s structure and conformational changes via methionine labelling NMR spectroscopy."  
-  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, **2016**.
+  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, February, **2016**.
+
 1. "On the ‘tectonics’ of MMP-1 catalyzed collagenolysis: joint use of paramagnetic NMR and computational tools."  
-  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, **2014**.
-1. "Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1."  
-  EJIBCE Oporto, Portugal, **2013**.
+  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, Februrary, **2014**.
+
+1. "Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1".  
+  EJIBCE, December 20th, **2013**, Oporto, Portugal.  
+
 1. "MMP-1: intradomain mobility and substract interaction."  
   Visiting researcher at the NMR Spectroscopy Research Group, Utrech University, The Netherlands, **2013**.
+
 1. "Molecular Biology preparation of paramagnetic equipped MMP-1."  
   Ph.D. Day 3, University of Florence, Italy, **2012**.
+
 1. "Characterizing MMP-1 Internal Dynamics."  
   IX Annual Meeting of CNC – Center for Neuroscience and Cell Biology, Coimbra, Portugal, **2011**.
 {: reversed="reversed"}
