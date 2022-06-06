@@ -50,10 +50,6 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
   of Open Source scientific software for the analysis of NMR data, molecular
   simmulations, and structural biology in general.*
 
-1. **Postdoctoral Researcher.** *February/2014 to June/2018; 4 years and 6 months*  
-  [Dr. Miquel Pons's Lab][biu], BioNMR Group  
-  Faculty of Chemistry Department of Inorganic and Organic Chemistry, [University of Barcelona][ub]  
-
 1. **Visiting Collaborator.** *September/2018; 2 weeks*  
   [Group of Structural Biology, School of Medicine Stanford University.][levitt]  
   *Theme:* Simulation of a multicomponent system using OpenMM.  
@@ -64,6 +60,10 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
   [Astbury Centre for Structural Molecular Biology, University of Leeds][leeds].  
   *Theme:* Development of the Farseer-NMR Software.  
   Collaborators: Dr. Simon P. Skinner and [Dr. Alexander L. Breeze][alb]  
+
+1. **Postdoctoral Researcher.** *February/2014 to June/2018; 4 years and 6 months*  
+  [Dr. Miquel Pons's Lab][biu], BioNMR Group  
+  Faculty of Chemistry Department of Inorganic and Organic Chemistry, [University of Barcelona][ub]  
 
 1. **Transnational Knowledge Transfer.**  *October/2013; 1 month*  
   [Dr. Miquel Pons's Lab][biu], BioNMR Group  
@@ -76,19 +76,19 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
   *Theme:* Protein-protein docking calculations and analysis using HADDOCK Web Server.
   Collaborators: [Dr. João P.G.L.M. Rodrigues][JP]  
 
-1. **PhD. candidate.** *May/2009 to January/2014; 5 years*  
-  [Dr. Carlos F.G.C. Geraldes's group][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
-  [CNC – Center for Neuroscience and Cell Biology][cnc], [University of Coimbra][uc], Portugal  
-
-1. **PhD. candidate in International Training.** *June/2009 to January 2013; 36 months*  
-  [Dr. Claudio Luchinat's lab][clu]  
-  [Centro Risonanze Magnetiche (CERM)][cerm], University of Florence, Italy.  
-
 1. **Short Term Scientific Mission.** *September/2009 to November/2009; 3 months*  
   [Charles University, Prague, Czech Republic][ku]  
   *Theme:* Chemical Synthesis of Metal-based systems for Molecular Imaging
   Applications and Paramagnetic Solution NMR Probes.  
   *Supervisor:* [Dr. Petr Hermann][ptr]  
+
+1. **PhD. candidate in International Training.** *June/2009 to January 2013; 36 months*  
+  [Dr. Claudio Luchinat's lab][clu]  
+  [Centro Risonanze Magnetiche (CERM)][cerm], University of Florence, Italy.  
+
+1. **PhD. candidate.** *May/2009 to January/2014; 5 years*  
+  [Dr. Carlos F.G.C. Geraldes's group][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
+  [CNC – Center for Neuroscience and Cell Biology][cnc], [University of Coimbra][uc], Portugal  
 
 1. **Short Term Scientific Mission.** *11/January/2009 to 31/Janruary/2009; 3 weeks*  
   NMR and molecular recognition Group, Centro de Investigaciones Biológicas (CIB), CSIC, Spain.  
