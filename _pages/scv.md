@@ -360,21 +360,25 @@ possible solutions for particular problems. You can find my posts at
 # Oral Communications
 
 1. "Modular code for a modular software: developing HADDOCK3".  
-  [Instruct][instruct] Software Developers Exchange Webinar 5  
-  *(to be held)* June 10th, **2022**, *intived*. [Post on Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512)
+  [Instruct][instruct] Software Developers Exchange Webinar 5, June 10th, **2022**, *intived*.  
+  [Post on Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512) |
+  [Talk on Youtube](https://www.youtube.com/watch?v=5Uk1EvzCOIg) |
+  [Slides on GDrive](https://docs.google.com/presentation/d/1qT1cZ-X8yhKEyhFvBrdoD-XFeU-ESaSlrUeIPFz-Tlk)  
 
 1. "Introducing HADDOCK3: Enabling modular integrative modelling pipelines"  
   BioExcel Webminar, June 7th, **2022**, *invited*  
-  [Web Page](https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/)  
+  [Web Page](https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/) |
+  [Post on Twitter](https://twitter.com/BioExcelCoE/status/1531908415114682369) |
+  [Slides on GDrive](https://docs.google.com/presentation/d/1i6AaCvwav5kt-AoJDaMYZu0NHA2oK7V3TMHmBSvfAlM)  
 
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
   International Symposium on Grids & Clouds (ISGC), 20-25th March, **2022**, Virtual Conference.  
-  [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing)  
-  [Download slides](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
+  [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing) |
+  [Slides on GDrive](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
 
 1. "Effective open-science practices for organizing a scientific software repository - short"  
   OSCU Open Science Symposium - Faculty of Science, October 10th, **2021**, Utrecht University, Netherlands.  
-  [Download slides](https://osf.io/ghfbr/)  
+  [Slides](https://osf.io/ghfbr/)  
 
 1. "Modelling Intrinsically Disorder Proteins by experimental data."  
   SickKids Postdoctoral Seminar Series, **2021**, *invited*.
