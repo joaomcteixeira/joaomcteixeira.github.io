@@ -361,20 +361,24 @@ possible solutions for particular problems. You can find my posts at
 
 1. "Modular code for a modular software: developing HADDOCK3".  
   [Instruct][instruct] Software Developers Exchange Webinar 5, June 10th, **2022**, *intived*.  
-  [Post on Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512) |
-  [Talk on Youtube](https://www.youtube.com/watch?v=5Uk1EvzCOIg) |
-  [Slides on GDrive](https://docs.google.com/presentation/d/1qT1cZ-X8yhKEyhFvBrdoD-XFeU-ESaSlrUeIPFz-Tlk)  
+  [Website](https://instruct-eric.eu/content/instruct-software-developers-exchange-webinar-series) |
+  [Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512) |
+  [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_software-developer-exchange-5-modular-activity-6942532657725513728-hi9h/?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+  [Youtube](https://www.youtube.com/watch?v=5Uk1EvzCOIg) |
+  [Slides](https://docs.google.com/presentation/d/1qT1cZ-X8yhKEyhFvBrdoD-XFeU-ESaSlrUeIPFz-Tlk)  
 
 1. "Introducing HADDOCK3: Enabling modular integrative modelling pipelines"  
   BioExcel Webminar, June 7th, **2022**, *invited*  
-  [Web Page](https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/) |
-  [Post on Twitter](https://twitter.com/BioExcelCoE/status/1531908415114682369) |
-  [Slides on GDrive](https://docs.google.com/presentation/d/1i6AaCvwav5kt-AoJDaMYZu0NHA2oK7V3TMHmBSvfAlM)  
+  [Website](https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/) |
+  [Twitter](https://twitter.com/joaomcteixeira/status/1531942717726593025) |
+  [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_bioexcel-webinar-67-introducing-haddock3-activity-6942780130758959104-Losw?utm_source=linkedin_share&utm_medium=member_desktop_web) |
+  [Youtube](https://www.youtube.com/watch?v=V7uwFbVDKFE) |
+  [Slides](https://docs.google.com/presentation/d/1i6AaCvwav5kt-AoJDaMYZu0NHA2oK7V3TMHmBSvfAlM)  
 
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
   International Symposium on Grids & Clouds (ISGC), 20-25th March, **2022**, Virtual Conference.  
   [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing) |
-  [Slides on GDrive](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
+  [Slides](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
 
 1. "Effective open-science practices for organizing a scientific software repository - short"  
   OSCU Open Science Symposium - Faculty of Science, October 10th, **2021**, Utrecht University, Netherlands.  
@@ -386,12 +390,12 @@ possible solutions for particular problems. You can find my posts at
 1. "A summary of the Farseer-NMR project and its current state."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**.  
   Hosted by: [Dr. Julie Forman-Kay][jfk]  
-  [Download slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)
+  [Slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)
 
 1. "Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**.  
   Hosted by: [Dr. Julie Forman-Kay][jfk]  
-  [Download slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)
+  [Slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)
 
 1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.  
   Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal, May 4th, **2018**, *invited*.
