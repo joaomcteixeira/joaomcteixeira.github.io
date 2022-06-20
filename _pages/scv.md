@@ -433,7 +433,7 @@ possible solutions for particular problems. You can find my posts at
    Bijvoet Symposium, April 2022. Utrecht, The Netherlands.  
    [Download poster](https://docs.google.com/drawings/d/1mugVBskoWBD1gRrI2CNreVI3SkLineGf6c-l8YOrF9E/edit?usp=sharing)
 1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
-  EMBO-Workshop: Advances and challenges in biomolecular workshop, 2021. Virtual conference.
+  EMBO-Workshop: Advances and challenges in biomolecular workshop, October 21st, 2021. Virtual conference.
 1. "Automated NMR Data treatment of simple and complex experimental datasets"  
   CECAM Workshop 2017: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France.
 1. "Farseer - Automatic treatment, calculation and plotting of NMR data. Reducing weeks to seconds"  
