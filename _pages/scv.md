@@ -30,11 +30,14 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
 *Grant:* Portuguese Doctoral Research Grant for International Training (4 years) - Foundation for Science and Technology.  
 *Thesis title:* [Paramagnetic NMR of Proteins to Study the Collagenolitic Mechanism of MMP-1.][phd]  
 *Supervisors:* [Prof. Dr. Carlos F.G.C. Geraldes][cfgcg] and [Prof. Dr. Claudio Luchinat][clu].  
+[Thesis PDF](https://www.researchgate.net/publication/306167431_Paramagnetic_NMR_of_Proteins_to_study_the_Collagenolytic_Mechanism_of_MMP-1) |
+[Slides](https://drive.google.com/file/d/1klGsqmeo6DZmUfLn7oeKtkkhEEHo7mQz)
 
 **Licentiate in Biochemistry.** *September 9th, 2008*  
 [University of Coimbra][uc], Portugal.  
 *Thesis title:* [Study of the interaction of Ln3+ complexes of targeted contrast agents to HSA and RCA120 binding models using high resolution Saturation Transfer Difference (STD) NMR techniques.][lic]  
-*Supervisor:* [Prof. Dr. Carlos F.G.C. Geraldes][cfgcg].
+*Supervisor:* [Prof. Dr. Carlos F.G.C. Geraldes][cfgcg]  
+[Thesis PDF](https://www.researchgate.net/publication/340775300_Study_of_the_interaction_of_Ln_3_complexes_of_targeted_contrast_agents_to_HSA_and_RCA_120_binding_models_using_High_Resolution_Saturation_Transfer_Difference_STD_NMR_techniques)
 
 # Research Experience
 
@@ -264,7 +267,7 @@ possible solutions for particular problems. You can find my posts at
 # Book chapters
 
 1. "Matrix Metallopeptidase-1/Interstitial Collagenase."  
-   **Handbook of Proteolytic Enzymes**, 4th Edition, *Elsevier*.  
+   **Handbook of Proteolytic Enzymes**, 4th Edition, **2022**, *Elsevier*.  
    Invited by Dr Neil D. Rawlings. EMBL-European Bioinformatics Institute alumnus. 34
    Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859  
    *(Currently under review)*
@@ -321,24 +324,28 @@ possible solutions for particular problems. You can find my posts at
   **Organizer and speaker**  
   NMR Groups at Utrecht University and Leiden, The Netherlands. *2018*.  
   Hosted by: [Dr. Hugo van Ingen][hugo].  
-  [Download slides](https://www.researchgate.net/publication/328108180_Workshop_at_Utrecht_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
+  [Slides](https://drive.google.com/file/d/1tyQMquDDHZA8pUKnYjNUraR3fBe0hgFI/view?usp=sharing) |
+  [DOI](https://www.researchgate.net/publication/328108180_Workshop_at_Utrecht_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data."  
   **Organizer and speaker**  
   Parc Cientific de Barcelona, CCiTUB, University of Barcelona, Spain. *2018*.  
   Hosteg by: NMR Facility of the University of Barcelona.  
-  [Download slides](https://www.researchgate.net/publication/325796312_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
+  [Slides](https://drive.google.com/file/d/1BpIJOeNH6Gxsd0bD6h1jHypfIYaMuD0W/view?usp=sharing) |
+  [DOI](https://www.researchgate.net/publication/325796312_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data"  
   **Organizer and speaker**  
   Nuclear Magnetic Resonance Spectroscopy Facility, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal. *9th May 2018*  
   Hosted by: [Dr. Eurico J. Cabrita][ejc]  
+  [Slides](https://drive.google.com/file/d/157u0EmmcTUKytak7mKFB0v8ij-bYT3Ip)  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data"  
   **Organizer and Speaker**  
   Seminar and Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, *7th-11th of May 2018*.  
   [PTNMR][ptnmr], University of Coimbra, Portugal.  
   Hosted by: [Dr. Rui Brito][brito]  
+  [Slides](https://drive.google.com/file/d/157u0EmmcTUKytak7mKFB0v8ij-bYT3Ip)  
 
 1. "2D- and 3D-NMR Processing and Analysis with introduction to CCPNMR Analysis Suite v2.4."
   **Speaker**  
@@ -355,6 +362,7 @@ possible solutions for particular problems. You can find my posts at
   **Organizer and Speaker**  
   [CIC bioGUNE Institute][cic] of the Bizkaia Technology Park and the University of Basque Country, Spain, *2017*.
   Hosted by: [Dr. Jesús Jiménez-Barbero][jjb]  
+  [Slides](https://drive.google.com/file/d/1dpwutInEY4BFIva-6IBDjWFn8TgOu6s_)
 {: reversed="reversed"}
 
 # Oral Communications
@@ -365,7 +373,7 @@ possible solutions for particular problems. You can find my posts at
   [Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512) |
   [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_software-developer-exchange-5-modular-activity-6942532657725513728-hi9h/?utm_source=linkedin_share&utm_medium=member_desktop_web) |
   [Youtube](https://www.youtube.com/watch?v=5Uk1EvzCOIg) |
-  [Slides](https://docs.google.com/presentation/d/1qT1cZ-X8yhKEyhFvBrdoD-XFeU-ESaSlrUeIPFz-Tlk)  
+  [Slides](https://docs.google.com/presentation/d/1vW8CtNTLh0UDBjxsfz5f_Td8v-IEX6xY5SExv3SgpPk)  
 
 1. "Introducing HADDOCK3: Enabling modular integrative modelling pipelines"  
   BioExcel Webminar, June 7th, **2022**, *invited*  
@@ -373,47 +381,54 @@ possible solutions for particular problems. You can find my posts at
   [Twitter](https://twitter.com/joaomcteixeira/status/1531942717726593025) |
   [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_bioexcel-webinar-67-introducing-haddock3-activity-6942780130758959104-Losw?utm_source=linkedin_share&utm_medium=member_desktop_web) |
   [Youtube](https://www.youtube.com/watch?v=V7uwFbVDKFE) |
-  [Slides](https://docs.google.com/presentation/d/1i6AaCvwav5kt-AoJDaMYZu0NHA2oK7V3TMHmBSvfAlM)  
+  [Slides](https://docs.google.com/presentation/d/1C8KngBXWAF-6FJkP7DH-j6E1LKwYzqtwS2SSS_g-riM)  
 
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
   International Symposium on Grids & Clouds (ISGC), 20-25th March, **2022**, Virtual Conference.  
-  [Abstract](https://docs.google.com/document/d/1PxOqiod6vG8fGtfdT0487vrw-5ZJmGfV1Kd9QDj16Ys/edit?usp=sharing) |
-  [Slides](https://docs.google.com/presentation/d/10ra3WszR60F1D98bDxtA09ONtNmLjRYe0kh3uPOuLFE)  
+  [Abstract](https://docs.google.com/document/d/1dZ4XsI7UahdoSINcNuOiH8T_bZtaHDUMDc1-4qcFDQk) |
+  [Slides](https://docs.google.com/presentation/d/1phdI7Q0aiK1dwh7TAcvNqlGVObWLq__WuZ-TUD5XRfM)  
 
 1. "Effective open-science practices for organizing a scientific software repository - short"  
   OSCU Open Science Symposium - Faculty of Science, October 10th, **2021**, Utrecht University, Netherlands.  
-  [Slides](https://osf.io/ghfbr/)  
+  [Slides on OSF](https://osf.io/ghfbr/) |
+  [Slides on GDrive](https://docs.google.com/presentation/d/1rD5H7Eps5LHKQAhu21KFywDxbKawOalfXWVDYVVTL0U)  
 
 1. "Modelling Intrinsically Disorder Proteins by experimental data."  
-  SickKids Postdoctoral Seminar Series, **2021**, *invited*.
+  SickKids Postdoctoral Seminar Series, **2021**, *invited*.  
+  [Slides](https://drive.google.com/file/d/1RVlCoFocpvsZp813mqZmGIrJnthC-EFe)  
 
 1. "A summary of the Farseer-NMR project and its current state."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**.  
   Hosted by: [Dr. Julie Forman-Kay][jfk]  
-  [Slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)
+  [Slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)  
 
 1. "Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**.  
   Hosted by: [Dr. Julie Forman-Kay][jfk]  
-  [Slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)
+  [Slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)  
 
 1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.  
-  Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal, May 4th, **2018**, *invited*.
+  Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal, May 4th, **2018**, *invited*.  
+  [Slides](https://drive.google.com/file/d/1iZvg8KxxpR3dy8UahWicgrCaZPSPjJqp)  
 
 1. "Automated NMR data treatment of simple and complex experimental datasets."  
-  1 minute flash-presentation at CECAM Workshop: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France, October, **2017**.
+  1 minute flash-presentation at CECAM Workshop: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France, October, **2017**.  
+  [Slide](https://drive.google.com/file/d/1ExXvfZm9URegwFDgGdLPh3uPUB22JJJG)  
 
 1. "The concept of Farseer-NMR: automatic treatment and plotting of lage-scale NMR titration data."  
   Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, **2017**.
 
 1. "Analysis of Calcineurin’s structure and conformational changes via methionine labelling NMR spectroscopy."  
-  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, February, **2016**.
+  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, February, **2016**.  
+  [Slides](https://drive.google.com/file/d/1iZvg8KxxpR3dy8UahWicgrCaZPSPjJqp)  
 
 1. "On the ‘tectonics’ of MMP-1 catalyzed collagenolysis: joint use of paramagnetic NMR and computational tools."  
-  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, Februrary, **2014**.
+  Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain, Februrary, **2014**.  
+  [Slides](https://drive.google.com/file/d/1lIPx_kjPaYEjzngZc5vRU04Qd-7ePXmW)
 
 1. "Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1".  
   EJIBCE, December 20th, **2013**, Oporto, Portugal.  
+  [Slides](https://drive.google.com/file/d/1uD-_iTHqtrJLQUpMxnqBYIKH062drlE1)
 
 1. "MMP-1: intradomain mobility and substract interaction."  
   Visiting researcher at the NMR Spectroscopy Research Group, Utrech University, The Netherlands, **2013**.
@@ -430,14 +445,17 @@ possible solutions for particular problems. You can find my posts at
 **Main presenting author:**
 
 1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
-   Bijvoet Symposium, April 2022. Utrecht, The Netherlands.  
-   [Download poster](https://docs.google.com/drawings/d/1mugVBskoWBD1gRrI2CNreVI3SkLineGf6c-l8YOrF9E/edit?usp=sharing)
+  Bijvoet Symposium, April 2022. Utrecht, The Netherlands.  
+  [Poster](https://docs.google.com/drawings/d/1m7xRsesqtECEgzdQUytcYG6GopRgDSdOWcBSsIXv5s0)
 1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
-  EMBO-Workshop: Advances and challenges in biomolecular workshop, October 21st, 2021. Virtual conference.
+  EMBO-Workshop: Advances and challenges in biomolecular workshop, October 21st, 2021. Virtual conference.  
+  [Poster](https://docs.google.com/drawings/d/1CLHBuumsDkNOdyTixVd93lOUEHUmdKZIDoXGItmqz90)
 1. "Automated NMR Data treatment of simple and complex experimental datasets"  
-  CECAM Workshop 2017: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France.
+  CECAM Workshop 2017: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France.  
+  [Poster](https://drive.google.com/file/d/1BxqnsPEFGO2Zr3yCHPObbT08CB0i4ydN) 
 1. "Farseer - Automatic treatment, calculation and plotting of NMR data. Reducing weeks to seconds"  
-  First All Hands Meeting of iNEXT (iNEXT AHM 2016), Alcalá de Henares, Spain.
+  First All Hands Meeting of iNEXT (iNEXT AHM 2016), Alcalá de Henares, Spain.  
+  [Poster](https://drive.google.com/file/d/1hfneU3fJWgerhlbspdSptSChvKj5fHs3)
 1. "A python tool to automatically treat, calculate and plot NMR-derived peaklists data"  
   16th CCPN / CCPBioSim joint conference 2016, Buxton, United Kingdom.
 1. "A python tool to instantly treat, calculate and plot NMR-derived peaklists data"  
