@@ -137,7 +137,7 @@ possible solutions for particular problems. You can find my posts at
 *#: equal contribution; @: corresponding author*
 
 1. "IDPConformerGenerator: A Flexible Software Suite for Sampling Conformational Space of Disordered Protein States"  
-   **Teixeira, J. M. C.@**; Liu, Z. H.; Namini, A.; Li, J.; Vernon, R. M.; Krzeminski, M.; Shamandy, A. A.; Zhang, O.; Haghighatlari, M.; Yu, L.; Head-Gordon, T.; Forman-Kay, J. D.  
+   **Teixeira, J. M. C.@**; Liu, Z. H.; Namini, A.; Li, J.; Vernon, R. M.; Krzeminski, M.; Shamandy, A. A.; Zhang, O.; Haghighatlari, M.; Yu, L.; Head-Gordon, T.; Forman-Kay, J. D.@  
    **bioRxiv** *2022* *(preprint)*  
    <https://doi.org/10.1101/2022.05.28.493726> (:unlock: open-access)  
 
