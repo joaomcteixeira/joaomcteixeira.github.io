@@ -136,6 +136,11 @@ possible solutions for particular problems. You can find my posts at
 *by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
+   Zhang, O.; Haghighatlari, M.; Li, J.; **Teixeira, J. M. C.**; Namini, A.; Liu, Z. H.; Forman-Kay, J. D.  
+   **arXiv** *2022* *(preprint)*  
+   <https://doi.org/10.48550/arXiv.2206.12667>
+
 1. "IDPConformerGenerator: A Flexible Software Suite for Sampling Conformational Space of Disordered Protein States"  
    **Teixeira, J. M. C.@**; Liu, Z. H.; Namini, A.; Li, J.; Vernon, R. M.; Krzeminski, M.; Shamandy, A. A.; Zhang, O.; Haghighatlari, M.; Yu, L.; Head-Gordon, T.; Forman-Kay, J. D.@  
    **bioRxiv** *2022* *(preprint)*  
