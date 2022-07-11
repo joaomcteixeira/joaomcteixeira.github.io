@@ -373,7 +373,7 @@ possible solutions for particular problems. You can find my posts at
 # Oral Communications
 
 1. "Modular code for a modular software: developing HADDOCK3".  
-  [Instruct][instruct] Software Developers Exchange Webinar 5, June 10th, **2022**, *intived*.  
+  [Instruct][instruct] Software Developers Exchange Webinar 5, June 10th, **2022**, *invited*.  
   [Website](https://instruct-eric.eu/content/instruct-software-developers-exchange-webinar-series) |
   [Twitter](https://twitter.com/joaomcteixeira/status/1529025387224768512) |
   [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_software-developer-exchange-5-modular-activity-6942532657725513728-hi9h/?utm_source=linkedin_share&utm_medium=member_desktop_web) |
