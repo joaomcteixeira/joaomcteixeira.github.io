@@ -449,6 +449,11 @@ possible solutions for particular problems. You can find my posts at
 
 **Main presenting author:**
 
+1. "Effectively developing, distributing, and managing a Python package with a large community"  
+   ISMB/BOSC, July 11-14th, 2022, virtual.  
+   [Abstract](https://docs.google.com/document/d/1bKrCh8KTPW-yQ1oPjdY2e-aznNwo-IdE5qpf5OGooUk) |
+   [Poster](https://docs.google.com/drawings/d/1hdG7GC4BwFmNrXEH0s4-jexm0cDUPsmOoc8idr7GOTw) |
+   [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_bosc-2022-best-practices-ci-poster-activity-6953258085830291456-UkBu?utm_source=linkedin_share&utm_medium=member_desktop_web)  
 1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
   Bijvoet Symposium, April 2022. Utrecht, The Netherlands.  
   [Poster](https://docs.google.com/drawings/d/1m7xRsesqtECEgzdQUytcYG6GopRgDSdOWcBSsIXv5s0)
