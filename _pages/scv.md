@@ -7,20 +7,9 @@ toc_sticky: true
 
 # Current Position
 
-**Postdoctoral Researcher.**  *Since July 2021*  
-Lead Python software engineer/structural biologist developing [HADDOCK v3][hd3]  
-[Dr. Alexandre Bonvin's Lab][abl], Computational Structural Biology Group  
-[Bijvoet Center for Biomolecular Research][bjv], Science for Life, Faculty of Science - Chemistry  
-[Utrecht University][uu], [Link to UU profile][uup]  
-
-> HADDOCK3 is the new version of the HADDOCK2.x series which is the
-world’s most used docking platform for scientific research with +26,000 users
-and +400,000 jobs served worldwide since 2008. While version 2 was based on a
-predefined protocol, version 3 is a fully modular pipeline allowing the user to
-construct his/her docking workflows. The HADDOCK3 code and project is
-open-source and is [hosted at GitHub][hd3]. The HADDOCK project is part of the
-European funded [BioExcel platform][biox], the [WeNMR grid][wenmr], and the
-[INSTRUCT-ERIC consortiums][instruct].  
+**[AIRC][airc] Postdoctoral Researcher.** Since september 2022.  
+[Monika Fuxreiter Lab][MFL]
+[Department of Biomedical Sciences][DBS]. [University of Padua][unipd], Italy.
 
 # Education
 
@@ -29,23 +18,37 @@ European funded [BioExcel platform][biox], the [WeNMR grid][wenmr], and the
 Title officially awarded by the University of Coimbra, Portugal. Approved Unanimously with Distinction and Honours.  
 *Grant:* Portuguese Doctoral Research Grant for International Training (4 years) - Foundation for Science and Technology.  
 *Thesis title:* [Paramagnetic NMR of Proteins to Study the Collagenolitic Mechanism of MMP-1.][phd]  
-*Supervisors:* [Prof. Dr. Carlos F.G.C. Geraldes][cfgcg] and [Prof. Dr. Claudio Luchinat][clu].  
+*Supervisors:* [Carlos F.G.C. Geraldes][cfgcg] and [Claudio Luchinat][clu].  
 [Thesis PDF](https://www.researchgate.net/publication/306167431_Paramagnetic_NMR_of_Proteins_to_study_the_Collagenolytic_Mechanism_of_MMP-1) |
 [Slides](https://drive.google.com/file/d/1klGsqmeo6DZmUfLn7oeKtkkhEEHo7mQz)
 
 **Licentiate in Biochemistry.** *September 9th, 2008*  
 [University of Coimbra][uc], Portugal.  
 *Thesis title:* [Study of the interaction of Ln3+ complexes of targeted contrast agents to HSA and RCA120 binding models using high resolution Saturation Transfer Difference (STD) NMR techniques.][lic]  
-*Supervisor:* [Prof. Dr. Carlos F.G.C. Geraldes][cfgcg]  
+*Supervisor:* [Carlos F.G.C. Geraldes][cfgcg]  
 [Thesis PDF](https://www.researchgate.net/publication/340775300_Study_of_the_interaction_of_Ln_3_complexes_of_targeted_contrast_agents_to_HSA_and_RCA_120_binding_models_using_High_Resolution_Saturation_Transfer_Difference_STD_NMR_techniques)
 
 # Research Experience
 
-1. **Postdoctoral Researcher.** *April/2019 to May/2021; 2 years and 2 months*  
-  [Dr. Julie Forman-Kay’s Lab][jfk], Program in Molecular Medicine  
+1. **Postdoctoral Researcher.**  *July 2021 - Aug 2022*  
+Lead Python software engineer/structural biologist developing [HADDOCK v3][hd3]  
+[Alexandre Bonvin Lab][abl], Computational Structural Biology Group  
+[Bijvoet Center for Biomolecular Research][bjv], Science for Life, Faculty of Science - Chemistry  
+[Utrecht University][uu], [Link to UU profile][uup]  
+  HADDOCK3 is the new version of the HADDOCK2.x series which is the
+  world’s most used docking platform for scientific research with +26,000 users
+  and +400,000 jobs served worldwide since 2008. While version 2 was based on a
+  predefined protocol, version 3 is a fully modular pipeline allowing users to
+  construct custom docking workflows. The HADDOCK3 code and project is
+  open-source and is [hosted at GitHub][hd3]. The HADDOCK project is part of the
+  European funded [BioExcel platform][biox], the [WeNMR grid][wenmr], and the
+  [INSTRUCT-ERIC consortiums][instruct].  
+
+1. **Postdoctoral Researcher.** *April 2019 to May 2021; 2 years and 2 months*  
+  [Julie Forman-Kay Lab][jfk], Program in Molecular Medicine  
   [Hospital for Sick Children, Toronto, Canada][skids]  
 
-1. **Independent and *ad honorem* scientific researcher**. *July/2018 to March/2019; 9 months*  
+1. **Independent and *ad honorem* scientific researcher**. *July 2018 to March 2019; 9 months*  
   Also software developer for Open Source scientific software projects:
   Farseer-NMR, taurenmd, pdb-tools. Salamanca, Spain. *After leaving the
   University of Barcelona, I worked ad honorem to prepare myself for my next
@@ -53,53 +56,53 @@ Title officially awarded by the University of Coimbra, Portugal. Approved Unanim
   of Open Source scientific software for the analysis of NMR data, molecular
   simmulations, and structural biology in general.*
 
-1. **Visiting Collaborator.** *September/2018; 2 weeks*  
+1. **Visiting Collaborator.** *September 2018; 2 weeks*  
   [Group of Structural Biology, School of Medicine Stanford University.][levitt]  
   *Theme:* Simulation of a multicomponent system using OpenMM.  
-  Collaborators: [Dr. João P.G.L.M. Rodrigues][JP], [Susana Barrera-Vilarmau][su]  
-  Group leader: [Dr. Michael Levitt][levitt]  
+  Collaborators: [João P.G.L.M. Rodrigues][JP], [Susana Barrera-Vilarmau][su]  
+  Group leader: [Michael Levitt][levitt]  
 
-1. **Visiting Collaborator.** *September/2017; 1 week*  
+1. **Visiting Collaborator.** *September 2017; 1 week*  
   [Astbury Centre for Structural Molecular Biology, University of Leeds][leeds].  
   *Theme:* Development of the Farseer-NMR Software.  
-  Collaborators: Dr. Simon P. Skinner and [Dr. Alexander L. Breeze][alb]  
+  Collaborators: Simon P. Skinner and [Alexander L. Breeze][alb]  
 
-1. **Postdoctoral Researcher.** *February/2014 to June/2018; 4 years and 6 months*  
-  [Dr. Miquel Pons's Lab][biu], BioNMR Group  
+1. **Postdoctoral Researcher.** *February 2014 to June 2018; 4 years and 6 months*  
+  [Miquel Pons Lab][biu], BioNMR Group  
   Faculty of Chemistry Department of Inorganic and Organic Chemistry, [University of Barcelona][ub]  
 
 1. **Transnational Knowledge Transfer.**  *October/2013; 1 month*  
-  [Dr. Miquel Pons's Lab][biu], BioNMR Group  
+  [Miquel Pons Lab][biu], BioNMR Group  
   Faculty of Chemistry Department of Inorganic and Organic Chemistry, [University of Barcelona][ub]  
 
 1. **Visiting PhD. Student.** *April/2013; 2 weeks*  
-  [Dr. Alexandre Bonvin's Lab][abl], Computational Structural Biology Group  
+  [Alexandre Bonvin Lab][abl], Computational Structural Biology Group  
   [Bijvoet Center for Biomolecular Research][bjv], Science for Life, Faculty of Science - Chemistry  
   [Utrecht University][uu]  
   *Theme:* Protein-protein docking calculations and analysis using HADDOCK Web Server.
-  Collaborators: [Dr. João P.G.L.M. Rodrigues][JP]  
+  Collaborators: [João P.G.L.M. Rodrigues][JP]  
 
 1. **Short Term Scientific Mission.** *September/2009 to November/2009; 3 months*  
   [Charles University, Prague, Czech Republic][ku]  
   *Theme:* Chemical Synthesis of Metal-based systems for Molecular Imaging
   Applications and Paramagnetic Solution NMR Probes.  
-  *Supervisor:* [Dr. Petr Hermann][ptr]  
+  *Supervisor:* [Petr Hermann][ptr]  
 
 1. **PhD. candidate in International Training.** *June/2009 to January 2013; 36 months*  
-  [Dr. Claudio Luchinat's lab][clu]  
+  [Claudio Luchinat's lab][clu]  
   [Centro Risonanze Magnetiche (CERM)][cerm], University of Florence, Italy.  
 
 1. **PhD. candidate.** *May/2009 to January/2014; 5 years*  
-  [Dr. Carlos F.G.C. Geraldes's group][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
+  [Carlos F.G.C. Geraldes's group][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
   [CNC – Center for Neuroscience and Cell Biology][cnc], [University of Coimbra][uc], Portugal  
 
 1. **Short Term Scientific Mission.** *11/January/2009 to 31/Janruary/2009; 3 weeks*  
   NMR and molecular recognition Group, Centro de Investigaciones Biológicas (CIB), CSIC, Spain.  
   *Theme:* Protein-ligand interaction studies using Autodock 4.  
-  *Supervisor:* [Dr. Jesús Jiménez-Barbero][jjb]  
+  *Supervisor:* [Jesús Jiménez-Barbero][jjb]  
 
 1. **NMR Research Technician.** *November/2008 to April/2009; 6 months*
-  [Dr. Carlos F.G.C. Geraldes's group][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
+  [Carlos F.G.C. Geraldes's group][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
   [CNC – Center for Neuroscience and Cell Biology][cnc], [University of Coimbra][uc], Portugal  
   *Role:* Biochemistry Licentiate with experience in NMR methodology. *Supervisor:* Carlos F.G.C. Geraldes.  
 {: reversed="reversed"}
@@ -325,7 +328,7 @@ possible solutions for particular problems. You can find my posts at
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data – knowledge exchange within the community."  
   **Organizer and speaker**  
   NMR Groups at Utrecht University and Leiden, The Netherlands. *2018*.  
-  Hosted by: [Dr. Hugo van Ingen][hugo].  
+  Hosted by: [Hugo van Ingen][hugo].  
   [Slides](https://drive.google.com/file/d/1tyQMquDDHZA8pUKnYjNUraR3fBe0hgFI/view?usp=sharing) |
   [DOI](https://www.researchgate.net/publication/328108180_Workshop_at_Utrecht_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data)  
 
@@ -339,21 +342,21 @@ possible solutions for particular problems. You can find my posts at
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data"  
   **Organizer and speaker**  
   Nuclear Magnetic Resonance Spectroscopy Facility, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal. *9th May 2018*  
-  Hosted by: [Dr. Eurico J. Cabrita][ejc]  
+  Hosted by: [Eurico J. Cabrita][ejc]  
   [Slides](https://drive.google.com/file/d/157u0EmmcTUKytak7mKFB0v8ij-bYT3Ip)  
 
 1. "Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data"  
   **Organizer and Speaker**  
   Seminar and Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, *7th-11th of May 2018*.  
   [PTNMR][ptnmr], University of Coimbra, Portugal.  
-  Hosted by: [Dr. Rui Brito][brito]  
+  Hosted by: [Rui Brito][brito]  
   [Slides](https://drive.google.com/file/d/157u0EmmcTUKytak7mKFB0v8ij-bYT3Ip)  
 
 1. "2D- and 3D-NMR Processing and Analysis with introduction to CCPNMR Analysis Suite v2.4."
   **Speaker**  
   Hands-on Session at the Workshop NMR FOCUS entitled: “NMR in health and disease: From Protein-Ligand Interactions to Small Molecules in Tissues”, *7th-11th of May 2018*.  
   [PTNMR][ptnmr], University of Coimbra, Portugal.  
-  Hosted by: [Dr. Rui Brito][brito]  
+  Hosted by: [Rui Brito][brito]  
 
 1. "Chemical Shift Perturbation – Protein Based Studies"  
   **Speaker**  
@@ -363,7 +366,7 @@ possible solutions for particular problems. You can find my posts at
 1. "Introductory workshops on Farseer-NMR Software."  
   **Organizer and Speaker**  
   [CIC bioGUNE Institute][cic] of the Bizkaia Technology Park and the University of Basque Country, Spain, *2017*.
-  Hosted by: [Dr. Jesús Jiménez-Barbero][jjb]  
+  Hosted by: [Jesús Jiménez-Barbero][jjb]  
   [Slides](https://drive.google.com/file/d/1dpwutInEY4BFIva-6IBDjWFn8TgOu6s_)
 {: reversed="reversed"}
 
@@ -401,12 +404,12 @@ possible solutions for particular problems. You can find my posts at
 
 1. "A summary of the Farseer-NMR project and its current state."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**.  
-  Hosted by: [Dr. Julie Forman-Kay][jfk]  
+  Hosted by: [Julie Forman-Kay][jfk]  
   [Slides](https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state)  
 
 1. "Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction."  
   Invited Researcher at SickKids, Toronto, Canada, **2019**.  
-  Hosted by: [Dr. Julie Forman-Kay][jfk]  
+  Hosted by: [Julie Forman-Kay][jfk]  
   [Slides](https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction)  
 
 1. Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.  
@@ -511,19 +514,19 @@ possible solutions for particular problems. You can find my posts at
 
 # Mentoring Experience
 
-1. **2022**, [Zi Hao Liu](https://github.com/menoliu). MSc graduate student, Department of Molecular Medicine, The Hospital of Sick Children, Toronto, Canada. Supervisor: Dr. Julie Forman-Kay.
-1. **2021**, Ashley Nanimi, Summer Student, Department of Molecular Medicine, The Hospital of Sick Children, Toronto, Canada. Supervisor: Dr. Julie Forman-Kay.
-1. **2020**, [Serene Rodrigues](https://www.linkedin.com/in/serene-rodrigues-3069bb182/), COOP Student SickKids-University of Waterloo, Bachelors of Science, Faculty of Science, Honours Co-operative Physics and Astronomy, University of Waterloo, Canada. Supervisor: Dr. Julie Forman-Kay.
-1. **2020**, [Alaa Shamandy](https://www.linkedin.com/in/alaashamandy/), research student SickKids-University of Toronto, Honours Bachelor of Science, Faculty of Arts & Science. University of Toronto, Canada. Supervisor: Dr. Julie Forman-Kay.
-1. **2018**, Héctor Fuentes de la Osa. BioNMR Group, University of Barcelona, Spain. MSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Prof. Dr. Miquel Pons Vallès.
-1. **2017**, [Stasė Bielskutė](https://www.linkedin.com/in/stase-bielskute-b3654a22a/). BioNMR Group, University of Barcelona, Spain. MSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Prof. Dr. Miquel Pons Vallès.
-1. **2017**, Xavier Sanz Daroca. BioNMR Group, University of Barcelona, Spain. BSc Thesis: “GlcNAcylation of the Unique Domain of proteins of the Src Family”. Supervisor: Prof. Dr. Miquel Pons Vallès
-1. **2017**, [Josemari Urtasun Elizari](https://www.linkedin.com/in/josemari-urtasun-elizari-391173138/). BioNMR Group, University of Barcelona, Spain. Master Thesis: “New mechanisms of c-Src regulation”. Supervisor: Prof. Dr. Miquel Pons Vallès.
-1. **2017**, Héctor Fuentes de la Osa. BioNMR Group, University of Barcelona, Spain. BSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Prof. Dr. Miquel Pons Vallès.
-1. **2015**, [Guillermo Iruela Martin](https://www.linkedin.com/in/guilleiruma/), BSc. BioNMR Group, University of Barcelona, Spain. Theme: Clonning of recombinant proteins. Supervisor: Prof. Dr. Miquel Pons Vallès.
-1. **2015**, [Simone Höfler](https://www.linkedin.com/in/simonehoefler-976754a2/), BSc. BioNMR Group, University of Barcelona, Spain. MSc Thesis: "Insights into modulation of the interaction between the Unique and SH3 domains in Src Family kinases.” Supervisor: Prof. Dr. Miquel Pons Valles.
-1. **2014**, [Pedro Garcia Lorente](https://www.linkedin.com/in/pedrogarcialorente/), Bsc & Msc. BioNMR Group, University of Barcelona, Spain. Bachelor’s Thesis: Evaluation of the oxidative potential of YmoB Protein. Supervisor: Prof. Dr. Miquel Pons Vallès.
-1. **2012**, [Tommaso Martelli](https://www.linkedin.com/in/tommasomartelli/), PhD. CERM, University of Florence, Italy. Theme: Molecular Biology techniques for the expression of Matrix Metalloproteinases constructurs. Supervisor: Prof. Dr. Claudio Luchinat.
+1. **2022**, [Zi Hao Liu](https://github.com/menoliu). MSc graduate student, Department of Molecular Medicine, The Hospital of Sick Children, Toronto, Canada. Supervisor: Julie Forman-Kay.
+1. **2021**, Ashley Nanimi, Summer Student, Department of Molecular Medicine, The Hospital of Sick Children, Toronto, Canada. Supervisor: Julie Forman-Kay.
+1. **2020**, [Serene Rodrigues](https://www.linkedin.com/in/serene-rodrigues-3069bb182/), COOP Student SickKids-University of Waterloo, Bachelors of Science, Faculty of Science, Honours Co-operative Physics and Astronomy, University of Waterloo, Canada. Supervisor: Julie Forman-Kay.
+1. **2020**, [Alaa Shamandy](https://www.linkedin.com/in/alaashamandy/), research student SickKids-University of Toronto, Honours Bachelor of Science, Faculty of Arts & Science. University of Toronto, Canada. Supervisor: Julie Forman-Kay.
+1. **2018**, Héctor Fuentes de la Osa. BioNMR Group, University of Barcelona, Spain. MSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Miquel Pons Vallès.
+1. **2017**, [Stasė Bielskutė](https://www.linkedin.com/in/stase-bielskute-b3654a22a/). BioNMR Group, University of Barcelona, Spain. MSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Miquel Pons Vallès.
+1. **2017**, Xavier Sanz Daroca. BioNMR Group, University of Barcelona, Spain. BSc Thesis: “GlcNAcylation of the Unique Domain of proteins of the Src Family”. Supervisor: Miquel Pons Vallès
+1. **2017**, [Josemari Urtasun Elizari](https://www.linkedin.com/in/josemari-urtasun-elizari-391173138/). BioNMR Group, University of Barcelona, Spain. Master Thesis: “New mechanisms of c-Src regulation”. Supervisor: Miquel Pons Vallès.
+1. **2017**, Héctor Fuentes de la Osa. BioNMR Group, University of Barcelona, Spain. BSc Thesis: “Understanding SFKs regulation, the case of Lyn.” Supervisor: Miquel Pons Vallès.
+1. **2015**, [Guillermo Iruela Martin](https://www.linkedin.com/in/guilleiruma/), BSc. BioNMR Group, University of Barcelona, Spain. Theme: Clonning of recombinant proteins. Supervisor: Miquel Pons Vallès.
+1. **2015**, [Simone Höfler](https://www.linkedin.com/in/simonehoefler-976754a2/), BSc. BioNMR Group, University of Barcelona, Spain. MSc Thesis: "Insights into modulation of the interaction between the Unique and SH3 domains in Src Family kinases.” Supervisor: Miquel Pons Valles.
+1. **2014**, [Pedro Garcia Lorente](https://www.linkedin.com/in/pedrogarcialorente/), Bsc & Msc. BioNMR Group, University of Barcelona, Spain. Bachelor’s Thesis: Evaluation of the oxidative potential of YmoB Protein. Supervisor: Miquel Pons Vallès.
+1. **2012**, [Tommaso Martelli](https://www.linkedin.com/in/tommasomartelli/), PhD. CERM, University of Florence, Italy. Theme: Molecular Biology techniques for the expression of Matrix Metalloproteinases constructurs. Supervisor: Claudio Luchinat.
 1. **2009**, [David M. Dias](https://www.linkedin.com/in/david-miguel-dias/). Licentiate Thesis, CNC, University of Coimbra, Portugal. Licentiate Thesis: Strategies for protein-ligand binding evaluation by STD-NMR. Supervisor: Carlos F.G.C. Geraldes.
 {: reversed="reversed"}
 
@@ -657,9 +660,12 @@ Occasional bass-guitar player. Able to lead with high-risk and compromised
 situations. Able to work in team and independently.  Able to lead and to
 support a leader.
 
+[DBS]: https://www.biomed.unipd.it/ "Department of Biomedical Sciences"
 [JP]: https://www.joaor.eu/ "Dr João Rodrigues"
+[MFL]: https://fuxreiterlab.github.io/
 [SD]: https://es-es.facebook.com/pg/speleodiscovery/posts/ "Speleo Discovery"
 [abl]: https://www.bonvinlab.org "Alexandre Bonvin Lab Webpage"
+[airc]: https://www.airc.it/ "AIRC"
 [alb]: https://biologicalsciences.leeds.ac.uk/molecular-and-cellular-biology/staff/35/professor-alex-breeze
 [bc]: https://www.ibmb.csic.es/en/staff-member/bernat-crosas/ "Bernat Crossas"
 [biox]: https://bioexcel.eu/ "BioExcel"
@@ -707,6 +713,7 @@ support a leader.
 [tmd]: https://bit.ly/3sGqnwd "taurenmd"
 [ub]: https://www.ub.edu/web/portal/ "University of Barcelona"
 [uc]: https://www.uc.pt/en "University of Coimbra"
+[unipd]: https://www.unipd.it/ "University of Padua"
 [uu]: https://www.uu.nl/en "Utrecht University"
 [uup]: https://www.uu.nl/staff/mobile/JMCorreiaTeixeira "JMCT UU Profile"
 [vvmc]: https://viviendomochileros.com/2018/08/02/mountaineering-courses/ "Mountaineering training"
