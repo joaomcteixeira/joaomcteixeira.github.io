@@ -8,7 +8,7 @@ author_profile: true
 
 <img src="assets/images/idp_ensemble.png" alt="IDP ensemble" style="width:1000px;"/>
 
-# Latest most relevant publication
+# Latest highlighted research
 
 ## IDPConformerGenerator: A Flexible Software Suite for Sampling the Conformational Space of Disordered Protein States
 
