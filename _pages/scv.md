@@ -139,6 +139,11 @@ possible solutions for particular problems. You can find my posts at
 *by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "Protein interactions: anything new?"  
+   Barrera-Vilarmau, S; **Teixeira, J. M. C.**; Fuxreiter, M  
+   **Essays in Biochemistry** *2022*, EBC20220044.  
+   <https://doi.org/10.1042/EBC20220044> (:unlock: open-access)
+
 1. "IDPConformerGenerator: A Flexible Software Suite for Sampling Conformational Space of Disordered Protein States"  
    **Teixeira, J. M. C.@**; Liu, Z. H.; Namini, A.; Li, J.; Vernon, R. M.; Krzeminski, M.; Shamandy, A. A.; Zhang, O.; Haghighatlari, M.; Yu, L.; Head-Gordon, T.; Forman-Kay, J. D.@  
    **Journal of Physical Chemistry A** *2022*, 126, 5985–6003.  
@@ -148,7 +153,7 @@ possible solutions for particular problems. You can find my posts at
 1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
    Zhang, O.; Haghighatlari, M.; Li, J.; **Teixeira, J. M. C.**; Namini, A.; Liu, Z. H.; Forman-Kay, J. D.  
    **arXiv** *2022* *(preprint)*  
-   <https://doi.org/10.48550/arXiv.2206.12667>
+   <https://doi.org/10.48550/arXiv.2206.12667> (:unlock: open-access)
 
 1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
    Li, J.; Zhang, O.; Lee, S.; Namini, A.; Liu, Z. H.; **Teixeira, J. M. C.**; Forman-Kay, J. D.; Head-Gordon, T.  
