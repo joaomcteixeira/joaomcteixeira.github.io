@@ -139,6 +139,10 @@ possible solutions for particular problems. You can find my posts at
 *by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
+   Mónika Gönczi, **João M.C. Teixeira**, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter  
+   **Nature Communications** *2023*, *accepted*
+
 1. "Protein interactions: anything new?"  
    Barrera-Vilarmau, S; **Teixeira, J. M. C.**; Fuxreiter, M  
    **Essays in Biochemistry** *2022*, EBC20220044.  
