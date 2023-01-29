@@ -139,6 +139,14 @@ possible solutions for particular problems. You can find my posts at
 *by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "FuzPred: A Web Server for the Sequence-Based Prediction of the Context-Dependent Binding Modes of Proteins"  
+   Andras Hatos#, **João M.C. Teixeira#**, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter  
+   **Nucleic Acids Research**, 2023, *under review*
+
+1. "SPyCi-PDB: A modular command-line interface for back-calculating experimental datatypes of protein structures"  
+   Zi Hao Liu, Oufan Zhang, João M. C. Teixeira, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay  
+   **The Journal of Open Source Software**, *2023*, *under review* - [#4861](https://github.com/openjournals/joss-reviews/issues/4861)  
+
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
    Mónika Gönczi, **João M.C. Teixeira**, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter  
    **Nature Communications** *2023*, *accepted*
@@ -197,8 +205,8 @@ possible solutions for particular problems. You can find my posts at
 
 1. "Extended Experimental Inferential Structure Determination Method in Determining the Structural Ensembles of Disordered Protein States"  
   Lincoff, J.; Haghighatlari, M.; Krzeminski, M.; **Teixeira, J. M. C.**; Gomes, G.-N. W.; Gradinaru, C. C.; Forman-Kay, J. D.; Head-Gordon, T.  
-  **Communications Chemistry** *2020*, 3 (1), 1–12.
-   <https://doi.org/10.1038/s42004-020-0323-0>  
+  **Communications Chemistry** *2020*, 3 (74), 1–12.  
+   <https://doi.org/10.1038/s42004-020-0323-0>  (:unlock: open-access)  
    [Pre-print @arxiv](https://arxiv.org/abs/1912.12582) (:unlock: open-access)
 
 1. "Cis-Trans Proline Isomers in the Catalytic Domain of Calcineurin"  
