@@ -326,7 +326,7 @@ possible solutions for particular problems. You can find my posts at
 
 # Fellowships and Awards
 
-1. AIRC Postdoctoral Researcher. Fondazione AIRC per la Ricerca sul Cancro ETS, "Aberrant condensates as drug targets for cancer". (1 year)
+1. AIRC Postdoctoral Researcher. [Fondazione AIRC per la Ricerca sul Cancro ETS][airc], "Aberrant condensates as drug targets for cancer". (1 year)
 1. Transnational Activity Fellowship. Scientific Knowledge Transfer to and within BioNMR, NMR for structural Biology. Task 3.4, contract no. 261863. **2013**. (1 month)
 1. Short Term Scientific Mission. COST Action D38, COST-STSM-D38-05161. **2009**. (3 months)
 1. Doctoral Fellowship. Foundation of Science and Technology (FCT), Portugal. SRFH/BD/45928/2008. **2008**. (4 years)
