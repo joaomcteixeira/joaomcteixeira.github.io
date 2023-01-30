@@ -151,6 +151,11 @@ possible solutions for particular problems. You can find my posts at
    Mónika Gönczi, **João M.C. Teixeira**, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter  
    **Nature Communications** *2023*, *under review*
 
+1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
+   Jie Li, Oufan Zhang, Seokyoung Lee, Ashley Namini, Zi Hao Liu, **João M.C. Teixeira**, Julie D Forman-Kay, Teresa Head-Gordon  
+   **Journal of Chemical Theory and Computation** *2023*, *accepted*  
+   [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2205.04676) (:unlock: open-access)  
+
 1. "Protein interactions: anything new?"  
    Barrera-Vilarmau, S; **Teixeira, J. M. C.**; Fuxreiter, M  
    **Essays in Biochemistry** *2022*, EBC20220044.  
@@ -166,11 +171,6 @@ possible solutions for particular problems. You can find my posts at
    Zhang, O.; Haghighatlari, M.; Li, J.; **Teixeira, J. M. C.**; Namini, A.; Liu, Z. H.; Forman-Kay, J. D.  
    **arXiv** *2022* *(preprint)*  
    <https://doi.org/10.48550/arXiv.2206.12667> (:unlock: open-access)
-
-1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
-   Li, J.; Zhang, O.; Lee, S.; Namini, A.; Liu, Z. H.; **Teixeira, J. M. C.**; Forman-Kay, J. D.; Head-Gordon, T.  
-   **arXiv** *2022* *(preprint)*  
-   <https://doi.org/10.48550/arXiv.2205.04676> (:unlock: open-access)  
 
 1. "Protein Dynamics to Define and Refine Protein Ensembles"  
   Pavithra, N.; Haghighatlari, M.; Ashley, N.; **Teixeira, J. M. C.**; Li, J.; Zhang, O.; Gradinaru, C.; Forman-Kay, J.; Head-Gordon, T.  
