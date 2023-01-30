@@ -149,7 +149,7 @@ possible solutions for particular problems. You can find my posts at
 
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
    Mónika Gönczi, **João M.C. Teixeira**, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter  
-   **Nature Communications** *2023*, *accepted*
+   **Nature Communications** *2023*, *under review*
 
 1. "Protein interactions: anything new?"  
    Barrera-Vilarmau, S; **Teixeira, J. M. C.**; Fuxreiter, M  
@@ -326,6 +326,7 @@ possible solutions for particular problems. You can find my posts at
 
 # Fellowships and Awards
 
+1. AIRC Postdoctoral Researcher. Fondazione AIRC per la Ricerca sul Cancro ETS, "Aberrant condensates as drug targets for cancer". (1 year)
 1. Transnational Activity Fellowship. Scientific Knowledge Transfer to and within BioNMR, NMR for structural Biology. Task 3.4, contract no. 261863. **2013**. (1 month)
 1. Short Term Scientific Mission. COST Action D38, COST-STSM-D38-05161. **2009**. (3 months)
 1. Doctoral Fellowship. Foundation of Science and Technology (FCT), Portugal. SRFH/BD/45928/2008. **2008**. (4 years)
@@ -475,7 +476,7 @@ possible solutions for particular problems. You can find my posts at
   Bijvoet Symposium, April 2022. Utrecht, The Netherlands.  
   [Poster](https://docs.google.com/drawings/d/1m7xRsesqtECEgzdQUytcYG6GopRgDSdOWcBSsIXv5s0)
 1. "Introducing HADDOCK v3": A rebuilt, renewed, modern, extensible, and modular version"  
-  EMBO-Workshop: Advances and challenges in biomolecular workshop, October 21st, 2021. Virtual conference.  
+  EMBO-Workshop: Advances and challenges in biomolecular simulations, October 21st, 2021. Workshop.
   [Poster](https://docs.google.com/drawings/d/1CLHBuumsDkNOdyTixVd93lOUEHUmdKZIDoXGItmqz90)
 1. "Automated NMR Data treatment of simple and complex experimental datasets"  
   CECAM Workshop 2017: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France.  
