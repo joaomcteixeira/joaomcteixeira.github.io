@@ -159,7 +159,7 @@ possible solutions for particular problems. You can find my posts at
 1. "Protein interactions: anything new?"  
    Barrera-Vilarmau, S; **Teixeira, J. M. C.**; Fuxreiter, M  
    **Essays in Biochemistry** *2022*, EBC20220044.  
-   <https://doi.org/10.1042/EBC20220044> (:unlock: open-access)
+   [https://doi.org/10.1042/EBC20220044](https://pubmed.ncbi.nlm.nih.gov/36416856/) (:unlock: open-access)
 
 1. "IDPConformerGenerator: A Flexible Software Suite for Sampling Conformational Space of Disordered Protein States"  
    **Teixeira, J. M. C.@**; Liu, Z. H.; Namini, A.; Li, J.; Vernon, R. M.; Krzeminski, M.; Shamandy, A. A.; Zhang, O.; Haghighatlari, M.; Yu, L.; Head-Gordon, T.; Forman-Kay, J. D.@  
