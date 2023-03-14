@@ -1,13 +1,15 @@
 main:
-  - title: Scientific CV
+  - title: "Home"
+    url: /
+  - title: "News"
+    url: /news
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Software"
+    url: /software/
+  - title: CV
     url: /scv/
-  - title: "Blog"
-    url: /posts/
-#  - title: "Categories"
-#    url: /categories/
-#  - title: "Tags"
-#    url: /tags/
-  - title: "About Me"
-    url: /about/
   - title: "Contact"
     url: /contact/
