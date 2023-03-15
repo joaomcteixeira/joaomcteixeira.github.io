@@ -13,151 +13,151 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
 *#: equal contribution; @: corresponding author*
 
 1. "SPyCi-PDB: A modular command-line interface for back-calculating experimental datatypes of protein structures"  
-   Zi Hao Liu, Oufan Zhang, João M. C. Teixeira, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay  
    **The Journal of Open Source Software**, *2023*, *under review* - [#4861](https://github.com/openjournals/joss-reviews/issues/4861)  
+   <p style="font-size:90%;">Zi Hao Liu, Oufan Zhang, <b>João M.C. Teixeira</b>, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay</p>  
 
 1. "FuzPred: A Web Server for the Sequence-Based Prediction of the Context-Dependent Binding Modes of Proteins"  
-   Andras Hatos#, **João M.C. Teixeira#**, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter  
    **Nucleic Acids Research** *2023*, *Accepted*
+   <p style="font-size:90%;">Andras Hatos#, <b>João M.C. Teixeira#</b>, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter</p>
 
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
-   Mónika Gönczi, **João M.C. Teixeira**, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter  
    **Nature Communications** *2023*, 14, 1329.  
    <https://doi.org/10.1038/s41467-023-37017-7> (:unlock: open-access)
+   <p style="font-size:90%;">Mónika Gönczi, <b>João M.C. Teixeira</b>, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter</p>
 
 1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
-   Jie Li, Oufan Zhang, Seokyoung Lee, Ashley Namini, Zi Hao Liu, **João M.C. Teixeira**, Julie D Forman-Kay, Teresa Head-Gordon  
    **Journal of Chemical Theory and Computation** *2023*  
    <https://doi.org/10.1021/acs.jctc.2c01270>  
    [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2205.04676) (:unlock: open-access)  
+   <p style="font-size:90%;">Jie Li, Oufan Zhang, Seokyoung Lee, Ashley Namini, Zi Hao Liu, <b>João M.C. Teixeira</b>, Julie D. Forman-Kay, Teresa Head-Gordon</p>  
 
 1. "Protein interactions: anything new?"  
-   Barrera-Vilarmau, S; **Teixeira, J. M. C.**; Fuxreiter, M  
    **Essays in Biochemistry** *2022*, 66, 7, 821-830.  
    [https://doi.org/10.1042/EBC20220044](https://pubmed.ncbi.nlm.nih.gov/36416856/) (:unlock: open-access)
+   <p style="font-size:90%;">Susana Barrera-Vilarmau#; <b>João M.C. Teixeira#</b>; Monika Fuxreiter</p>
 
 1. "IDPConformerGenerator: A Flexible Software Suite for Sampling Conformational Space of Disordered Protein States"  
-   **Teixeira, J. M. C.@**; Liu, Z. H.; Namini, A.; Li, J.; Vernon, R. M.; Krzeminski, M.; Shamandy, A. A.; Zhang, O.; Haghighatlari, M.; Yu, L.; Head-Gordon, T.; Forman-Kay, J. D.@  
    **Journal of Physical Chemistry A** *2022*, 126, 5985–6003.  
    <https://doi.org/10.1021/acs.jpca.2c03726> (:unlock: open-access)  
    [Pre-print @bioRxiv](https://doi.org/10.1101/2022.05.28.493726) (:unlock: open-access)  
+   <p style="font-size:90%;"><b>João M.C. Teixeira@</b>, Zi Hao Liu, Ashley Namini, Jie Li, Robert M. Vernon, Mickaël Krzeminski, Alaa A. Shamandy, Oufan Zhang, Mojtaba Haghighatlari, Lei Yu, Teresa Head-Gordon, Julie D. Forman-Kay@</p>
 
 1. "BioExcel Whitepaper on Scientific Software Development"  
-   Abraham, Mark J.; Melquiond, Adrien S.J.; Ippoliti, Emiliano; Gapsys, Vytautas; Hess, Berk; Trellet, Mikael; Rodrigues, João P.G.L.M.; Laure, Erwin; Apostolov, Rossen; de Groot, Bert L.; Bonvin, Alexandre M.J.J.; Lindahl, Erik; Bauer, Paul; **Teixeira, João Correia**; Groenhof, Gerrit; Morozov, Dmitry; Honorato, Rodriga; Jimenez, Brian  
    **Zenodo** *2022*  
    <https://doi.org/10.5281/zenodo.6404474> (:unlock: open-access)
+   <p style="font-size:90%;">Abraham, Mark J.; Melquiond, Adrien S.J.; Ippoliti, Emiliano; Gapsys, Vytautas; Hess, Berk; Trellet, Mikael; Rodrigues, João P.G.L.M.; Laure, Erwin; Apostolov, Rossen; de Groot, Bert L.; Bonvin, Alexandre M.J.J.; Lindahl, Erik; Bauer, Paul; <b>João M.C. Teixeira</b>; Groenhof, Gerrit; Morozov, Dmitry; Honorato, Rodriga; Jimenez, Brian</p>
 
 1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
-   Zhang, O.; Haghighatlari, M.; Li, J.; **Teixeira, J. M. C.**; Namini, A.; Liu, Z. H.; Forman-Kay, J. D.  
    **arXiv** *2022* *(preprint)*  
    <https://doi.org/10.48550/arXiv.2206.12667> (:unlock: open-access)
+   <p style="font-size:90%;">Oufan Zhang, Mojtaba Haghighatlari, Jie Li, <b>Joao M.C. Teixeira</b>, Ashley Namini, Zi-Hao Liu, Julie D. Forman-Kay, Teresa Head-Gordon</p>
 
 1. "Protein Dynamics to Define and Refine Protein Ensembles"  
-  Pavithra, N.; Haghighatlari, M.; Ashley, N.; **Teixeira, J. M. C.**; Li, J.; Zhang, O.; Gradinaru, C.; Forman-Kay, J.; Head-Gordon, T.  
-  **Journal of Physical Chemistry B** *2022*, 126, 9, 1885-1894.  
+   **Journal of Physical Chemistry B** *2022*, 126, 9, 1885-1894.  
    <https://doi.org/10.1021/acs.jpcb.1c10925>  
+   <p style="font-size:90%;">Pavithra M. Naullage, Mojtaba Haghighatlari, Ashley Namini, <b>João M.C. Teixeira</b>, Jie Li, Oufan Zhang, Claudiu C. Gradinaru, Julie D. Forman-Kay, Teresa Head-Gordon</p>
 
 1. "A Methionine Chemical Shift Based Order Parameter Characterizing Global Protein Dynamics"  
-  Chashmniam, S.#; **Teixeira, J. M. C.#**; Paniagua, J. C.; Pons, M.  
-  **ChemBioChem** *2021*, 22, 1001–1004.  
+   **ChemBioChem** *2021*, 22, 1001–1004.  
    <https://doi.org/10.1002/cbic.202000701>  
+   <p style="font-size:90%;">Saeed Chashmniam#, <b>João M.C. Teixeira#</b>, Juan Carlos Paniagua, Miquel Pons</p>
 
 1. "PDB-Tools Web: A User-Friendly Interface for the Manipulation of PDB Files"  
-  Jiménez‐García, B.; **Teixeira, J. M. C.**; Trellet, M.; Rodrigues, J. P. G. L. M.; Bonvin, A. M. J. J.  
-  **Proteins: Structure, Function, and Bioinformatics** *2021*, 89 (3), 330–335.  
+   **Proteins: Structure, Function, and Bioinformatics** *2021*, 89 (3), 330–335.  
    <https://doi.org/10.1002/prot.26018> (:unlock: open-access)  
+   <p style="font-size:90%;">Brian Jiménez-García, <b>João M.C. Teixeira</b>, Mikael Trellet, João P.G.L.M. Rodrigues, Alexandre M.J.J. Bonvin</p>
 
 1. "Taurenmd: A Command-Line Interface for Analysis of Molecular Dynamics Simulations"  
-   **Teixeira, J. M. C.@**  
    **Journal of Open Source Software** *2020*, 5 (50), 2175.  
-    <https://doi.org/10.21105/joss.02175> (:unlock: open-access)  
+   <https://doi.org/10.21105/joss.02175> (:unlock: open-access)  
+   <p style="font-size:90%;"><b>João M.C. Teixeira@</b></p>
 
 1. "Insights on Cross-Species Transmission of SARS-CoV-2 from Structural Modeling"  
-  Rodrigues, J. P. G. L. M.; Barrera-Vilarmau, S.#; **Teixeira, J. M. C.#**; Seckel, E.; Kastritis, P.; Levitt, M.  
-  **PLOS Computational Biology** *2020*, 16, e1008449.  
+   **PLOS Computational Biology** *2020*, 16, e1008449.  
    <https://doi.org/10.1371/journal.pcbi.1008449> (:unlock: open-access)  
    [Pre-print @bioRxiv](https://doi.org/10.1101/2020.06.05.136861) (:unlock: open-access)  
+   <p style="font-size:90%;">João P.G.L.M. Rodrigues, Susana Barrera-Vilarmau#, <b>João M.C. Teixeira#</b>, Marija Sorokina, Elizabeth Seckel, Panagiotis L. Kastritis, Michael Levitt</p>
 
 1. "Structural Models of Human ACE2 Variants with SARS-CoV-2 Spike Protein for Structure-Based Drug Design"  
-  Sorokina, M.#; **Teixeira, J. M. C.#**; Barrera-Vilarmau, S.#; Paschke, R.#; Papasotiriou, I.#; Rodrigues, J. P. G. L. M.#; Kastritis, P. L.#  
-  **Scientific Data** *2020*, 7 (1), 309.  
+   **Scientific Data** *2020*, 7 (1), 309.  
    <https://doi.org/10.1038/s41597-020-00652-6> (:unlock: open-access)  
+   <p style="font-size:90%;">Marija Sorokina#, <b>João M.C. Teixeira#</b>, Susana Barrera-Vilarmau#, Reinhard Paschke#, Ioannis Papasotiriou#, João P.G.L.M. Rodrigues#, Panagiotis L. Kastritis#</p>
 
 1. "Extended Experimental Inferential Structure Determination Method in Determining the Structural Ensembles of Disordered Protein States"  
-  Lincoff, J.; Haghighatlari, M.; Krzeminski, M.; **Teixeira, J. M. C.**; Gomes, G.-N. W.; Gradinaru, C. C.; Forman-Kay, J. D.; Head-Gordon, T.  
-  **Communications Chemistry** *2020*, 3 (74), 1–12.  
+   **Communications Chemistry** *2020*, 3 (74), 1–12.  
    <https://doi.org/10.1038/s42004-020-0323-0>  (:unlock: open-access)  
    [Pre-print @arxiv](https://arxiv.org/abs/1912.12582) (:unlock: open-access)
+   <p style="font-size:90%;">James Lincoff, Mojtaba Haghighatlari, Mickael Krzeminski, <b>João M.C. Teixeira</b>, Gregory-Neal W. Gomes, Claudiu C. Gradinaru, Julie D. Forman-Kay, Teresa Head-Gordon</p>
 
 1. "Cis-Trans Proline Isomers in the Catalytic Domain of Calcineurin"  
-  **Teixeira, J. M. C.**; Guasch, A.; Biçer, A.; Aranguren‐Ibáñez, Á.; Chashmniam, S.; Paniagua, J. C.; Pérez‐Riba, M.; Fita, I.; Pons, M.  
-  **The FEBS Journal** *2019*, 286 (6), 1230–1239.  
+   **The FEBS Journal** *2019*, 286 (6), 1230–1239.  
    <https://doi.org/10.1111/febs.14721> (:unlock: open-access)  
+   <p style="font-size:90%;"><b>João M.C. Teixeira</b>, Alicia Guasch, Atilla Biçer, Álvaro Aranguren-Ibáñez, Saeed Chashmniam, Juan Carlos Paniagua, Mercè Pérez-Riba, Ignacio Fita, Miquel Pons</p>
 
 1. "A Myristoyl-Binding Site in the SH3 Domain Modulates c-Src Membrane Anchoring"  
-  Le Roux, A.-L.; Mohammad, I.-L.; Mateos, B.; Arbesú, M.; Gairí, M.; Khan, F. A.; **Teixeira, J. M. C.**; Pons, M.  
-  **iScience** *2019*, 12, 194–203.  
+   **iScience** *2019*, 12, 194–203.  
    <https://doi.org/10.1016/j.isci.2019.01.010> (:unlock: open-access)  
+   <p style="font-size:90%;">Anabel-Lise Le Roux, Irrem-Laareb Mohammad, Borja Mateos, Miguel Arbesú, Margarida Gairí, Farman Ali Khan, <b>João M.C. Teixeira</b>, Miquel Pons</p>
 
 1. "Pdb-Tools: A Swiss Army Knife for Molecular Structures"  
-  Rodrigues, J. P. G. L. M.; **Teixeira, J. M. C.**; Trellet, M.; Bonvin, A. M. J. J.  
-  **F1000Res** *2018*, 7, 1961.  
+   **F1000Res** *2018*, 7, 1961.  
    <https://doi.org/10.12688/f1000research.17456.1> (:unlock: open-access)  
+   <p style="font-size:90%;">João P. G. L. M. Rodrigues, <b>João M.C. Teixeira</b>, Mikaël Trellet, Alexandre M.J.J. Bonvin</p>
 
 1. "The Two Isoforms of Lyn Display Different Intramolecular Fuzzy Complexes with the SH3 Domain"  
-  **Teixeira, J. M. C.**; Fuentes, H.; Bielskutė, S.; Gairi, M.; Żerko, S.; Koźmiński, W.; Pons, M.  
-  **Molecules** *2018*, 23 (11), 2731.  
+   **Molecules** *2018*, 23 (11), 2731.  
    <https://doi.org/10.3390/molecules23112731> (:unlock: open-access)  
+   <p style="font-size:90%;"><b>João M.C. Teixeira</b>, Héctor Fuentes, Stasė Bielskutė, Margarida Gairi, Szymon Żerko, Wiktor Koźmiński, Miquel Pons</p>
 
 1. "Farseer-NMR: Automatic Treatment, Analysis and Plotting of Large, Multi-Variable NMR Data"  
-  **Teixeira, J. M. C.@**; Skinner, S. P.; Arbesú, M.; Breeze, A. L.; Pons, M.  
-  **Journal Biomolecular NMR** *2018*, 71 (1), 1–9.  
+   **Journal Biomolecular NMR** *2018*, 71 (1), 1–9.  
    <https://doi.org/10.1007/s10858-018-0182-5> (:unlock: open-access)  
+   <p style="font-size:90%;"><b>João M.C. Teixeira@</b>, Simon P. Skinner, Miguel Arbesú, Alexander L. Breeze, Miquel Pons</p>
 
 1. "Intramolecular Fuzzy Interactions Involving Intrinsically Disordered Domains"  
-  Arbesú, M.; Iruela, G.; Fuentes, H.; **Teixeira, J. M. C.**; Pons, M.  
-  **Frontiers Molecular Biosciences** *2018*, 5.  
+   **Frontiers Molecular Biosciences** *2018*, 5.  
    <https://doi.org/10.3389/fmolb.2018.00039> (:unlock: open-access)  
+   <p style="font-size:90%;">Miguel Arbesú, Guillermo Iruela, Héctor Fuentes, <b>João M.C. Teixeira</b>, Miquel Pons</p>
 
 1. "The Unique Domain Forms a Fuzzy Intramolecular Complex in Src Family Kinases"  
-  Arbesú, M.; Maffei, M.; Cordeiro, T. N.; **Teixeira, J. M. C.**; Pérez, Y.; Bernadó, P.; Roche, S.; Pons, M.  
-  **Structure** *2017*, 25 (4), 630-640.e4.  
+   **Structure** *2017*, 25 (4), 630-640.e4.  
    <https://doi.org/10.1016/j.str.2017.02.011> (:unlock: open-access)  
+   <p style="font-size:90%;">Miguel Arbesú, Mariano Maffei, Tiago N. Cordeiro, <b>João M.C. Teixeira</b>, Yolanda Pérez, Pau Bernadó, Serge Roche, Miquel Pons</p>
 
 1. "An Oxygen-Sensitive Toxin-Antitoxin System"  
-  Marimon, O.; **Teixeira, J. M. C.**; Cordeiro, T. N.; Soo, V. W. C.; Wood, T. L.; Mayzel, M.; Amata, I.; García, J.; Morera, A.; Gay, M.; Vilaseca, M.; Orekhov, V. Y.; Wood, T. K.; Pons, M.  
-  **Nature Communications** *2016*, 7, 13634.  
+   **Nature Communications** *2016*, 7, 13634.  
    <https://doi.org/10.1038/ncomms13634> (:unlock: open-access)  
+   <p style="font-size:90%;">Oriol Marimon, <b>João M. C. Teixeira</b>, Tiago N. Cordeiro, Valerie W. C. Soo, Thammajun L. Wood, Maxim Mayzel, Irene Amata, Jesús García, Ainara Morera, Marina Gay, Marta Vilaseca, Vladislav Yu Orekhov, Thomas K. Wood, Miquel Pons</p>
 
 1. "A C2HC Zinc Finger Is Essential for the RING-E2 Interaction of the Ubiquitin Ligase RNF12"  
-  Bijlmakers, M.-J.; **Teixeira, J. M. C.**; Boer, R.; Mayzel, M.; Puig-Sàrries, P.; Karlsson, G.; Coll, M.; Pons, M.; Crosas, B.  
-  **Scientific Reports** *2016*, 6 (1), 29232.  
+   **Scientific Reports** *2016*, 6 (1), 29232.  
    <https://doi.org/10.1038/srep29232> (:unlock: open-access)
+   <p style="font-size:90%;">Marie-José Bijlmakers, <b>João M.C. Teixeira</b>, Roeland Boer, Maxim Mayzel, Pilar Puig-Sàrries, Göran Karlsson, Miquel Coll, Miquel Pons, Bernat Crosas </p>
 
 1. "A Bis(Pyridine N-Oxide) Analogue of DOTA: Relaxometric Properties of the Gd(III) Complex and Efficient Sensitization of Visible and NIR-Emitting Lanthanide(III) Cations Including Pr(III) and Ho(III)"  
-  Martins, A. F.; Eliseeva, S. V.; Carvalho, H. F.; **Teixeira, J. M. C.**; Paula, C. T. B.; Hermann, P.; Platas-Iglesias, C.; Petoud, S.; Tóth, E.; Geraldes, C. F. G. C.  
-  **Chemistry** *2014*, 20 (45), 14834–14845.  
+   **Chemistry** *2014*, 20 (45), 14834–14845.  
    <https://doi.org/10.1002/chem.201403856>
+   <p style="font-size:90%;">André F. Martins, Svetlana V. Eliseeva, Henrique F. Carvalho, <b>João M.C. Teixeira</b>, Carlos T.B. Paula, Petr Hermann, Carlos Platas-Iglesias, Stephane Petoud, Éva Tóth, Carlos F.G.C. Geraldes</p>
 
 1. "Examination of Matrix Metalloproteinase-1 in Solution A PREFERENCE FOR THE PRE-COLLAGENOLYSIS STATE"  
-  Cerofolini, L.; Fields, G. B.; Fragai, M.; Geraldes, C. F. G. C.; Luchinat, C.; Parigi, G.; Ravera, E.; Svergun, D. I.; **Teixeira, J. M. C.**  
-  **Journal of Biological Chemistry** *2013*, 288 (42), 30659–30671.  
+   **Journal of Biological Chemistry** *2013*, 288 (42), 30659–30671.  
    <https://doi.org/10.1074/jbc.M113.477240> (:unlock: open-access)
+   <p style="font-size:90%;">Linda Cerofolini, Gregg B. Fields, Marco Fragai, Carlos F.G.C. Geraldes, Claudio Luchinat, Giacomo Parigi, Enrico Ravera, Dmitri I. Svergun, <b>João M.C. Teixeira</b></p>
 
 1. "The Catalytic Domain of MMP-1 Studied through Tagged Lanthanides"  
-  Bertini, I.; Calderone, V.; Cerofolini, L.; Fragai, M.; Geraldes, C. F. G. C.; Hermann, P.; Luchinat, C.; Parigi, G.; **Teixeira, J. M. C.**  
-  **FEBS Letters** *2012*, 586 (5), 557–567.  
+   **FEBS Letters** *2012*, 586 (5), 557–567.  
    <https://doi.org/10.1016/j.febslet.2011.09.020> (:unlock: open-access)
+   <p style="font-size:90%;">Ivano Bertini, Vito Calderone, Linda Cerofolini, Marco Fragai, Carlos F.G.C. Geraldes, Petr Hermann, Claudio Luchinat, Giacomo Parigi, <b>João M.C. Teixeira</b></p>
 
 1. "The Interaction of La3+ Complexes of DOTA/DTPA Glycoconjugates with the RCA120 Lectin: A Saturation Transfer Difference NMR Spectroscopic Study"  
-  **Teixeira, J. M. C.**; Dias, D. M.; Cañada, F. J.; Martins, J. A.; André, J. P.; Jiménez-Barbero, J.; Geraldes, C. F. G. C.  
-  **Journal of Biological Inorganic Chemistry** *2011*, 16 (5), 725.  
+   **Journal of Biological Inorganic Chemistry** *2011*, 16 (5), 725.  
    <https://doi.org/10.1007/s00775-011-0773-z>
+   <p style="font-size:90%;"><b>João M.C. Teixeira</b>, David M. Dias, F. Javier Cañada, José A. Martins, João P. André, Jesús Jiménez-Barbero, Carlos F.G.C. Geraldes</p>
 
 1. "Enantioselective Binding of a Lanthanide(III) Complex to Human Serum Albumin Studied by 1H STD NMR Techniques"  
-  Dias, D. M.; **Teixeira, J. M. C.**; Kuprov, I.; New, E. J.; Parker, D.; Geraldes, C. F. G. C.  
-  **Organic & Biomolecular Chemistry** *2011*, 9 (14), 5047–5050.  
+   **Organic & Biomolecular Chemistry** *2011*, 9 (14), 5047–5050.  
    <https://doi.org/10.1039/C1OB05524K>
+   <p style="font-size:90%;">David M. Dias, <b>João M.C. Teixeira</b>, Ilya Kuprov, Elizabeth J. New, David Parker,  Carlos F.G.C. Geraldes</p>
 {: reversed="reversed"}
 
 ## Book chapters
