@@ -22,7 +22,7 @@ highlighted. All papers are described in the [publications](/publications) tab.
 flexibility governs cell homeostasis in health and disease. In the last two
 decades, researchers built the basis for understanding intrinsically disordered
 proteins and we are now able to investigate protein condensation through
-the lens of structural biology. Specifically, I focus on understanding how
+the lens of structural biology. Specifically, my research is focused on understanding how
 **fuzzy binding** networks (as theoretically developed by Dr. Monika Fuxreiter)
 control and describe protein-protein interactions [<a
 href="https://pubmed.ncbi.nlm.nih.gov/36416856/" >1</a>, <a
@@ -76,7 +76,7 @@ SFK’s activity.
 
 ## Role of MMP linkers in collagenolysis
 
-During my Ph.D., I described how the MMP's **flexible linker** orchestrates the
+During my Ph.D., we described how the MMP's **flexible linker** orchestrates the
 relative movements MMP's catalytic and hemopexin folded domains by poising them
 favorable to cleave the triple helical collagen - a process necessary for the
 metastatic progression of tumor cells
@@ -87,7 +87,7 @@ and software from the [We-NMR][wenmr] consortium to solve a large biochemical
 unknown and provide models for MMP-1 free, and collagen-bound, **in solution**. This
 research was highlighted in the first issue of the [paraNMR FP-7
 letters][paraNMR], you can download my Ph.D. thesis from [ResearchGate][phd]
-where the MMP-1:Collagen models are presented. I am author of the MMP-1
+where the MMP-1:Collagen models are presented. I am the author of the MMP-1
 dedicated chapter in the Handbook of Proteolytic Enzymes, 2023.
 {: .text-justify}
 
@@ -122,7 +122,7 @@ Specifically, I was responsible for the whole Python-shell orchestrating the CNS
 core libraries. Additionally, I created the package/library structure, defined
 the CI pipelines, implemented complex features to enhance user experience, and
 defined the methods for the compatibility of HADDOCK3 with other software within
-and outside the [BioExcel][biox] framework.  I have been contributing to
+and outside the [BioExcel][biox] framework. I have been contributing to
 HADDOCK3 as an external collaborator ever since. FYI, you can view the state of
 HADDOCK3 when I left as leader developer [here][hd3jmct]. To engage and share
 with the community, I imparted talks on developing open-source software and
