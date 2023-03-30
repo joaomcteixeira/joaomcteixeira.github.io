@@ -3,6 +3,17 @@ permalink: /news/
 title: "News"
 ---
 
+## Published the new FuzPred server!
+*30th May 2023*
+
+Paper published! :eyes: **FuzPred: a web server for the sequence-based prediction of the context-dependent binding modes of proteins**. :point_right: <a href="https://pubmed.ncbi.nlm.nih.gov/36987846/"><img src="../assets/images/paper.png" alt="idpcg" style="width:38px;"/></a>
+The server implements the algorithm initially developed by Monika Fuxreiter. Now, leveraging previous experience, the server and paper are organized to enhance the communication between our method and users and readers. I am joyful about the figures we designed; they are clear, very colorful, and present the data innovatively. I look forward to hearing from you and for you to use our server.  
+Cheers!
+{: .text-justify}
+
+<img src="../assets/images/fuzz_pred.jpeg" alt="FuzzPred Graphical Abstract" style="width:500px;"/>
+{: .text-justify}
+
 ## IDPConformerGenerator published!
 
 IDPConformerGenerator is a flexible software suite for sampling the
@@ -18,3 +29,4 @@ reposities :point_right:
 {: .text-justify}
 
 <img src="../assets/images/idp_ensemble.png" alt="IDP ensemble" style="width:700px;"/>
+{: .text-justify}

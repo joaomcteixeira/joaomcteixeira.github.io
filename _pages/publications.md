@@ -17,7 +17,8 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
    <p style="font-size:90%;">Zi Hao Liu, Oufan Zhang, <b>João M.C. Teixeira</b>, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay</p>  
 
 1. "FuzPred: A Web Server for the Sequence-Based Prediction of the Context-Dependent Binding Modes of Proteins"  
-   **Nucleic Acids Research** *2023*, *Accepted*
+   **Nucleic Acids Research** *2023*  
+   <https://doi.org/10.1093/nar/gkad214>  
    <p style="font-size:90%;">Andras Hatos#, <b>João M.C. Teixeira#</b>, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter</p>
 
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
