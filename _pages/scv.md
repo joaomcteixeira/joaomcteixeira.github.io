@@ -5,7 +5,9 @@ toc: true
 toc_sticky: true
 ---
 
-Find the Spanish Normalized CV (CVN) version [here][cvn].
+* Find [here][cvn] my CV in the Spanish Normalized CV (CVN) format  
+* Publications, lectured workshops, talks, and posters are listed in the [Publications](publications.md) page.  
+* Produced software is listed in the [Software](software.md) page.
 
 ## Current Position
 
