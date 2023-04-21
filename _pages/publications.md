@@ -13,17 +13,17 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
 *#: equal contribution; @: corresponding author*
 
 1. "SPyCi-PDB: A modular command-line interface for back-calculating experimental datatypes of protein structures"  
-   **The Journal of Open Source Software**, *2023*, *under review* - [#4861](https://github.com/openjournals/joss-reviews/issues/4861)  
+   **The Journal of Open Source Software**, *2023*, *under review* - [#4861](https://github.com/openjournals/joss-reviews/issues/4861) (:unlock: open-access)  
    <p style="font-size:90%;">Zi Hao Liu, Oufan Zhang, <b>João M.C. Teixeira</b>, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay</p>  
 
 1. "FuzPred: A Web Server for the Sequence-Based Prediction of the Context-Dependent Binding Modes of Proteins"  
    **Nucleic Acids Research** *2023*  
-   <https://doi.org/10.1093/nar/gkad214>  
+   <https://doi.org/10.1093/nar/gkad214> (:unlock: open-access)  
    <p style="font-size:90%;">Andras Hatos#, <b>João M.C. Teixeira#</b>, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter</p>
 
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
    **Nature Communications** *2023*, 14, 1329.  
-   <https://doi.org/10.1038/s41467-023-37017-7> (:unlock: open-access)
+   <https://doi.org/10.1038/s41467-023-37017-7> (:unlock: open-access)  
    <p style="font-size:90%;">Mónika Gönczi, <b>João M.C. Teixeira</b>, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter</p>
 
 1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
