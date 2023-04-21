@@ -67,7 +67,7 @@ author:
       url: "http://goo.gl/D5n37X"
 
     - label: "Pubmed"
-      icon: "fab fa-fw fa-book"
+      icon: "fa fa-book"
       url: "https://bit.ly/jmctpubmed"
 
     - label: "ORCID"
