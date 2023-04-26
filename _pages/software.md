@@ -55,6 +55,16 @@ requiring no dependencies.
 
 <img src="http://www.bonvinlab.org/pdb-tools/logo/pdb-tools.png" alt="pdbtools" style="width:450px;"/>{: .align-center}
 
+## SPyCi-PDB
+
+SPyCi-PDB is a user-friendly Python interface to back-calculate experimental
+data for singular or ensembles of PDB structures. SPyCi-PDB can calculate NMR
+chemical shifts, NOE, J-couplings, PRE, RDCs, SAXS, and hydrodynamic radius.
+<a href="https://github.com/julie-forman-kay-lab/SPyCi-PDB"><img src="../assets/images/github-mark.svg" alt="spyci" style="width:35px;"/></a>
+<a href="https://github.com/openjournals/joss-reviews/issues/4861"><img src="../assets/images/paper.png" alt="spyci" style="width:38px;"/></a>
+{: .text-justify}
+
+<img src="https://raw.githubusercontent.com/julie-forman-kay-lab/SPyCi-PDB/0e7b60d50a021d741dd7db4e2b9fbb9605fec95b/docs/spycipdb_ascii1.png" alt="spyci" style="width:450px;"/>{: .align-center}
 
 ## Python project skeleton
 
