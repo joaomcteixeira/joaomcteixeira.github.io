@@ -110,23 +110,14 @@ significantly contributed to) several software suites applied to biophysical
 sciences.
 {: .text-justify}
 
-I highlight my recent contribution to the [HADDOCK3][hd3] project as a **lead
+I highlight my contribution to the [HADDOCK3][hd3] project as a **lead
 developer** from July 2021 to August 2022, when I brought the project from a
-proof-of-concept to a fully-featured beta version. **HADDOCK** is the largest
-biomolecular docking software in academia with thousands of active users
-worldwide and is part of the European three-times funded [BioExcel][biox]
-project.
-{: .text-justify}
-
-Specifically, I was responsible for the whole Python-shell orchestrating the CNS
-core libraries. Additionally, I created the package/library structure, defined
-the CI pipelines, implemented complex features to enhance user experience, and
-defined the methods for the compatibility of HADDOCK3 with other software within
-and outside the [BioExcel][biox] framework. I have been contributing to
-HADDOCK3 as an external collaborator ever since. FYI, you can view the state of
-HADDOCK3 when I left as leader developer [here][hd3jmct]. To engage and share
-with the community, I imparted talks on developing open-source software and
-program architecture.
+proof-of-concept to a [fully-featured beta version](hd3jmct). **HADDOCK** is the
+largest biomolecular docking software in academia with thousands of active users
+worldwide and is part of the - three-times European funded - [BioExcel][biox]
+project. To engage and share with the community, I imparted
+[talks](/software/#talks) on developing open-source software and program
+architecture.
 {: .text-justify}
 
 In the [software](/software) tab, you can find the list of software projects I

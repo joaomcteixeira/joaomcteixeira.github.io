@@ -39,8 +39,6 @@ offering new features to users who can now define custom workflows
 <a href="https://github.com/haddocking/haddock3"><img src="../assets/images/github-mark.svg" alt="haddock3" style="width:35px;"/></a>
 {: .text-justify}
 
-**Contribution:** Lead developer between July 2021 and August 2022.
-
 <img src="../assets/images/haddock3_t.png" alt="haddock3" style="width:700px;"/>{: .align-center}
 
 ## pdb-tools
