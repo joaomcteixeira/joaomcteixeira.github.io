@@ -4,32 +4,31 @@ title: "Research"
 ---
 
 I am passionate about understanding the **role of protein's flexibility** in
-life and disease. *Protein flexibility* includes structural adaptation,
+**life and disease**: *Protein flexibility* includes structural adaptation,
 coordinated multi-domain motions, flexible linkers, disordered regions, and
-fully disordered proteins. On the other hand, the *processes of life* include
-everything: cell signaling, catalysis, inhibition, activation, coordination,
-condensation, and many others. Therefore, structural dynamics is intrinsic and
-necessary to all biomolecules.
+fully disordered proteins. On the other hand, the *processes of life and
+disease* include: cell signaling, catalysis, inhibition, activation,
+coordination, condensation, and many others. Therefore, structural dynamics is
+intrinsic and necessary to all biomolecules.
 {: .text-justify}
 
-Below is a short description of my main research topics, where some articles are
-highlighted. All papers are described in the [publications](/publications) tab.
+Below is a short description of my main research topics. The most relevant
+articles are highlighted and all papers are listed in the
+[publications](/publications) tab.
 {: .text-justify}
 
-## Aberrant protein condensates in disease
+## Protein fuzzy binding in aberrant protein condensates in disease
 
 **Structural dynamics** is vital for cellular processes; hence, protein
 flexibility governs cell homeostasis in health and disease. In the last two
 decades, researchers built the basis for understanding intrinsically disordered
-proteins and we are now able to investigate protein condensation through
-the lens of structural biology. Specifically, my research is focused on understanding how
-**fuzzy binding** networks (as theoretically developed by Dr. Monika Fuxreiter)
-control and describe protein-protein interactions [<a
-href="https://pubmed.ncbi.nlm.nih.gov/36416856/" >1</a>, <a
-href="https://fuzpred.bio.unipd.it/predictor" >2</a>] and protein liquid-liquid
-phase separation [<a href="https://www.nature.com/articles/s41467-023-37017-7">3</a>]
-and how single or multiple mutations result in aberrant condensation in
-disease.
+proteins and we are now able to investigate protein condensation through the
+lens of structural biology. Specifically, my research is focused on
+understanding how **fuzzy binding** networks (a theoretical framework developed
+by Dr. Monika Fuxreiter) control and describe protein-protein interactions [<a href="https://pubmed.ncbi.nlm.nih.gov/36416856/" >1</a>,
+<a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad214/7092913">2</a>],
+protein liquid-liquid phase separation [<a href="https://www.nature.com/articles/s41467-023-37017-7">3</a>], and how
+single or multiple mutations result in aberrant condensation in disease.
 {: .text-justify}
 
 ## Modeling Intrinsically Disordered Proteins
@@ -43,16 +42,17 @@ concepts on intrinsically disordered proteins (IDPs).
 {: .text-justify}
 
 We have developed a main software suite, **IDPConformerGenerator** [<a
-href="https://pubmed.ncbi.nlm.nih.gov/36030416/">1</a>], able to generate highly
-diverse conformers of peptide chains expected to be disordered. Also, we
-proposed and implemented a Bayesian framework for ensemble selection that
-accounts for uncertainties in experimental data [<a
-href="https://pubmed.ncbi.nlm.nih.gov/32775701/">2</a>]. Recently we have
+href="https://pubmed.ncbi.nlm.nih.gov/36030416/">1</a>, <a
+href="https://github.com/julie-forman-kay-lab/IDPConformerGenerator">2</a>],
+able to generate highly diverse conformers of peptide chains expected to be
+disordered. Also, we proposed and implemented a Bayesian framework for ensemble
+selection that accounts for uncertainties in experimental data [<a
+href="https://pubmed.ncbi.nlm.nih.gov/32775701/">3</a>]. Recently we have
 leveraged machine learning methods to generate data-accurate ensembles of IDPs
 and more accurate conformer models [<a
-href="https://arxiv.org/abs/2206.12667">3</a>, <a
-href="https://pubmed.ncbi.nlm.nih.gov/36749957/">4</a>, <a
-href="https://pubmed.ncbi.nlm.nih.gov/35213160/">5</a>].
+href="https://arxiv.org/abs/2206.12667">4</a>, <a
+href="https://pubmed.ncbi.nlm.nih.gov/36749957/">5</a>, <a
+href="https://pubmed.ncbi.nlm.nih.gov/35213160/">6</a>].
 {: .text-justify}
 
 ## Fuzzy interactions regulating Src Family Kinases
