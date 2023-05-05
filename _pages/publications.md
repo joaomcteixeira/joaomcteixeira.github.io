@@ -12,12 +12,18 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
 *Here shown by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
+   **Journal of Chemical Physics** *2023*, 158, 17, *accepted*.  
+   <https://doi.org/10.1063/5.0141474>  
+   [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2206.12667) (:unlock: open-access)  
+   <p style="font-size:90%;">Oufan Zhang, Mojtaba Haghighatlari, Jie Li, Zi Hao Liu, Ashley Namini, <b>João MC Teixeira</b>, Julie D. Forman-Kay, Teresa Head-Gordon</p>
+
 1. "SPyCi-PDB: A modular command-line interface for back-calculating experimental datatypes of protein structures"  
    **The Journal of Open Source Software**, *2023*, *under review* - [#4861](https://github.com/openjournals/joss-reviews/issues/4861) (:unlock: open-access)  
    <p style="font-size:90%;">Zi Hao Liu, Oufan Zhang, <b>João M.C. Teixeira</b>, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay</p>  
 
 1. "FuzPred: A Web Server for the Sequence-Based Prediction of the Context-Dependent Binding Modes of Proteins"  
-   **Nucleic Acids Research** *2023*  
+   **Nucleic Acids Research** *2023*, gkad214  
    <https://doi.org/10.1093/nar/gkad214> (:unlock: open-access)  
    <p style="font-size:90%;">Andras Hatos#, <b>João M.C. Teixeira#</b>, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter</p>
 
@@ -47,11 +53,6 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
    **Zenodo** *2022*  
    <https://doi.org/10.5281/zenodo.6404474> (:unlock: open-access)
    <p style="font-size:90%;">Abraham, Mark J.; Melquiond, Adrien S.J.; Ippoliti, Emiliano; Gapsys, Vytautas; Hess, Berk; Trellet, Mikael; Rodrigues, João P.G.L.M.; Laure, Erwin; Apostolov, Rossen; de Groot, Bert L.; Bonvin, Alexandre M.J.J.; Lindahl, Erik; Bauer, Paul; <b>João M.C. Teixeira</b>; Groenhof, Gerrit; Morozov, Dmitry; Honorato, Rodriga; Jimenez, Brian</p>
-
-1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
-   **arXiv** *2022* *(preprint)*  
-   <https://doi.org/10.48550/arXiv.2206.12667> (:unlock: open-access)
-   <p style="font-size:90%;">Oufan Zhang, Mojtaba Haghighatlari, Jie Li, <b>Joao M.C. Teixeira</b>, Ashley Namini, Zi-Hao Liu, Julie D. Forman-Kay, Teresa Head-Gordon</p>
 
 1. "Protein Dynamics to Define and Refine Protein Ensembles"  
    **Journal of Physical Chemistry B** *2022*, 126, 9, 1885-1894.  
