@@ -13,7 +13,7 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
 *#: equal contribution; @: corresponding author*
 
 1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
-   **Journal of Chemical Physics** *2023*, 158, 17, *accepted*.  
+   **Journal of Chemical Physics** *2023*, 158, 174113 (:unlock: open-access)  
    <https://doi.org/10.1063/5.0141474>  
    [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2206.12667) (:unlock: open-access)  
    <p style="font-size:90%;">Oufan Zhang, Mojtaba Haghighatlari, Jie Li, Zi Hao Liu, Ashley Namini, <b>João MC Teixeira</b>, Julie D. Forman-Kay, Teresa Head-Gordon</p>
