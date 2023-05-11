@@ -12,31 +12,32 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
 *Here shown by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
-1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
-   **Journal of Chemical Physics** *2023*, 158, 174113 (:unlock: open-access)  
-   <https://doi.org/10.1063/5.0141474>  
-   [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2206.12667) (:unlock: open-access)  
-   <p style="font-size:90%;">Oufan Zhang, Mojtaba Haghighatlari, Jie Li, Zi Hao Liu, Ashley Namini, <b>João MC Teixeira</b>, Julie D. Forman-Kay, Teresa Head-Gordon</p>
-
-1. "SPyCi-PDB: A modular command-line interface for back-calculating experimental datatypes of protein structures"  
-   **The Journal of Open Source Software**, *2023*, *under review* - [#4861](https://github.com/openjournals/joss-reviews/issues/4861) (:unlock: open-access)  
-   <p style="font-size:90%;">Zi Hao Liu, Oufan Zhang, <b>João M.C. Teixeira</b>, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay</p>  
+1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
+   **Nature Communications** *2023*, 14, 1329.  
+   <https://doi.org/10.1038/s41467-023-37017-7> (:unlock: open-access)  
+   <p style="font-size:90%;">Mónika Gönczi, <b>João M.C. Teixeira</b>, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter</p>
 
 1. "FuzPred: A Web Server for the Sequence-Based Prediction of the Context-Dependent Binding Modes of Proteins"  
    **Nucleic Acids Research** *2023*, gkad214  
    <https://doi.org/10.1093/nar/gkad214> (:unlock: open-access)  
    <p style="font-size:90%;">Andras Hatos#, <b>João M.C. Teixeira#</b>, Susana Barrera-Vilarmau, Attila Horvath, Silvio CE Tosatto, Michele Vendruscolo, Monika Fuxreiter</p>
 
-1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
-   **Nature Communications** *2023*, 14, 1329.  
-   <https://doi.org/10.1038/s41467-023-37017-7> (:unlock: open-access)  
-   <p style="font-size:90%;">Mónika Gönczi, <b>João M.C. Teixeira</b>, Susana Barrera-Vilarmau, Laura Mediani, Francesco Antoniani, Tamás Milán Nagy, Zsolt Ráduly, Viktor Ambrus, József Tőzsér, Endre Barta, Katalin E. Kövér, László Csernoch, Serena Carra, Monika Fuxreiter</p>
+1. "Learning to Evolve Structural Ensembles of Unfolded and Disordered Proteins Using Experimental Solution Data"  
+   **Journal of Chemical Physics** *2023*, 158, 174113 (:unlock: open-access)  
+   <https://doi.org/10.1063/5.0141474>  
+   [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2206.12667) (:unlock: open-access)  
+   <p style="font-size:90%;">Oufan Zhang, Mojtaba Haghighatlari, Jie Li, Zi Hao Liu, Ashley Namini, <b>João MC Teixeira</b>, Julie D. Forman-Kay, Teresa Head-Gordon</p>
 
 1. "Learning Correlations between Internal Coordinates to improve 3D Cartesian Coordinates for Proteins"  
-   **Journal of Chemical Theory and Computation** *2023*  
+   **Journal of Chemical Theory and Computation** *2023*, February 7th  
    <https://doi.org/10.1021/acs.jctc.2c01270>  
    [Pre-print @arXiv 2022](https://doi.org/10.48550/arXiv.2205.04676) (:unlock: open-access)  
    <p style="font-size:90%;">Jie Li, Oufan Zhang, Seokyoung Lee, Ashley Namini, Zi Hao Liu, <b>João M.C. Teixeira</b>, Julie D. Forman-Kay, Teresa Head-Gordon</p>  
+
+1. "SPyCi-PDB: A modular command-line interface for back-calculating experimental datatypes of protein structures"  
+   **The Journal of Open Source Software** *2023*, 8(85), 4861  
+   <https://doi.org/10.21105/joss.04861> (:unlock: open-access)  
+   <p style="font-size:90%;">Zi Hao Liu, Oufan Zhang, <b>João M.C. Teixeira</b>, Jie Li, Teresa Head-Gordon, Julie D. Forman-Kay</p>  
 
 1. "Protein interactions: anything new?"  
    **Essays in Biochemistry** *2022*, 66, 7, 821-830.  
