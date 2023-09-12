@@ -12,6 +12,11 @@ See publication list also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed]
 *Here shown by inverse chronological order*
 *#: equal contribution; @: corresponding author*
 
+1. "Local Disordered Region Sampling (LDRS) for Ensemble Modeling of Proteins with Experimentally Undetermined or Low Confidence Prediction Segments"  
+   **bioRxiv** *2023*  
+   <https://doi.org/10.1101/2023.07.25.550520> (:unlock: open-access)  
+   <p style="font-size:90%;">Zi Hao Liu, <b>João M.C. Teixeira</b>, Oufan Zhang, Thomas E. Tsangaris, Jie Li, Claudiu C. Gradinaru, Teresa Head-Gordon, Julie D. Forman-Kay</p>
+
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
    **Nature Communications** *2023*, 14, 1329.  
    <https://doi.org/10.1038/s41467-023-37017-7> (:unlock: open-access)  
