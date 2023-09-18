@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-* Download my full CV in PDF [here][fullcv] and the summarized version [here][shortcv].  
+* Download the complete CV in PDF [here][fullcv] or the summarized 2-page version [here][shortcv].  
 * Publications, talks, and posters are listed in the [Publications](publications.md) page.  
 * Produced software is listed in the [Software](software.md) page.  
 * For summary of my research see the [Research](research.md) page.  
@@ -58,7 +58,7 @@ Title awarded by the University of Coimbra, Portugal.
   [Carlos F.G.C. Geraldes lab][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
   [CNC – Center for Neuroscience and Cell Biology][cnc], [University of Coimbra][uc]  
   Coimbra, Portugal.  
-1. **NMR Research Assistant.** *September 2007 - April 2009*  
+1. **Research Assistant in Nuclear Magnetic Resonance (NMR).** *September 2007 - April 2009*  
   [Carlos F.G.C. Geraldes lab][cfgcg], Inorganic Biochemistry and Molecular Imaging Group  
   [CNC – Center for Neuroscience and Cell Biology][cnc], [University of Coimbra][uc]  
   Coimbra, Portugal.  
@@ -160,6 +160,7 @@ Title awarded by the University of Coimbra, Portugal.
 Students I have mentored and dedicated throughout the years. Thanks to all of
 them for the fantastic moments and the two-way learning.
 
+* **2023**, [Zi Hao Liu](https://github.com/menoliu). Ph.D. student, SikKids, Toronto, Canada.
 * **2022**, [Zi Hao Liu](https://github.com/menoliu). MSc graduate student, SikKids, Toronto, Canada.
 * **2021**, Ashley Nanimi, Summer Student, SickKids, Toronto, Canada.
 * **2020**, [Serene Rodrigues](https://www.linkedin.com/in/serene-rodrigues-3069bb182/), COOP Student SickKids-University of Waterloo, Toronto, Canada.
