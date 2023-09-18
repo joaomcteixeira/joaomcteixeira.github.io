@@ -5,15 +5,16 @@ toc: true
 toc_sticky: true
 ---
 
-* Find [here][cvn] my CV in the Spanish Normalized CV (CVN) format  
-* Publications, lectured workshops, talks, and posters are listed in the [Publications](publications.md) page.  
-* Produced software is listed in the [Software](software.md) page.
+* Download my full CV in PDF [here][fullcv].  
+* Publications, talks, and posters are listed in the [Publications](publications.md) page.  
+* Produced software is listed in the [Software](software.md) page.  
+* For summary of my research see the [Research](research.md) page.  
 
 ## Current Position
 
-**[AIRC][airc] Postdoctoral Researcher.** Since september 2022.  
-[Monika Fuxreiter Lab][MFL]  
-[Department of Biomedical Sciences][DBS]. [University of Padua][unipd], Italy.  
+Open to work as software engineer and method developer in the field of protein
+biophysics, dynamics, and intrinsically disordered proteins. [Contact
+me!](/contact/)
 
 ## Education
 
@@ -34,7 +35,10 @@ Title awarded by the University of Coimbra, Portugal.
 
 ## Previous positions
 
-1. **BioExcel-funded Postdoctoral Researcher.**  *July 2021 - Aug 2022*  
+1. **[AIRC][airc] Postdoctoral Researcher.** *September 2022 - June 2023*.  
+   [Monika Fuxreiter Lab][MFL]  
+   [Department of Biomedical Sciences][DBS]. [University of Padua][unipd], Italy.  
+1. **BioExcel-funded Postdoctoral Researcher.**  *July 2021 - August 2022*  
    [Alexandre Bonvin lab][abl], Computational Structural Biology Group  
    [Bijvoet Center for Biomolecular Research][bjv], [Utrecht University][uu]  
    Utrecht, Holland.  
@@ -305,3 +309,4 @@ and caver.
 [wenmr]: https://www.wenmr.eu/ "WeNMR"
 [wk]: http://nmr.cent3.uw.edu.pl/kozminski "Wiktor Koźmiński"
 [fct]: https://www.fct.pt/
+[fullcv]: https://drive.google.com/file/d/1U_HuTI-QAJEV-1s0D9eSuLDeIQLNGG1K/view?usp=sharing "Complete CV"

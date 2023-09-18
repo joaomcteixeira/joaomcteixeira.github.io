@@ -4,4 +4,4 @@ title: "Contact"
 ---
 
 **Personal e-mail:** joaomcteixeira@gmail.com  
-**University of Padua:** joaomiguel.correiateixeira@unipd.it  
+**Linked In:** https://www.linkedin.com/in/joaomcteixeira/

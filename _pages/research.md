@@ -12,8 +12,8 @@ coordination, condensation, and many others. Therefore, structural dynamics is
 intrinsic and necessary to all biomolecules.
 {: .text-justify}
 
-Below is a short description of my main research topics. The most relevant
-articles are highlighted and all papers are listed in the
+Below is a short description of my main research topics. Here, the most relevant
+articles are highlighted but all my papers are listed in the
 [publications](/publications) tab.
 {: .text-justify}
 

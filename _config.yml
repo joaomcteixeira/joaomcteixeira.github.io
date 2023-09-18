@@ -60,7 +60,7 @@ gems:
 author:
   name   : "João M.C. Teixeira"
   avatar : "/assets/images/photo_joao_circle.jpeg"
-  bio    : "Experimental and computational structural biologist."
+  bio    : "Computational structural biologist modeling protein dynamics."
   links:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
