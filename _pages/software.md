@@ -53,18 +53,13 @@ implementation solutions for particular problems. You can find my posts at
 
 ### IDPConformerGenerator
 
-IDPConformerGenerator is a flexible software suite for sampling the
-conformational space of Intrinsically Disordered Proteins which must be described
-as structural ensembles. IDPCG is a flexible, highly-competitive, and modular
-open-source software platform for generating large and diverse ensembles of
-disordered protein states that builds conformers that obey geometric, steric,
-and other physical restraints on the input sequence. IDPConformerGenerator
-samples backbone phi (φ), psi (ψ), and omega (ω) torsion angles of relevant
-sequence fragments from loops and secondary structure elements extracted from
-folded protein structures in the RCSB Protein Data Bank and builds side chains
-from robust Monte Carlo algorithms using expanded rotamer libraries.
-IDPConformerGenerator is also able to model loops and terminal tails in the
-presence of complexes and membrane bilayers!
+IDPConformerGenerator is a flexible, highly competitive, and modular open-source
+software platform for sampling the conformational space of Intrinsically
+Disordered Proteins. From an input aminoacid sequence, IDPCG can generate large
+and diverse ensembles of all-atom disordered protein states that obey geometric,
+steric, and other physical restraints. It also models loops and terminal tails
+with post-transcriptional modifications and accounts for bound protein partners
+and lipid bilayers!
 <a href="https://github.com/julie-forman-kay-lab/IDPConformerGenerator"><img src="../assets/images/github-mark.svg" alt="idpcg" style="width:35px;"/></a>
 <a href="https://pubs.acs.org/doi/full/10.1021/acs.jpca.2c03726"><img src="../assets/images/paper.png" alt="idpcg" style="width:38px;"/></a>
 <a href="https://www.biorxiv.org/content/10.1101/2023.07.25.550520v1"><img src="../assets/images/paper.png" alt="ldrs" style="width:38px;"/></a>

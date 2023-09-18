@@ -5,7 +5,7 @@ toc: true
 toc_sticky: true
 ---
 
-* Download my full CV in PDF [here][fullcv].  
+* Download my full CV in PDF [here][fullcv] and the summarized version [here][shortcv].  
 * Publications, talks, and posters are listed in the [Publications](publications.md) page.  
 * Produced software is listed in the [Software](software.md) page.  
 * For summary of my research see the [Research](research.md) page.  
@@ -310,3 +310,4 @@ and caver.
 [wk]: http://nmr.cent3.uw.edu.pl/kozminski "Wiktor Koźmiński"
 [fct]: https://www.fct.pt/
 [fullcv]: https://drive.google.com/file/d/1U_HuTI-QAJEV-1s0D9eSuLDeIQLNGG1K/view?usp=sharing "Complete CV"
+[shortcv]: https://drive.google.com/file/d/1QirZbMHNHwPeBh_XRl5hzXWAeTGbjMUN/view?usp=sharing "Short CV"
