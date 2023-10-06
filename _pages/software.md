@@ -16,10 +16,12 @@ open-source best practices, which I have lectured about.
 
 ## Opinion and technical articles
 
-I enjoy writing about advanced programming concepts and
-implementation solutions for particular problems. You can find my posts at
-[DEV.to][devto] and [PythonicThoughtsSnippets][pts]; from which I highlight the
-[Rethinking Python Decorators](https://dev.to/joaomcteixeira/rethinking-python-decorators-2g53) post.
+You can find my posts of software modularity and solution strategies at
+[DEV.to][devto] and [PythonicThoughtsSnippets][pts]. In particular, my post
+[Rethinking Python
+Decorators](https://dev.to/joaomcteixeira/rethinking-python-decorators-2g53) and
+their applications to multiprocessing and pickling expresses my vision and
+attitude towards programming.
 
 ## Talks
 
