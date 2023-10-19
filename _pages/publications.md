@@ -21,7 +21,7 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
    <p style="font-size:90%;">Zi Hao Liu, <b>João M.C. Teixeira</b>, Oufan Zhang, Thomas E. Tsangaris, Jie Li, Claudiu C. Gradinaru, Teresa Head-Gordon, Julie D. Forman-Kay</p>
 
 1. "PED in 2024: improving the community deposition of structural ensembles for intrinsically disordered proteins"  
-   **Nucleic Acids Research**, *2023*, *Submitted*  
+   **Nucleic Acids Research**, *2023*, *Accepted*  
    <p style="font-size:90%;">Hamidreza Ghafouri, Tamas Lazar, Alessio Del Conte, Luiggi G Tenorio Ku, <b>PED Consortium</b>, Peter Tompa, Silvio C. E. Tosatto, Alexander Miguel Monzon</p>
 
 1. "DeepRank2: Mining 3D Protein Structures with Geometric Deep Learning"  
