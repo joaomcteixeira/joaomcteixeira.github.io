@@ -21,19 +21,19 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
    <p style="font-size:90%;">Zi Hao Liu, <b>João M.C. Teixeira</b>, Oufan Zhang, Thomas E. Tsangaris, Jie Li, Claudiu C. Gradinaru, Teresa Head-Gordon, Julie D. Forman-Kay</p>
 
 1. "PED in 2024: improving the community deposition of structural ensembles for intrinsically disordered proteins"  
-   **Nucleic Acids Research**, *2023*, *Accepted*  
+   **Nucleic Acids Research**, *2023*, gkad947  
+   <https://doi.org/10.1093/nar/gkad947>  
    <p style="font-size:90%;">Hamidreza Ghafouri, Tamas Lazar, Alessio Del Conte, Luiggi G Tenorio Ku, <b>PED Consortium</b>, Peter Tompa, Silvio C. E. Tosatto, Alexander Miguel Monzon</p>
 
 1. "DeepRank2: Mining 3D Protein Structures with Geometric Deep Learning"  
    **The Journal of Open Source Software (JOSS)** *2023*, *submitted*  
-   <https://github.com/openjournals/joss-reviews/issues/5878>
+   <https://github.com/openjournals/joss-reviews/issues/5878>  
    <p style="font-size:90%;">Giulia Crocioni, Dani L. Bodor, Coos Baakman, Farzaneh M. Parizi, Daniel T. Rademaker, Gayatri Ramakrishnan, Sven van der Burg, Dario F. Marzella, <b>João M. C. Teixeira</b>, Li C. Xue</p>
 
 1. "Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment."  
-   **Proteins: Structure, Function, and Bioinformatics**, *2023*, *Accepted*  
-   <https://doi.org/10.1002/prot.26609>  
-   <https://doi.org/10.22541/au.168888815.53957253/v1> :unlock:  
-   <p style="font-size:90%;">Marc Lensink, Guillaume Brysbaert, Nessim Raouraoua, et al. 
+   **Proteins: Structure, Function, and Bioinformatics**, *2023*  
+   <https://doi.org/10.1002/prot.26609> :unlock:  
+   <p style="font-size:90%;">Marc Lensink, Guillaume Brysbaert, Nessim Raouraoua, Paul A. Bates, Marco Giulini, Rodrigo V. Honorato, Charlotte van Noort, <b>João M. C. Teixeira</b>, Alexandre M. J. J. Bonvin, <i>et. al.</i></p>
 
 1. "Alternatively spliced exon regulates context-dependent MEF2D higher-order assembly during myogenesis"  
    **Nature Communications** *2023*, 14, 1329.  
