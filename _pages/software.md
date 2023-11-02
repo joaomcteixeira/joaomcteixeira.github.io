@@ -41,6 +41,10 @@ attitude towards programming.
   [Youtube](https://www.youtube.com/watch?v=V7uwFbVDKFE) |
   [Slides](https://docs.google.com/presentation/d/1C8KngBXWAF-6FJkP7DH-j6E1LKwYzqtwS2SSS_g-riM)  
 
+1. "Introducing HADDOCK3, Enabling modular integrative modelling pipelines"  
+   NMR Meeting at Utrecht University, 1st June, **2022**  
+   [Slides](https://docs.google.com/presentation/d/1HLmxHFCR4vhDPYpdVbCrpdEOkEqPw3l_5VK1yTSALcA)
+
 1. "Effective open-science practices for organizing a scientific software repository - extended"  
   International Symposium on Grids & Clouds (ISGC), 20-25th March, **2022**, Virtual Conference.  
   [Abstract](https://docs.google.com/document/d/1dZ4XsI7UahdoSINcNuOiH8T_bZtaHDUMDc1-4qcFDQk) |
