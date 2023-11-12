@@ -203,7 +203,12 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
 
 ## Talks, Teaching, and Workshops
 
-1. "Modular code for a modular software: developing HADDOCK3".  
+1. "From modeling multidomain proteins with HADDOCK2 to building HADDOCK3."  
+   20 Years of HADDOCK, **2023**  
+   [Twitter](https://x.com/amjjbonvin/status/1722646890439676190) |
+   [Slides](https://bit.ly/20YRSHDK)  
+
+1. "Modular code for a modular software: developing HADDOCK3."  
   [Instruct][instruct] Software Developers Exchange Webinar 5, June 10th, **2022**  
   **Invited Talk**.  
   [Website](https://instruct-eric.eu/content/instruct-software-developers-exchange-webinar-series) |
@@ -212,7 +217,7 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
   [Youtube](https://www.youtube.com/watch?v=5Uk1EvzCOIg) |
   [Slides](https://docs.google.com/presentation/d/1vW8CtNTLh0UDBjxsfz5f_Td8v-IEX6xY5SExv3SgpPk)  
 
-1. "Introducing HADDOCK3: Enabling modular integrative modelling pipelines"  
+1. "Introducing HADDOCK3: Enabling modular integrative modelling pipelines."  
   [BioExcel][bioexcel] Webminar, June 7th, **2022**  
   **Invited Talk**.  
   [Website](https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/) |
@@ -221,23 +226,23 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
   [Youtube](https://www.youtube.com/watch?v=V7uwFbVDKFE) |
   [Slides](https://docs.google.com/presentation/d/1C8KngBXWAF-6FJkP7DH-j6E1LKwYzqtwS2SSS_g-riM)  
 
-1. "Introducing HADDOCK3, Enabling modular integrative modelling pipelines"  
+1. "Introducing HADDOCK3, Enabling modular integrative modelling pipelines."  
    NMR Meeting at Utrecht University, 1st June, **2022**  
    [Slides](https://docs.google.com/presentation/d/1HLmxHFCR4vhDPYpdVbCrpdEOkEqPw3l_5VK1yTSALcA)
 
-1. "Effective open-science practices for organizing a scientific software repository - extended"  
+1. "Effective open-science practices for organizing a scientific software repository - extended."  
   International Symposium on Grids & Clouds (ISGC), 20-25th March, **2022**  
   **Talk**, *Virtual Conference.*  
   [Abstract](https://docs.google.com/document/d/1dZ4XsI7UahdoSINcNuOiH8T_bZtaHDUMDc1-4qcFDQk) |
   [Slides](https://docs.google.com/presentation/d/1phdI7Q0aiK1dwh7TAcvNqlGVObWLq__WuZ-TUD5XRfM)  
 
-1. "Effective open-science practices for organizing a scientific software repository - short"  
+1. "Effective open-science practices for organizing a scientific software repository - short."  
   OSCU Open Science Symposium - Faculty of Science, October 10th, Utrecht University, Netherlands, **2021**.  
   **Talk**  
   [Slides on OSF](https://osf.io/ghfbr/) |
   [Slides on GDrive](https://docs.google.com/presentation/d/1rD5H7Eps5LHKQAhu21KFywDxbKawOalfXWVDYVVTL0U)  
 
-1. "Protein docking"  
+1. "Protein docking."  
   EMBL-EBI Structural Bioinformatics virtual course, 11-15th October, **2021**  
   **Hands-on Session tutor.**  
 
