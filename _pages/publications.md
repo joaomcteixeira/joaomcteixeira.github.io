@@ -204,7 +204,7 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
 ## Talks, Teaching, and Workshops
 
 1. "From modeling multidomain proteins with HADDOCK2 to building HADDOCK3."  
-   20 Years of HADDOCK, **2023**  
+   20 Years of HADDOCK, Huizen, The Netherlands, 7-10th November, **2023**  
    [Twitter](https://x.com/amjjbonvin/status/1722646890439676190) |
    [Slides](https://bit.ly/20YRSHDK)  
 
