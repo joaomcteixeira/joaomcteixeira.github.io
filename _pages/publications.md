@@ -31,7 +31,7 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
    <p style="font-size:90%;">Giulia Crocioni, Dani L. Bodor, Coos Baakman, Farzaneh M. Parizi, Daniel T. Rademaker, Gayatri Ramakrishnan, Sven van der Burg, Dario F. Marzella, <b>João M. C. Teixeira</b>, Li C. Xue</p>
 
 1. "Impact of AlphaFold on Structure Prediction of Protein Complexes: The CASP15-CAPRI Experiment."  
-   **Proteins: Structure, Function, and Bioinformatics**, *2023*  
+   **Proteins: Structure, Function, and Bioinformatics**, volume 91, issue 12, *2023*  
    <https://doi.org/10.1002/prot.26609> :unlock:  
    <p style="font-size:90%;">Marc Lensink, Guillaume Brysbaert, Nessim Raouraoua, Paul A. Bates, Marco Giulini, Rodrigo V. Honorato, Charlotte van Noort, <b>João M. C. Teixeira</b>, Alexandre M. J. J. Bonvin, <i>et. al.</i></p>
 
