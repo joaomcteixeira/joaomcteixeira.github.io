@@ -5,14 +5,14 @@ toc: true
 toc_sticky: true
 ---
 
-* Download the complete CV in PDF [here][fullcv] or the summarized 2-page version [here][shortcv].  
+* Download the complete CV in PDF [here][fullcv].  
 * Publications, talks, and posters are listed in the [Publications](publications.md) page.  
 * Produced software is listed in the [Software](software.md) page.  
 * For summary of my research see the [Research](research.md) page.  
 
 ## Current Position
 
-Open to work as software engineer and method developer in the field of protein
+Open to work as software engineer, method developer, and consultant in the field of protein
 biophysics, dynamics, and intrinsically disordered proteins. [Contact
 me!](/contact/)
 
@@ -23,7 +23,7 @@ me!](/contact/)
 Title awarded by the University of Coimbra, Portugal.  
 *Approved Unanimously with Distinction and Honours.*  
 *Grant:* [FCT][fct] Doctoral Research Grant for International Training (4 years)  
-*Thesis title:* "Paramagnetic NMR of Proteins to Study the Collagenolitic Mechanism of MMP-1."  
+*Thesis title:* "Paramagnetic NMR of Proteins to Study the Collagenolytic Mechanism of MMP-1."  
 *Supervisors:* [Carlos F.G.C. Geraldes][cfgcg] and [Claudio Luchinat][clu].  
 [Thesis PDF][phd] | [Slides](https://drive.google.com/file/d/1klGsqmeo6DZmUfLn7oeKtkkhEEHo7mQz)
 
@@ -35,18 +35,18 @@ Title awarded by the University of Coimbra, Portugal.
 
 ## Previous positions
 
-1. **[AIRC][airc] Postdoctoral Researcher.** *September 2022 - June 2023*.  
+1. **[AIRC][airc]-funded Research Software Engineer / Data Analyst.** *September 2022 - June 2023*.  
    [Monika Fuxreiter Lab][MFL]  
    [Department of Biomedical Sciences][DBS]. [University of Padua][unipd], Italy.  
-1. **BioExcel-funded Postdoctoral Researcher.**  *July 2021 - August 2022*  
+1. **BioExcel-funded Research Software Engineer.**  *July 2021 - August 2022*  
    [Alexandre Bonvin lab][abl], Computational Structural Biology Group  
    [Bijvoet Center for Biomolecular Research][bjv], [Utrecht University][uu]  
    Utrecht, Holland.  
-1. **NIH-funded Postdoctoral Researcher.** *April 2019 - May 2021*  
+1. **NIH-funded Research Software Engineer.** *April 2019 - May 2021*  
    [Julie Forman-Kay lab][jfk]  
    Program in Molecular Medicine, [Hospital for Sick Children][skids]  
    Toronto, Canada.  
-1. **Postdoctoral Researcher.** *February 2014 - June 2018*  
+1. **Postdoctoral Researcher / Research Software Engineer.** *February 2014 - June 2018*  
   [Miquel Pons lab][biu], BioNMR Group  
   Department of Inorganic and Organic Chemistry, [University of Barcelona][ub]  
   Barcelona, Spain.  

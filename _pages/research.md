@@ -23,9 +23,8 @@ articles are highlighted but all my papers are listed in the
 flexibility governs cell homeostasis in health and disease. In the last two
 decades, researchers built the basis for understanding intrinsically disordered
 proteins and we are now able to investigate protein condensation through the
-lens of structural biology. Specifically, my research is focused on
-understanding how **fuzzy binding** networks (a theoretical framework developed
-by Dr. Monika Fuxreiter) control and describe protein-protein interactions [<a href="https://pubmed.ncbi.nlm.nih.gov/36416856/" >1</a>,
+lens of structural biology. Specifically, my research focuses on
+understanding how **fuzzy binding** networks control and describe protein-protein interactions [<a href="https://pubmed.ncbi.nlm.nih.gov/36416856/" >1</a>,
 <a href="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad214/7092913">2</a>],
 protein liquid-liquid phase separation [<a href="https://www.nature.com/articles/s41467-023-37017-7">3</a>], and how
 single or multiple mutations result in aberrant condensation in disease.
@@ -34,11 +33,10 @@ single or multiple mutations result in aberrant condensation in disease.
 ## Modeling Intrinsically Disordered Proteins
 
 With [Dr Julie Forman-Kay][jfk] and [Dr Teresa Head-Gordon][thg], we are
-developing various software packages and mathematical strategies to model
-proteins with **high conformational heterogeneity** from experimental data (NMR,
-SAXS, FRET, etc). Because the original tools addressing this topic date from the
-earliest 2000s, there needs to be up-to-date software implementing the latest
-concepts on intrinsically disordered proteins (IDPs).
+developing a software framework to model proteins with **high conformational
+heterogeneity** using experimental data (NMR, SAXS, FRET, etc), Bayesian
+approaches, A.I., and statistical sampling incorporating new and the state-of-the-art
+knowledge in intrinsically disordered proteins (IDPs).
 {: .text-justify}
 
 We have developed a main software suite, **IDPConformerGenerator** [<a
@@ -88,7 +86,7 @@ unknown and provide models for MMP-1 free, and collagen-bound, **in solution**. 
 research was highlighted in the first issue of the [paraNMR FP-7
 letters][paraNMR], you can download my Ph.D. thesis from [ResearchGate][phd]
 where the MMP-1:Collagen models are presented. I am the author of the MMP-1
-dedicated chapter in the Handbook of Proteolytic Enzymes, 2023.
+dedicated chapter in the Handbook of Proteolytic Enzymes, 2024.
 {: .text-justify}
 
 ## New mechanisms to combat antibiotic resistance

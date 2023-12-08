@@ -78,6 +78,10 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joaomcteixeira"
 
+    - label: "DEV.to"
+      icon: "fab fa-fw fa-brands fa-dev"
+      url: "https://dev.to/joaomcteixeira"
+
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/joaomcteixeira/"

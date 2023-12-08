@@ -5,25 +5,31 @@ toc: true
 toc_sticky: true
 ---
 
-After almost 10 years of experience in experimental structural biology, in 2016
-I became a dedicated software developer in the field. I developed new
-methodologies to improve protein modeling, streamlined data analysis, wrote
-smaller software packages, and engineered complex software suites such as
-IDPConformerGenerator and HADDOCK3, and FarSeer-NMR.  On top of that, out of my
-passion, I specialized in designing modular and maintainable software and
-open-source best practices, which I have lectured about.
+The software packages I have authored address pertinent needs of the structural
+biology research field and leverage my ten-year background in studying protein
+structure and dynamics experimentally. My software mainly focuses on modeling
+intrinsically disordered proteins, designing the architecture for modular
+docking software, handling protein structure data, assembling data analysis
+pipelines, and establishing code-developing best practices. Projects are listed
+below.
 {: .text-justify}
 
 ## Opinion and technical articles
 
-You can find my posts of software modularity and solution strategies at
-[DEV.to][devto] and [PythonicThoughtsSnippets][pts]. In particular, my post
-[Rethinking Python
-Decorators](https://dev.to/joaomcteixeira/rethinking-python-decorators-2g53) and
-their applications to multiprocessing and pickling expresses my vision and
-attitude towards programming.
+I enjoy writing about coding solutions to advanced problems I face at work. My
+article [“Rethinking Python Decorators"](https://dev.to/joaomcteixeira/rethinking-python-decorators-2g53) on how to rewrite decorators to apply
+them in multiprocessing and pickling exemplifies my approach toward programming
+and advanced problem-solving. My articles on design choices and implementation
+strategies in Python are on [DEV.to][devto].
+{: .text-justify}
 
-## Talks
+## Talks on software development
+
+1. "From modeling multidomain proteins with HADDOCK2 to building HADDOCK3."  
+   20 Years of HADDOCK, Huizen, The Netherlands, 7-10th November, **2023**  
+   [Twitter](https://twitter.com/joaomcteixeira/status/1723830437376623028) |
+   [Linkedin](https://www.linkedin.com/posts/joaomcteixeira_over-the-last-days-we-have-been-celebrating-activity-7129782080850247680-O4HJ/) |
+   [Slides](https://bit.ly/20YRSHDK)  
 
 1. "Modular code for a modular software: developing HADDOCK3".  
   [Instruct][instruct] Software Developers Exchange Webinar 5, June 10th, **2022**, *invited*.  
@@ -56,6 +62,19 @@ attitude towards programming.
   [Slides on GDrive](https://docs.google.com/presentation/d/1rD5H7Eps5LHKQAhu21KFywDxbKawOalfXWVDYVVTL0U)  
 
 ## Scientific Software
+
+### Python project skeleton
+
+Python-project-skeleton is a template repository where I explain how to
+configure a python package using the latest best practices in open-source
+software. PPS has an efficient package structure, documentation, tests, and
+continuous integration actions covering all needs for automatic deployment.
+Others can use PPS as a template for their projects or navigate around it for
+educational purposes because I thoroughly document all strategies I adopted.
+<a href="https://github.com/joaomcteixeira/python-project-skeleton"><img src="../assets/images/github-mark.svg" alt="pps" style="width:35px;"/></a>
+{: .text-justify}
+
+<img src="../assets/images/python-project-skeleton-bt.png" alt="pdbtools" style="width:450px;"/>{: .align-center}
 
 ### IDPConformerGenerator
 
@@ -107,19 +126,6 @@ chemical shifts, NOE, J-couplings, PRE, RDCs, SAXS, and hydrodynamic radius.
 {: .text-justify}
 
 <img src="https://raw.githubusercontent.com/julie-forman-kay-lab/SPyCi-PDB/0e7b60d50a021d741dd7db4e2b9fbb9605fec95b/docs/spycipdb_ascii1.png" alt="spyci" style="width:450px;"/>{: .align-center}
-
-### Python project skeleton
-
-Python-project-skeleton is a template repository where I explain how to
-configure a python package using the latest best practices in open-source
-software. PPS has an efficient package structure, documentation, tests, and
-continuous integration actions covering all needs for automatic deployment.
-Others can use PPS as a template for their projects or navigate around it for
-educational purposes because I thoroughly document all strategies I adopted.
-<a href="https://github.com/joaomcteixeira/python-project-skeleton"><img src="../assets/images/github-mark.svg" alt="pps" style="width:35px;"/></a>
-{: .text-justify}
-
-<img src="../assets/images/python-project-skeleton-bt.png" alt="pdbtools" style="width:450px;"/>{: .align-center}
 
 ### taurenmd
 
