@@ -16,7 +16,7 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
 </p>
 
 1. :unlock: "Local Disordered Region Sampling (LDRS) for Ensemble Modeling of Proteins with Experimentally Undetermined or Low Confidence Prediction Segments"  
-   **Bioinformatics** *2023*, *Accepted*  
+   **Bioinformatics** *2023*, btad739, <https://doi.org/10.1093/bioinformatics/btad739>  
    [Preprint @bioRxiv](https://doi.org/10.1101/2023.07.25.550520)  
    <p style="font-size:90%;">Zi Hao Liu, <b>João M.C. Teixeira</b>, Oufan Zhang, Thomas E. Tsangaris, Jie Li, Claudiu C. Gradinaru, Teresa Head-Gordon, Julie D. Forman-Kay</p>
 
