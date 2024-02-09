@@ -5,7 +5,6 @@ toc: true
 toc_sticky: true
 ---
 
-* Download the complete CV in PDF [here][fullcv].  
 * Publications, talks, and posters are listed in the [Publications](publications.md) page.  
 * Produced software is listed in the [Software](software.md) page.  
 * For summary of my research see the [Research](research.md) page.  
