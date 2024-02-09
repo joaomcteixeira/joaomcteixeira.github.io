@@ -11,7 +11,7 @@ toc_sticky: true
 
 ## Current Position
 
-**Senior developer.** *January 2024*.
+**Senior developer.** *January 2024*.  
 [Zymvol Biomodeling](https://zymvol.com/)
 
 ## Education
