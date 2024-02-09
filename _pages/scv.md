@@ -12,9 +12,8 @@ toc_sticky: true
 
 ## Current Position
 
-Open to work as software engineer, method developer, and consultant in the field of protein
-biophysics, dynamics, and intrinsically disordered proteins. [Contact
-me!](/contact/)
+**Senior developer.** *January 2024*.
+[Zymvol Biomodeling](https://zymvol.com/)
 
 ## Education
 
