@@ -160,7 +160,7 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
    **Rawlings - Vol. 1 - Handbook of Proteolytic Enzymes, 4e: Metallopeptidases**, *March 2024*, *Elsevier*.  
    *Invited by Dr Neil D. Rawlings. EMBL-European Bioinformatics Institute alumnus. 34
    Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859*  
-   <https://shop.elsevier.com/books/handbook-of-proteolytic-enzymes/rawlings/978-0-12-822573-8>
+   <https://shop.elsevier.com/books/handbook-of-proteolytic-enzymes/rawlings/978-0-443-28849-4>
 
 ## Newspapers highlights
 
