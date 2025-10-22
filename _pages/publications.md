@@ -184,6 +184,11 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
 
 ## Talks, Teaching, and Workshops
 
+1. "Finding enzymes: horizontal scaling on Google Cloud"  
+   Google Cloud Summit Madrid 2025  
+   **Invited Talk**.  
+   [LinkedIn](https://www.linkedin.com/posts/joaomcteixeira_googlecloudsummit25-biomatchmaker-activity-7332765481415741441-a5Ix?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAljpI8BZO4swzBVy9LjN6q8uyH2kgiDDRI)  
+
 1. "From modeling multidomain proteins with HADDOCK2 to building HADDOCK3."  
    20 Years of HADDOCK, Huizen, The Netherlands, 7-10th November, **2023**  
    [Twitter](https://twitter.com/joaomcteixeira/status/1723830437376623028) |
