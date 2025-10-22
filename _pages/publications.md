@@ -170,7 +170,8 @@ See publications also at [Google Scholar](http://goo.gl/D5n37X) and [PubMed](htt
 ## Book chapters
 
 1. "Chapter 89: Matrix Metallopeptidase-1/Interstitial Collagenase."  
-   **Rawlings - Vol. 1 - Handbook of Proteolytic Enzymes, 4e: Metallopeptidases**, *March 2024*, *Elsevier*.  
+   **Handbook of Proteolytic Enzymes**, 4th Edition, *Volume 1: Metallopeptidases*, *August 5, 2025*, *Elsevier*.  
+   Editors: Neil D. Rawlings, David S. Auld.  
    *Invited by Dr Neil D. Rawlings. EMBL-European Bioinformatics Institute alumnus. 34
    Brybank Road, Haverhill, Suffolk, CB9 7WD, UK. Tel: 01440 713859*  
    <https://shop.elsevier.com/books/handbook-of-proteolytic-enzymes/rawlings/978-0-443-28849-4>
