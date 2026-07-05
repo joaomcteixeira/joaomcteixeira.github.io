@@ -82,21 +82,9 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/joaomcteixeira"
 
-#    - label: "DEV.to"
-#      icon: "fab fa-fw fa-brands fa-dev"
-#      url: "https://dev.to/joaomcteixeira"
-#
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/joaomcteixeira"
-#
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/viviendocientificos"
-#
-#    - label: "viviendomochileros"
-#      icon: "fas fa-fw fa-mountain"
-#      url: "https://www.viviendomochileros.wordpress.com"
+    - label: "viviendomochileros"
+      icon: "fas fa-fw fa-mountain"
+      url: "https://www.viviendomochileros.wordpress.com"
 
 #footer:
 #  links:
