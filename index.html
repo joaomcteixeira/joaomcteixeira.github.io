@@ -198,6 +198,10 @@
             font-weight: 600;
             font-size: 1.2rem;
         }
+        .cv-talk-title {
+                font-weight: 600;
+                font-size: 1.2rem;
+        }
         .cv-item-date {
             color: var(--text-muted);
             font-size: 0.9rem;
@@ -247,9 +251,17 @@
                 font-weight: 600;
                 font-size: 1.0rem;
             }
+            .cv-item-subtitle {
+                font-weight: 600;
+                font-size: 0.9rem;
+            }
             .cv-pub-title {
                 font-weight: 600;
-                font-size: 1.0rem;
+                font-size: 0.95rem;
+            }
+            .cv-talk-title {
+                font-weight: 600;
+                font-size: 0.95rem;
             }
 
             /* Compress social links so they fit better */
@@ -321,33 +333,24 @@
            --- PRINT STYLES (PDF EXPORT) ---
            ========================================= */
         @media print {
-            /* Reset body background to pure white and use standard print sizing */
+            /* 1. Core Reset & Typography */
             body {
                 background-color: #ffffff;
                 font-size: 11pt; 
-                color: #000000;
+                color: #000000; /* Standard text remains black, but headings/links inherit their colors */
+                line-height: 1.35; 
             }
 
-            /* Hide the visual-only banner and the interactive sticky menu */
+            /* 2. Hide Web-Only Elements */
             header, 
-            nav.sticky-menu {
+            nav.sticky-menu,
+            .btn, 
+            #back-to-top,
+            #closing-photo {
                 display: none !important;
             }
 
-            /* Adjust the photo section since the banner is gone */
-            .photo-section {
-                margin-top: 0;
-                padding-top: 1rem;
-            }
-
-            /* Simplify the social links so they don't look like web buttons */
-            .social-links a {
-                border: none;
-                padding: 0 0.5rem;
-                color: var(--primary-dark);
-            }
-            
-            /* Expand the container to use the full page width */
+            /* 3. Layout Optimization */
             .container {
                 max-width: 100%;
                 width: 100%;
@@ -355,66 +358,105 @@
                 padding: 0;
             }
 
-            /* Remove shadows, borders, and background colors from sections */
             section {
                 background-color: transparent;
                 box-shadow: none;
                 padding: 0;
-                margin-bottom: 2rem;
+                margin-bottom: 1.5rem; /* Tightened to save vertical space */
             }
 
-            /* Prevent sections and individual items from breaking across pages awkwardly */
+            /* 4. Smart Page Breaking */
             section, 
             .cv-item {
                 page-break-inside: avoid;
                 break-inside: avoid;
             }
 
-            /* Remove the hover `#` anchor links from section titles */
+            /* Prevent detached headings at the bottom of a page */
+            h2, h3, h4 {
+                page-break-after: avoid; 
+                break-after: avoid;
+            }
+
+            /* Prevent single dangling lines at the top/bottom of pages */
+            p, li {
+                orphans: 3; 
+                widows: 3;  
+            }
+
+            /* 5. Clean Up Links & Anchors */
             section h2 a.anchor-link::after {
                 display: none !important;
             }
+
+            .social-links {
+                margin-top: 0.5rem;
+            }
             
-            /* Ensure text contrast is maxed out for printers */
+            .social-links a {
+                border: none;
+                padding: 0 0.5rem;
+                /* Inherits your original CSS colors to stay vibrant in the PDF */
+            }
+
+            /* 6. Photo & Header Adjustments */
+            .photo-section {
+                margin-top: 0;
+                padding-top: 0;
+            }
+
+            .profile-photo {
+                width: 100px;
+                height: 100px;
+                border: 2px solid var(--primary-dark, #333333); 
+                margin-bottom: 0.5rem;
+                /* Grayscale filter removed to keep the photo in full color */
+            }
+
+            .photo-section h1 {
+                font-size: 1.8rem;
+                margin-bottom: 0.2rem;
+            }
+
+            .photo-section p.subtitle {
+                font-size: 1rem;
+                margin-bottom: 0.5rem;
+                color: #333333 !important; 
+            }
+
+            /* 7. Font Size Reductions for Articles and Posters */
+            /* Target publication/poster titles specifically to increase density */
+            #scientific-articles h3,
+            #publications h3,
+            #posters h3,
+            .cv-pub-title {
+                font-size: 1.0rem; /* Scaled down slightly */
+                line-height: 1.2;
+                margin-bottom: 0.3rem;
+            }
+            .cv-talk-title {
+                font-size: 1.05rem; /* Scaled down slightly */
+                line-height: 1;
+                margin-bottom: 0.1rem;
+            }
+
             .cv-item-date, 
             .cv-item-subtitle, 
             .cv-pub-title + p {
                 color: #333333; 
             }
-            /* Shrink the profile photo and tighten borders for print */
-            .profile-photo {
-                width: 100px;
-                height: 100px;
-                border-width: 3px;
-                margin-bottom: 0.5rem;
-            }
 
-            /* Reduce header text sizes and margins to save vertical space */
-            .photo-section h1 {
-                font-size: 1.8rem;
-                margin-bottom: 0.2rem;
-            }
-            
-            .photo-section p.subtitle {
-                font-size: 1rem;
-                margin-bottom: 0.5rem;
-            }
-
-            /* Pull the social links closer to the text */
-            .social-links {
-                margin-top: 0.5rem;
-            }
+            /* 8. Page Margins & Numbering */
             @page {
-                margin: 1.5cm;
+                margin: 1.5cm 1.5cm 2cm 1.5cm; /* Extra bottom space for the page number */
                 @bottom-right {
                     content: "Page " counter(page);
                     font-family: 'Inter', sans-serif;
                     font-size: 9pt;
                     color: #64748b;
                 }
-           }
+            }
         }
-
 
     </style>
 </head>
@@ -436,7 +478,8 @@
 
     <nav class="sticky-menu">
             <a href="#current-position">Current</a>
-            <a href="#background">Background</a>
+            <a href="#about">About</a>
+            <a href="#tech-stack">Tech Stack</a>
             <a href="#education">Education</a>
             <a href="#research">Research</a>
             <a href="#papers">Publications</a>
@@ -487,16 +530,79 @@
 
 
 
-        <section id="background">
-            <h2><a href="#background" class="anchor-link">Background</a></h2>
+<section id="about">
+            <h2><a href="#about" class="anchor-link">About</a></h2>
             <div class="about-text">
-                <p>Specialized in computational structural biology, holding a Licentiate in Biochemistry (2008) and a Ph.D. in Biophysics (2014). My academic research focused on the structural dynamics of proteins using NMR spectroscopy, bridging wet-lab execution with advanced computational modeling. From 2015 to 2024, I expanded my expertise into software engineering in Python, delivering critical open-source suites including the NIH-funded IDPConformerGenerator and the BioExcel-funded HADDOCK3. I have consistently served as a scientific advisor across numerous collaborations.</p>
+                <p><strong>Background:</strong> Specialized in computational structural biology, holding a Licentiate in Biochemistry (2008) and a Ph.D. in Biophysics (2014). My academic research focused on the structural dynamics of proteins using NMR spectroscopy, bridging wet-lab execution with advanced computational modeling. From 2015 to 2024, I expanded my expertise into software engineering in Python, delivering critical open-source suites including the NIH-funded IDPConformerGenerator and the BioExcel-funded HADDOCK3. I have consistently served as a scientific advisor across numerous collaborations.</p>
                 
-                <p>In 2024, I transitioned to the private sector to supervise, develop and optimize scalable scientific pipelines, applying my expertise to architect robust software solutions that run seamlessly across HPC clusters and cloud infrastructure.</p>
+                <p><strong>Current:</strong> In 2024, I transitioned to the private sector to supervise, develop, and optimize scalable scientific pipelines. I apply my expertise in Python and cloud computing to architect robust software solutions that run seamlessly across HPC clusters and Google Cloud infrastructure.</p>
                 
-                <p>Throughout my career, I have secured participation in over a dozen funded projects and grants, authored 34 scientific publications and one book chapter, presented 26 posters at international conferences, and dedicated myself to mentoring over 15 students and junior researchers.</p>
+                <p><strong>Approach:</strong> I am driven by a continuous improvement mindset. I excel at rapidly integrating into new environments, identifying structural inefficiencies, and designing strategic roadmaps for optimization. Across all domains of my work, I consistently take the initiative to transform ad-hoc procedures into standardized, highly efficient workflows, ensuring scalable and robust operations.</p>
+                
+                <p><strong>Metrics:</strong> Throughout my career, I have secured participation in over a dozen funded projects and grants, authored 34 scientific publications and one book chapter, presented 26 posters at international conferences, and dedicated myself to mentoring over 15 students and junior researchers.</p>
+                
+                <p><strong>Global:</strong> My professional journey has been inherently international, shaped by full-time roles and scientific stays across eight countries (Portugal, Spain, Italy, the UK, the Netherlands, the Czech Republic, Canada, and the USA). Complementing this global footprint, I am multilingual, with native proficiency in Portuguese and Spanish, professional working proficiency in English, and working proficiency in Italian.</p>
             </div>
         </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<section id="tech-stack">
+            <h2><a href="#tech-stack" class="anchor-link">Tech Stack &amp; Expertise</a></h2>
+            <div class="about-text">
+                <p style="margin-bottom: 1rem; color: var(--text-muted); font-style: italic;">Primary technology stack. I am highly adaptable and thrive on rapidly mastering new tools and frameworks.</p>
+                
+                <ul style="margin-left: 1.5rem; list-style-type: disc;">
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>Languages &amp; Core:</strong> Python (OOP, Functional, Multiprocessing), Bash, Linux, HPC Workload Management (Slurm).
+                    </li>
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>Cloud &amp; Infrastructure:</strong> Google Cloud Platform (GKE, Compute Engine, Cloud Run, Artifact Registry, IAM, FinOps, Cloud NAT/Router), Platform Automation (<code>gcloud</code> CLI), Docker, Containerization.
+                    </li>
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>DevOps &amp; Quality Assurance:</strong> CI/CD, GitHub Actions, Pytest, Tox, Code Quality (Flake8, isort), Sphinx, Production-Grade Concurrent Logging.
+                    </li>
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>Data Science &amp; Cheminformatics:</strong> RDKit, Pandas, NumPy, SciPy, Numba, Anaconda.
+                    </li>
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>Structural Biology &amp; Modeling:</strong> BioPython, pdb-tools, ProDy, PyMOL, Yasara, PRAS, OpenMM, Vina, Smina, IDPConformerGenerator. <strong>Deep expertise in automated ligand-protein cleaning and preparation for high-throughput production pipelines.</strong>
+                    </li>
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>Biomolecular NMR Spectroscopy:</strong> 2D/3D &amp; FAST NMR acquisition and calibration. Advanced data analysis including Paramagnetic NMR (PRE, PCS), RDCs, and FRET. Triple-isotope labeling (2H, 13C, 15N).
+                    </li>
+                    <li style="margin-bottom: 0.6rem;">
+                        <strong>Wet-Lab &amp; Protein Biochemistry:</strong> Recombinant protein expression (E. coli), vector/plasmid preparation (PCR, recombination), FPLC purification (affinity, ion-exchange, refolding), protein functionalization (disulfide tagging), dialysis, and gel electrophoresis.
+                    </li>
+                    <li>
+                        <strong>Databases, Tools &amp; AI:</strong> MongoDB, Redis, Git, Vim, AI-Assisted Development (Advanced Prompt Engineering, Gemini, LLM Agents).
+                    </li>
+                </ul>
+            </div>
+        </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -560,17 +666,10 @@
 
 
 
-
-
-
-
-
-
-
 <section id="research">
             <h2><a href="#research" class="anchor-link">Research</a></h2>
             <div class="about-text" style="margin-bottom: 2rem;">
-                <p>I am passionate about understanding the <strong>role of protein's flexibility</strong> in <strong>life and disease</strong>: <em>Protein flexibility</em> includes structural adaptation, coordinated multi-domain motions, flexible linkers, disordered regions, and fully disordered proteins. On the other hand, the <em>processes of life and disease</em> include: cell signaling, catalysis, inhibition, activation, coordination, condensation, and many others. Therefore, structural dynamics is intrinsic and necessary to all biomolecules.</p>
+                <p>I am passionate about understanding the <strong>role of protein's flexibility</strong> in <strong>life and disease</strong>: <em>Protein flexibility</em> includes structural adaptation, coordinated multi-domain motions, flexible linkers, disordered regions, and fully disordered proteins. On the other hand, the <em>processes of life and disease</em> include: cell signaling, catalysis, inhibition, activation, coordination, condensation, and many others. Therefore, structural dynamics is intrinsic and necessary to all biological processes.</p>
                 <p>Below is a short description of my main research topics. Here, the most relevant articles are highlighted but all my papers are listed in the <a href="#papers">publications</a> section.</p>
             </div>
 
@@ -582,7 +681,7 @@
             <div class="cv-item">
                 <h3 class="cv-item-title" style="margin-bottom: 0.5rem; color: var(--primary-dark);">Modeling Intrinsically Disordered Proteins</h3>
                 
-                <p style="margin-bottom: 0.8rem;">Working with <a href="http://biochemistry.utoronto.ca/person/julie-d-forman-kay/" target="_blank" rel="noopener noreferrer">Dr. Julie Forman-Kay</a> and <a href="https://thglab.berkeley.edu/" target="_blank" rel="noopener noreferrer">Dr. Teresa Head-Gordon</a>, we developed a comprehensive software framework to model proteins with <strong>high conformational heterogeneity</strong>. Our approach integrated experimental data (NMR, SAXS, FRET, etc.), Bayesian inference, machine learning, and statistical sampling incorporating state-of-the-art knowledge of intrinsically disordered proteins (IDPs).</p>
+                <p style="margin-bottom: 0.8rem;">Accurately representing the structural ensembles of intrinsically disordered proteins (IDPs) remains a major challenge in computational biology due to their highly dynamic nature. To address this, we developed a comprehensive software framework to model proteins with <strong>high conformational heterogeneity</strong>. Our approach integrated experimental data (NMR, SAXS, FRET, etc.), Bayesian inference, machine learning, and statistical sampling incorporating state-of-the-art knowledge of IDPs.</p>
             <ul style="margin-left: 1.5rem; margin-bottom: 0.8rem; list-style-type: disc;">
             <li style="margin-bottom: 0.5rem;">
                         <strong>IDPConformerGenerator:</strong> I developed the core engine for this modular, open-source suite [<a href="https://github.com/julie-forman-kay-lab/IDPConformerGenerator" target="_blank" rel="noopener noreferrer">1</a>, <a href="https://pubmed.ncbi.nlm.nih.gov/36030416/" target="_blank" rel="noopener noreferrer">2</a>, <a href="https://academic.oup.com/bioinformatics/article/39/12/btad739/7461184" target="_blank" rel="noopener noreferrer">3</a>]. By integrating PDB-derived fragment sampling, Monte Carlo algorithms, and machine learning, it rapidly generates physically realistic ensembles of large disordered proteins—achieving experimental agreement comparable to molecular dynamics simulations, but at a fraction of the computational cost.
@@ -601,7 +700,7 @@
             <div class="cv-item">
                 <h3 class="cv-item-title" style="margin-bottom: 0.5rem; color: var(--primary-dark);">Fuzzy interactions regulating Src Family Kinases</h3>
                 
-                <p style="margin-bottom: 0.8rem;">At the <a href="http://bionmr.ub.edu/index.php" target="_blank" rel="noopener noreferrer">BioNMR</a> group in Barcelona, <strong>we described a new regulatory mechanism for Src Family Kinases (SFK)</strong>, whose activity is governed by the contraction and expansion of domains via localized phosphorylations on the unstructured domains.</p>
+                <p style="margin-bottom: 0.8rem;">Src Family Kinases (SFKs) are essential signaling switches in the cell, and understanding their precise regulation is key to targeting various oncogenic pathways. In this context, <strong>we described a new regulatory mechanism for SFKs</strong>, whose activity is governed by the contraction and expansion of domains via localized phosphorylations on the unstructured domains.</p>
                 
                 <ul style="margin-left: 1.5rem; margin-bottom: 0.8rem; list-style-type: disc;">
                     <li style="margin-bottom: 0.5rem;">
@@ -620,8 +719,8 @@
 
             <div class="cv-item">
                 <h3 class="cv-item-title" style="margin-bottom: 0.5rem; color: var(--primary-dark);">Role of MMP linkers in collagenolysis</h3>
-                <p style="margin-bottom: 0.8rem;">During my Ph.D., we described how the MMP's <strong>flexible linker</strong> orchestrates the relative movements of MMP's catalytic and hemopexin folded domains by poising them favorably to cleave the triple helical collagen—a process necessary for the metastatic progression of tumor cells [<a href="https://doi.org/10.1016/j.febslet.2011.09.020" target="_blank" rel="noopener noreferrer">1</a>, <a href="https://doi.org/10.1074/jbc.M113.477240" target="_blank" rel="noopener noreferrer">2</a>].</p>
-                <p>My work was one of the first to combine several NMR techniques, crystallography, and software from the <a href="https://www.wenmr.eu/" target="_blank" rel="noopener noreferrer">We-NMR</a> consortium to solve a large biochemical unknown and provide models for MMP-1 free, and collagen-bound, <strong>in solution</strong>. This research was highlighted in the first issue of the <a href="https://drive.google.com/file/d/1pX56zTt4AyYNVdooSSJU0mlsq-7tVQQI" target="_blank" rel="noopener noreferrer">paraNMR FP-7 letters</a>, and you can download my Ph.D. thesis from <a href="http://bit.ly/jmctPhDThesis" target="_blank" rel="noopener noreferrer">ResearchGate</a> where the MMP-1:Collagen models are presented. I am also the author of the <a href="#books">MMP-1 dedicated chapter</a> in the Handbook of Proteolytic Enzymes, 2024.</p>
+                <p style="margin-bottom: 0.8rem;">Matrix metalloproteinases (MMPs) are essential for extracellular matrix remodeling, but their uncontrolled activity is a key driver of tumor metastasis. In this research, we described how the MMP's <strong>flexible linker</strong> orchestrates the relative movements of MMP's catalytic and hemopexin folded domains by poising them favorably to cleave the triple helical collagen—a process necessary for the metastatic progression of tumor cells [<a href="https://doi.org/10.1016/j.febslet.2011.09.020" target="_blank" rel="noopener noreferrer">1</a>, <a href="https://doi.org/10.1074/jbc.M113.477240" target="_blank" rel="noopener noreferrer">2</a>].</p>
+                <p>My work was one of the first to combine paramagnetic NMR techniques, crystallography, SAXS, and software from the <a href="https://www.wenmr.eu/" target="_blank" rel="noopener noreferrer">We-NMR</a> consortium to solve a large biochemical unknown and provide models for MMP-1 in both its free and collagen-bound states <strong>in solution</strong>. This research was highlighted in the first issue of the <a href="https://drive.google.com/file/d/1pX56zTt4AyYNVdooSSJU0mlsq-7tVQQI" target="_blank" rel="noopener noreferrer">paraNMR FP-7 letters</a>, and the MMP-1:Collagen solution models—<em>the first time this large and dynamic macromolecular complex was modeled in solution</em>—are presented in my <a href="http://bit.ly/jmctPhDThesis" target="_blank" rel="noopener noreferrer">Ph.D. thesis</a>. I am also the author of the <a href="https://shop.elsevier.com/books/handbook-of-proteolytic-enzymes/rawlings/978-0-443-28849-4" target="_blank" rel="noopener noreferrer">MMP-1 dedicated chapter</a> in the Handbook of Proteolytic Enzymes, 2024.</p>
             </div>
 
             <div class="cv-item">
@@ -642,7 +741,6 @@
             </div>
 
         </section>
-
 
 
 
@@ -1007,7 +1105,7 @@
             <h2><a href="#talks" class="anchor-link">Talks, Teaching, and Workshops</a></h2>
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Finding enzymes: horizontal scaling on Google Cloud</span>
+                    <span class="cv-talk-title">Finding enzymes: horizontal scaling on Google Cloud</span>
                     <span class="cv-item-date">2025</span>
                 </div>
                 <p>Google Cloud Summit Madrid 2025. <strong>Invited Talk.</strong></p><p> <a href="https://www.linkedin.com/posts/joaomcteixeira_googlecloudsummit25-biomatchmaker-activity-7332765481415741441-a5Ix?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAljpI8BZO4swzBVy9LjN6q8uyH2kgiDDRI" target="_blank" rel="noopener noreferrer">Post on LinkedIn</a></p>
@@ -1015,7 +1113,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">From modeling multidomain proteins with HADDOCK2 to building HADDOCK3.</span>
+                    <span class="cv-talk-title">From modeling multidomain proteins with HADDOCK2 to building HADDOCK3.</span>
                     <span class="cv-item-date">2023</span>
                 </div>
                 <p>20 Years of HADDOCK, Huizen, The Netherlands.</p><p><a href="https://twitter.com/joaomcteixeira/status/1723830437376623028" target="_blank" rel="noopener noreferrer">X.com</a> | <a href="https://www.linkedin.com/posts/joaomcteixeira_over-the-last-days-we-have-been-celebrating-activity-7129782080850247680-O4HJ/" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://bit.ly/20YRSHDK" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1023,7 +1121,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Modular code for a modular software: developing HADDOCK3.</span>
+                    <span class="cv-talk-title">Modular code for a modular software: developing HADDOCK3.</span>
                     <span class="cv-item-date">2022</span>
                 </div>
                 <p><a href="https://instruct-eric.eu/" target="_blank" rel="noopener noreferrer">INSTRUCT-ERIC</a> Software Developers Exchange Webinar 5. <strong>Invited Talk.</strong> </p><p><a href="https://instruct-eric.eu/content/instruct-software-developers-exchange-webinar-series" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://twitter.com/joaomcteixeira/status/1529025387224768512" target="_blank" rel="noopener noreferrer">X.com</a> | <a href="https://www.linkedin.com/posts/joaomcteixeira_software-developer-exchange-5-modular-activity-6942532657725513728-hi9h/?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=5Uk1EvzCOIg" target="_blank" rel="noopener noreferrer">Youtube</a> | <a href="https://docs.google.com/presentation/d/1vW8CtNTLh0UDBjxsfz5f_Td8v-IEX6xY5SExv3SgpPk" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1031,7 +1129,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Introducing HADDOCK3: Enabling modular integrative modelling pipelines.</span>
+                    <span class="cv-talk-title">Introducing HADDOCK3: Enabling modular integrative modelling pipelines.</span>
                     <span class="cv-item-date">2022</span>
                 </div>
                 <p><a href="https://bioexcel.eu/" target="_blank" rel="noopener noreferrer">BioExcel</a> Webinar. <strong>Invited Talk.</strong></p><p><a href="https://bioexcel.eu/webinar-introducing-haddock3-enabling-modular-integrative-modelling-pipelines-2022-05-24/" target="_blank" rel="noopener noreferrer">Website</a> | <a href="https://twitter.com/joaomcteixeira/status/1531942717726593025" target="_blank" rel="noopener noreferrer">X.com</a> | <a href="https://www.linkedin.com/posts/joaomcteixeira_bioexcel-webinar-67-introducing-haddock3-activity-6942780130758959104-Losw?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://www.youtube.com/watch?v=V7uwFbVDKFE" target="_blank" rel="noopener noreferrer">Youtube</a> | <a href="https://docs.google.com/presentation/d/1C8KngBXWAF-6FJkP7DH-j6E1LKwYzqtwS2SSS_g-riM" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1039,7 +1137,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Introducing HADDOCK3, Enabling modular integrative modelling pipelines.</span>
+                    <span class="cv-talk-title">Introducing HADDOCK3, Enabling modular integrative modelling pipelines.</span>
                     <span class="cv-item-date">2022</span>
                 </div>
                 <p>NMR Meeting at Utrecht University.</p><p><a href="https://docs.google.com/presentation/d/1HLmxHFCR4vhDPYpdVbCrpdEOkEqPw3l_5VK1yTSALcA" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1047,7 +1145,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Effective open-science practices for organizing a scientific software repository - extended.</span>
+                    <span class="cv-talk-title">Effective open-science practices for organizing a scientific software repository - extended.</span>
                     <span class="cv-item-date">2022</span>
                 </div>
                 <p>International Symposium on Grids &amp; Clouds (ISGC). <strong>Talk</strong>, Virtual Conference.</p><p><a href="https://docs.google.com/document/d/1dZ4XsI7UahdoSINcNuOiH8T_bZtaHDUMDc1-4qcFDQk" target="_blank" rel="noopener noreferrer">Abstract</a> | <a href="https://docs.google.com/presentation/d/1phdI7Q0aiK1dwh7TAcvNqlGVObWLq__WuZ-TUD5XRfM" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1055,7 +1153,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Effective open-science practices for organizing a scientific software repository - short.</span>
+                    <span class="cv-talk-title">Effective open-science practices for organizing a scientific software repository - short.</span>
                     <span class="cv-item-date">2021</span>
                 </div>
                 <p>OSCU Open Science Symposium - Faculty of Science, Utrecht University, Netherlands. <strong>Talk</strong>.</p><p><a href="https://osf.io/ghfbr/" target="_blank" rel="noopener noreferrer">Slides on OSF</a> | <a href="https://docs.google.com/presentation/d/1rD5H7Eps5LHKQAhu21KFywDxbKawOalfXWVDYVVTL0U" target="_blank" rel="noopener noreferrer">Slides on GDrive</a></p>
@@ -1063,7 +1161,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Protein docking.</span>
+                    <span class="cv-talk-title">Protein docking.</span>
                     <span class="cv-item-date">2021</span>
                 </div>
                 <p>EMBL-EBI Structural Bioinformatics virtual course. <strong>Hands-on Session tutor.</strong></p>
@@ -1071,7 +1169,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Modelling Intrinsically Disorder Proteins by experimental data.</span>
+                    <span class="cv-talk-title">Modelling Intrinsically Disorder Proteins by experimental data.</span>
                     <span class="cv-item-date">2021</span>
                 </div>
                 <p>SickKids Postdoctoral Seminar Series. <strong>Invited Talk.</strong></p><p><a href="https://drive.google.com/file/d/1RVlCoFocpvsZp813mqZmGIrJnthC-EFe" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1079,7 +1177,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">A summary of the Farseer-NMR project and its current state.</span>
+                    <span class="cv-talk-title">A summary of the Farseer-NMR project and its current state.</span>
                     <span class="cv-item-date">2019</span>
                 </div>
                 <p>Invited Researcher at SickKids, Toronto, Canada. <strong>Talk.</strong> Hosted by: <a href="http://biochemistry.utoronto.ca/person/julie-d-forman-kay/" target="_blank" rel="noopener noreferrer">Dr Julie Forman-Kay</a>.</p><p><a href="https://www.researchgate.net/publication/331629989_A_summary_of_the_Farseer-NMR_project_and_its_current_state" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1087,7 +1185,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction.</span>
+                    <span class="cv-talk-title">Lyn's natural isoforms display different fuzzy complexes in UD-SH3 interaction.</span>
                     <span class="cv-item-date">2019</span>
                 </div>
                 <p>Invited Researcher at SickKids, Toronto, Canada. <strong>Talk.</strong> Hosted by: <a href="http://biochemistry.utoronto.ca/person/julie-d-forman-kay/" target="_blank" rel="noopener noreferrer">Dr Julie Forman-Kay</a>.</p><p><a href="https://www.researchgate.net/publication/331629943_Lyn's_natural_isoforms_display_different_fuzzy_complexes_in_UD-SH3_interaction" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1095,7 +1193,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data – knowledge exchange within the community.</span>
+                    <span class="cv-talk-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data – knowledge exchange within the community.</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>NMR Groups at Utrecht University and Leiden, The Netherlands. <strong>Organizer and lecturer.</strong> Hosted by: <a href="https://www.uu.nl/medewerkers/HvanIngen" target="_blank" rel="noopener noreferrer">Dr Hugo van Ingen</a>.</p><p><a href="https://drive.google.com/file/d/1tyQMquDDHZA8pUKnYjNUraR3fBe0hgFI/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a> | <a href="https://www.researchgate.net/publication/328108180_Workshop_at_Utrecht_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data" target="_blank" rel="noopener noreferrer">DOI</a></p>
@@ -1103,7 +1201,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data.</span>
+                    <span class="cv-talk-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data.</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>Parc Cientific de Barcelona, CCiTUB, University of Barcelona, Spain. <strong>Organizer and lecturer.</strong> Hosted by: NMR Facility of the University of Barcelona.</p><p><a href="https://drive.google.com/file/d/1BpIJOeNH6Gxsd0bD6h1jHypfIYaMuD0W/view?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a> | <a href="https://www.researchgate.net/publication/325796312_Farseer-NMR_automatic_treatment_analysis_and_plotting_of_large_multi-variable_BioNMR_data" target="_blank" rel="noopener noreferrer">DOI</a></p>
@@ -1111,7 +1209,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.</span>
+                    <span class="cv-talk-title">Cis-trans proline isomers and ligand binding in the catalytic domain of Calcineurin.</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>Open seminar, RMBLab, Protein Biophysical Chemistry Group, University of Coimbra, Portugal. <strong>Invited Talk.</strong></p><p><a href="https://drive.google.com/file/d/1iZvg8KxxpR3dy8UahWicgrCaZPSPjJqp" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1119,7 +1217,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data</span>
+                    <span class="cv-talk-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>Nuclear Magnetic Resonance Spectroscopy Facility, Faculdade de Ciências e Tecnologia, Universidade Nova de Lisboa, Portugal. <strong>Organizer and lecturer.</strong> Hosted by: <a href="https://docentes.fct.unl.pt/ejc/" target="_blank" rel="noopener noreferrer">Dr Eurico J Cabrita</a>.</p><p><a href="https://drive.google.com/file/d/157u0EmmcTUKytak7mKFB0v8ij-bYT3Ip" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1127,7 +1225,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data</span>
+                    <span class="cv-talk-title">Farseer-NMR: automatic treatment, analysis and plotting of large scale, multi-variable BioNMR data</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>Seminar and Hands-on Session at the Workshop NMR FOCUS, <a href="http://ptnmr.web.ua.pt/" target="_blank" rel="noopener noreferrer">PTNMR</a>, University of Coimbra, Portugal. <strong>Organizer and lecturer.</strong> Hosted by: <a href="https://www.uc.pt/fctuc/dquimica/rbritolab/members/rmb" target="_blank" rel="noopener noreferrer">Dr Rui Brito</a>.</p><p><a href="https://drive.google.com/file/d/157u0EmmcTUKytak7mKFB0v8ij-bYT3Ip" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1135,7 +1233,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">2D- and 3D-NMR Processing and Analysis with introduction to CCPNMR Analysis Suite v2.4.</span>
+                    <span class="cv-talk-title">2D- and 3D-NMR Processing and Analysis with introduction to CCPNMR Analysis Suite v2.4.</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>Hands-on Session at the Workshop NMR FOCUS, <a href="http://ptnmr.web.ua.pt/" target="_blank" rel="noopener noreferrer">PTNMR</a>, University of Coimbra, Portugal. <strong>Lecture at workshop.</strong> Hosted by: <a href="https://www.uc.pt/fctuc/dquimica/rbritolab/members/rmb" target="_blank" rel="noopener noreferrer">Dr Rui Brito</a>.</p>
@@ -1143,7 +1241,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Chemical Shift Perturbation – Protein Based Studies</span>
+                    <span class="cv-talk-title">Chemical Shift Perturbation – Protein Based Studies</span>
                     <span class="cv-item-date">2018</span>
                 </div>
                 <p>Workshop NMR FOCUS, <a href="http://ptnmr.web.ua.pt/" target="_blank" rel="noopener noreferrer">PTNMR</a>, University of Coimbra, Portugal. <strong>Lecture at workshop.</strong> Hosted by: <a href="https://www.uc.pt/fctuc/dquimica/rbritolab/members/rmb" target="_blank" rel="noopener noreferrer">Dr Rui Brito</a>.</p>
@@ -1151,7 +1249,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Automated NMR data treatment of simple and complex experimental datasets.</span>
+                    <span class="cv-talk-title">Automated NMR data treatment of simple and complex experimental datasets.</span>
                     <span class="cv-item-date">2017</span>
                 </div>
                 <p>1 minute flash-presentation at CECAM Workshop, Paris, France. <strong>Talk.</strong></p><p><a href="https://drive.google.com/file/d/1ExXvfZm9URegwFDgGdLPh3uPUB22JJJG" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1159,7 +1257,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">The concept of Farseer-NMR: automatic treatment and plotting of lage-scale NMR titration data.</span>
+                    <span class="cv-talk-title">The concept of Farseer-NMR: automatic treatment and plotting of lage-scale NMR titration data.</span>
                     <span class="cv-item-date">2017</span>
                 </div>
                 <p>Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain. <strong>Organizer and Speaker.</strong></p>
@@ -1167,7 +1265,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Introductory workshops on Farseer-NMR Software.</span>
+                    <span class="cv-talk-title">Introductory workshops on Farseer-NMR Software.</span>
                     <span class="cv-item-date">2017</span>
                 </div>
                 <p><a href="https://www.cicbiogune.es/" target="_blank" rel="noopener noreferrer">CIC bioGUNE Institute</a>, Spain. <strong>Organizer and Speaker.</strong> Hosted by: <a href="https://www.cicbiogune.es/people/jjbarbero" target="_blank" rel="noopener noreferrer">Jesús Jiménez-Barbero</a>.</p><p><a href="https://drive.google.com/file/d/1dpwutInEY4BFIva-6IBDjWFn8TgOu6s_" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1175,7 +1273,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Analysis of Calcineurin’s structure and conformational changes via methionine labelling NMR spectroscopy.</span>
+                    <span class="cv-talk-title">Analysis of Calcineurin’s structure and conformational changes via methionine labelling NMR spectroscopy.</span>
                     <span class="cv-item-date">2016</span>
                 </div>
                 <p>Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain. <strong>Talk.</strong></p><p><a href="https://drive.google.com/file/d/1iZvg8KxxpR3dy8UahWicgrCaZPSPjJqp" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1183,7 +1281,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">On the ‘tectonics’ of MMP-1 catalyzed collagenolysis: joint use of paramagnetic NMR and computational tools.</span>
+                    <span class="cv-talk-title">On the ‘tectonics’ of MMP-1 catalyzed collagenolysis: joint use of paramagnetic NMR and computational tools.</span>
                     <span class="cv-item-date">2014</span>
                 </div>
                 <p>Barcelona Biomed Seminars, Parc Scientific de la Universitat de Barcelona, Spain. <strong>Talk.</strong></p><p><a href="https://drive.google.com/file/d/1lIPx_kjPaYEjzngZc5vRU04Qd-7ePXmW" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1191,7 +1289,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1</span>
+                    <span class="cv-talk-title">Joint use of NMR and bioinformatic tools to unveil the dynamics and the ‘tectonic’ enzymatic mechanism of MMP-1</span>
                     <span class="cv-item-date">2013</span>
                 </div>
                 <p>EJIBCE, Oporto, Portugal. <strong>Talk.</strong></p><p><a href="https://drive.google.com/file/d/1uD-_iTHqtrJLQUpMxnqBYIKH062drlE1" target="_blank" rel="noopener noreferrer">Slides</a></p>
@@ -1199,7 +1297,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">MMP-1: intradomain mobility and substract interaction.</span>
+                    <span class="cv-talk-title">MMP-1: intradomain mobility and substract interaction.</span>
                     <span class="cv-item-date">2013</span>
                 </div>
                 <p>Visiting researcher at the NMR Spectroscopy Research Group, Utrech University, The Netherlands. <strong>Talk.</strong></p>
@@ -1207,7 +1305,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Molecular Biology preparation of paramagnetic equipped MMP-1.</span>
+                    <span class="cv-talk-title">Molecular Biology preparation of paramagnetic equipped MMP-1.</span>
                     <span class="cv-item-date">2012</span>
                 </div>
                 <p>Ph.D. Day 3, University of Florence, Italy. <strong>Talk.</strong></p>
@@ -1215,7 +1313,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Characterizing MMP-1 Internal Dynamics.</span>
+                    <span class="cv-talk-title">Characterizing MMP-1 Internal Dynamics.</span>
                     <span class="cv-item-date">2011</span>
                 </div>
                 <p>IX Annual Meeting of CNC – Center for Neuroscience and Cell Biology, Coimbra, Portugal. <strong>Talk.</strong></p>
@@ -1265,7 +1363,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">IDPConformerGenerator: A Flexible Software Suite for Sampling the Conformational Space of Disordered Protein States</span>
+                    <span class="cv-talk-title">IDPConformerGenerator: A Flexible Software Suite for Sampling the Conformational Space of Disordered Protein States</span>
                     <span class="cv-item-date">2023</span>
                 </div>
                 <p>67th Biophysical Society Annual Meeting, San Diego CA USA. <a href="https://drive.google.com/file/d/1oZsPwGblYuYoyOVXAfQKZFyD1zeES4_O" target="_blank" rel="noopener noreferrer">Poster</a></p>
@@ -1273,7 +1371,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Effectively developing, distributing, and managing a Python package with a large community</span>
+                    <span class="cv-talk-title">Effectively developing, distributing, and managing a Python package with a large community</span>
                     <span class="cv-item-date">2022</span>
                 </div>
                 <p>ISMB/BOSC, virtual. <a href="https://docs.google.com/document/d/1bKrCh8KTPW-yQ1oPjdY2e-aznNwo-IdE5qpf5OGooUk" target="_blank" rel="noopener noreferrer">Abstract</a> | <a href="https://docs.google.com/drawings/d/1hdG7GC4BwFmNrXEH0s4-jexm0cDUPsmOoc8idr7GOTw" target="_blank" rel="noopener noreferrer">Poster</a> | <a href="https://www.linkedin.com/posts/joaomcteixeira_bosc-2022-best-practices-ci-poster-activity-6953258085830291456-UkBu?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
@@ -1281,7 +1379,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Introducing HADDOCK v3: A rebuilt, renewed, modern, extensible, and modular version</span>
+                    <span class="cv-talk-title">Introducing HADDOCK v3: A rebuilt, renewed, modern, extensible, and modular version</span>
                     <span class="cv-item-date">2022</span>
                 </div>
                 <p>Bijvoet Symposium, Utrecht, The Netherlands. <a href="https://docs.google.com/drawings/d/1m7xRsesqtECEgzdQUytcYG6GopRgDSdOWcBSsIXv5s0" target="_blank" rel="noopener noreferrer">Poster</a></p>
@@ -1289,7 +1387,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Introducing HADDOCK v3: A rebuilt, renewed, modern, extensible, and modular version</span>
+                    <span class="cv-talk-title">Introducing HADDOCK v3: A rebuilt, renewed, modern, extensible, and modular version</span>
                     <span class="cv-item-date">2021</span>
                 </div>
                 <p>EMBO-Workshop: Advances and challenges in biomolecular simulations. <a href="https://docs.google.com/drawings/d/1CLHBuumsDkNOdyTixVd93lOUEHUmdKZIDoXGItmqz90" target="_blank" rel="noopener noreferrer">Poster</a></p>
@@ -1297,7 +1395,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">pdb-tools: a swiss army knife for molecular structures</span>
+                    <span class="cv-talk-title">pdb-tools: a swiss army knife for molecular structures</span>
                     <span class="cv-item-date">2019</span>
                 </div>
                 <p>ISMB/ECCB, Basel, Switzerland. <strong>Best poster prize.</strong> <a href="https://f1000research.com/posters/8-1173" target="_blank" rel="noopener noreferrer">F1000 poster publication</a></p>
@@ -1305,7 +1403,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Automated NMR Data treatment of simple and complex experimental datasets</span>
+                    <span class="cv-talk-title">Automated NMR Data treatment of simple and complex experimental datasets</span>
                     <span class="cv-item-date">2017</span>
                 </div>
                 <p>CECAM Workshop: “Disordered protein segments: revisiting the structure-function paradigm”, Paris, France. <a href="https://drive.google.com/file/d/1BxqnsPEFGO2Zr3yCHPObbT08CB0i4ydN" target="_blank" rel="noopener noreferrer">Poster</a></p>
@@ -1313,7 +1411,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Fuzzy intramolecular interactions in Src family kinases</span>
+                    <span class="cv-talk-title">Fuzzy intramolecular interactions in Src family kinases</span>
                     <span class="cv-item-date">2017</span>
                 </div>
                 <p>EUROMAR, Warsaw, Poland.</p>
@@ -1321,7 +1419,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Farseer - Automatic treatment, calculation and plotting of NMR data. Reducing weeks to seconds</span>
+                    <span class="cv-talk-title">Farseer - Automatic treatment, calculation and plotting of NMR data. Reducing weeks to seconds</span>
                     <span class="cv-item-date">2016</span>
                 </div>
                 <p>First All Hands Meeting of iNEXT (iNEXT AHM), Alcalá de Henares, Spain. <a href="https://drive.google.com/file/d/1hfneU3fJWgerhlbspdSptSChvKj5fHs3" target="_blank" rel="noopener noreferrer">Poster</a></p>
@@ -1329,7 +1427,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">A python tool to automatically treat, calculate and plot NMR-derived peaklists data</span>
+                    <span class="cv-talk-title">A python tool to automatically treat, calculate and plot NMR-derived peaklists data</span>
                     <span class="cv-item-date">2016</span>
                 </div>
                 <p>16th CCPN / CCPBioSim joint conference, Buxton, United Kingdom.</p>
@@ -1337,7 +1435,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">A python tool to instantly treat, calculate and plot NMR-derived peaklists data</span>
+                    <span class="cv-talk-title">A python tool to instantly treat, calculate and plot NMR-derived peaklists data</span>
                     <span class="cv-item-date">2016</span>
                 </div>
                 <p>8th GERMN/5th Iberian NMR Meeting, Valencia, Spain. <strong>Awarded Travel Fellowship from GERMN (RSEQ).</strong></p>
@@ -1345,7 +1443,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">A conserved aromatic-residue code shapes the intrinsically disordered Unique domain of c-Src</span>
+                    <span class="cv-talk-title">A conserved aromatic-residue code shapes the intrinsically disordered Unique domain of c-Src</span>
                     <span class="cv-item-date">2016</span>
                 </div>
                 <p>16th CCPN / CCPBioSim joint conference, Buxton, United Kingdom.</p>
@@ -1353,7 +1451,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">A conserved aromatic-residue code shapes the intrinsically disordered Unique domain of c-Src</span>
+                    <span class="cv-talk-title">A conserved aromatic-residue code shapes the intrinsically disordered Unique domain of c-Src</span>
                     <span class="cv-item-date">2016</span>
                 </div>
                 <p>EUROMAR, Aarhus, Denmark.</p>
@@ -1361,7 +1459,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Transient contacts in the instrinsically Disordered Unique Domain of c-Src</span>
+                    <span class="cv-talk-title">Transient contacts in the instrinsically Disordered Unique Domain of c-Src</span>
                     <span class="cv-item-date">2015</span>
                 </div>
                 <p>Chemical Complexity &amp; Biology, Strasbourg, France.</p>
@@ -1369,7 +1467,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">A C2HC zinc finger is essential for the activity of the RING ubiquitin ligase RNG125</span>
+                    <span class="cv-talk-title">A C2HC zinc finger is essential for the activity of the RING ubiquitin ligase RNG125</span>
                     <span class="cv-item-date">2015</span>
                 </div>
                 <p>EMBO Conference “Ubiquitin and ubiquitin-like modifiers: from molecular mechanisms to human diseases”, Cavtat, Croatia.</p>
@@ -1377,7 +1475,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Transient contacts in the instrinsically Disordered Unique Domain of c-Src</span>
+                    <span class="cv-talk-title">Transient contacts in the instrinsically Disordered Unique Domain of c-Src</span>
                     <span class="cv-item-date">2015</span>
                 </div>
                 <p>VII GERMN Biennal Meeting / IV Iberian NMR Meeting / VI Iberoamerican NMR Meeting, Alcalá de Henares, Spain.</p>
@@ -1385,7 +1483,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Paramagnetic analysis of collagenolysis by matrix metalloproteinase-1 (MMP-1)</span>
+                    <span class="cv-talk-title">Paramagnetic analysis of collagenolysis by matrix metalloproteinase-1 (MMP-1)</span>
                     <span class="cv-item-date">2014</span>
                 </div>
                 <p>EMBO Workshop – Magnetic Resonance for cellular structural biology, Grosseto, Italy.</p>
@@ -1393,7 +1491,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Interactions of an essential Zn-finger in the ubiquitin ligase RNF125</span>
+                    <span class="cv-talk-title">Interactions of an essential Zn-finger in the ubiquitin ligase RNF125</span>
                     <span class="cv-item-date">2014</span>
                 </div>
                 <p>4th Annual User group Meeting of BioNMR, Warsaw, Poland.</p>
@@ -1401,7 +1499,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">The interdomain mobility of MMP-1 and its mechanism of interaction with a collagen analogue explored by paramagnetic NMR</span>
+                    <span class="cv-talk-title">The interdomain mobility of MMP-1 and its mechanism of interaction with a collagen analogue explored by paramagnetic NMR</span>
                     <span class="cv-item-date">2013</span>
                 </div>
                 <p>5th CAPRI Evaluation Meeting, Utrecht, The Netherlands.</p>
@@ -1409,7 +1507,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Analysis of conformational heterogeneity in multidomain enzymes: the prologue of the collagenolysis mechanism</span>
+                    <span class="cv-talk-title">Analysis of conformational heterogeneity in multidomain enzymes: the prologue of the collagenolysis mechanism</span>
                     <span class="cv-item-date">2012</span>
                 </div>
                 <p>IV Ibero-American NMR Meeting – VI GERMN Bienal Meeting – III Iberian NMR Meeting, Aveiro, Portugal.</p>
@@ -1417,7 +1515,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">3D-view of MMP-1 conformational heterogeneity in solution: the prologue of the collagenolysis mechanism</span>
+                    <span class="cv-talk-title">3D-view of MMP-1 conformational heterogeneity in solution: the prologue of the collagenolysis mechanism</span>
                     <span class="cv-item-date">2012</span>
                 </div>
                 <p>12th Chianti/INSTRUCT Workshop on BioNMR. Electron and Nuclear Relaxation for Structural Biology, Montecatini Terme, Italy.</p>
@@ -1425,7 +1523,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">3D-view of MMP-1 conformational heterogeneity in solution: the prologue of the collagenolysis mechanism</span>
+                    <span class="cv-talk-title">3D-view of MMP-1 conformational heterogeneity in solution: the prologue of the collagenolysis mechanism</span>
                     <span class="cv-item-date">2012</span>
                 </div>
                 <p>Breakthroughs in NMR of Structural Biology - 2nd BioNMR Annual User Meeting, Portoroz, Slovenia.</p>
@@ -1433,7 +1531,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">3D-view of MMP-1 conformational heterogeneity in solution: the prologue to the collagenolysis mechanism</span>
+                    <span class="cv-talk-title">3D-view of MMP-1 conformational heterogeneity in solution: the prologue to the collagenolysis mechanism</span>
                     <span class="cv-item-date">2012</span>
                 </div>
                 <p>XXVth International Conference on Mangetic Resonance in Biological Systems, Lyon, France.</p>
@@ -1441,7 +1539,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Lanthanide binding CLaNP-5.2 for NMR of proteins: exploring PCS and RDCs in MMP-1 internal dynamics</span>
+                    <span class="cv-talk-title">Lanthanide binding CLaNP-5.2 for NMR of proteins: exploring PCS and RDCs in MMP-1 internal dynamics</span>
                     <span class="cv-item-date">2011</span>
                 </div>
                 <p>BioNMR and EAST-NMR Annual User Meeting, Brno, Czech Republic.</p>
@@ -1449,7 +1547,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Interaction of Ln3+-based MRI contrast agents with HSA using Saturation Transfer Difference NMR Techniques</span>
+                    <span class="cv-talk-title">Interaction of Ln3+-based MRI contrast agents with HSA using Saturation Transfer Difference NMR Techniques</span>
                     <span class="cv-item-date">2010</span>
                 </div>
                 <p>Joint EUROMAR and 17th ISMAR conference / Worldwide Magnetic Resonance conference, Florence, Italy.</p>
@@ -1457,7 +1555,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Study of the interaction of La3+ complexes of DOTA/DTPA-glycoconjugates with RCA120 using the High Resolution Saturation Transfer Difference (STD) NMR technique</span>
+                    <span class="cv-talk-title">Study of the interaction of La3+ complexes of DOTA/DTPA-glycoconjugates with RCA120 using the High Resolution Saturation Transfer Difference (STD) NMR technique</span>
                     <span class="cv-item-date">2009</span>
                 </div>
                 <p>COST Chemistry D38 “Metal Based Systems for Molecular Imaging Applications”, Warsaw, Poland.</p>
@@ -1465,7 +1563,7 @@
 
             <div class="cv-item">
                 <div class="cv-item-header">
-                    <span class="cv-item-title">Study of the interaction of Ln3+ complexes of BOPTA or DTPA-cholate with HSA and of DOTA/DTPA-glycoconjugates with RCA120 using the High Resolution Saturation Transfer Difference (STD) NMR technique</span>
+                    <span class="cv-talk-title">Study of the interaction of Ln3+ complexes of BOPTA or DTPA-cholate with HSA and of DOTA/DTPA-glycoconjugates with RCA120 using the High Resolution Saturation Transfer Difference (STD) NMR technique</span>
                     <span class="cv-item-date">2008</span>
                 </div>
                 <p>IV Reunión Bienal del GERM-I Reunión Iberica de RMN, Sevilla, Spain.</p>
@@ -2276,6 +2374,13 @@
 
 
 
+
+
+
+<!-- Closing Full-Width Photo -->
+        <section id="closing-photo" style="padding: 0; margin-bottom: 2rem; page-break-inside: avoid;">
+            <img src="desktop.jpeg" alt="João's desktop" style="width: 100%; height: auto; max-height: 400px; object-fit: cover; border-radius: 8px; display: block; filter: contrast(128%) grayscale(0%) hue-rotate(0deg) invert(0%) opacity(100%) saturate(120%) sepia(0%)">
+        </section>
 
 
 
